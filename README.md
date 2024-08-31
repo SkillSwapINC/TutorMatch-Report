@@ -29,3 +29,17 @@ width=50%"/>
 
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
+
+### Registro de Versiones del Informe
+| Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+|           |             |            |                                                                                                  |
+
+### Project Report Collaboration Insights
+
+### Student Outcome
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|[Conclusiones]|
+|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|[Conclusiones]|
+
