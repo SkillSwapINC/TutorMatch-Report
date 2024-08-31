@@ -142,6 +142,10 @@ prueba
 # Capítulo I: Introducción
 ### 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+<p style="text-align: justify;">
+TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de Ingeniería de Software de la UPC que buscan ofrecer o recibir tutorías en cursos específicos de su carrera. La plataforma permite a los estudiantes encontrar tutores capacitados que puedan ayudarlos en cursos de su carrera, organizados por ciclo y especialidad. TutorMatch facilita la conexión entre estudiantes, optimizando el proceso de aprendizaje y ayudando a mejorar el rendimiento académico en materias clave. </p>
+
 ### 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
