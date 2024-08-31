@@ -27,7 +27,6 @@ width=50%"/>
 |Lopez Huaman, Rodrigo Adrian|U202212338|
 |Meneses Arevalo, Victor Manuel|U202212191|
 
-prueba
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 ### Registro de Versiones del Informe
