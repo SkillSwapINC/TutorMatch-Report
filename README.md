@@ -145,9 +145,16 @@ width=50%"/>
 <p style="text-align: justify;">
 TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de Ingeniería de Software de la UPC que buscan ofrecer o recibir tutorías en cursos específicos de su carrera. La plataforma permite a los estudiantes encontrar tutores capacitados que puedan ayudarlos en cursos de su carrera, organizados por ciclo y especialidad. TutorMatch facilita la conexión entre estudiantes, optimizando el proceso de aprendizaje y ayudando a mejorar el rendimiento académico en materias clave. </p>
 
-### 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
+| Nombre                           | Descripción                                                                                                                                   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Alcántara Cruz, Rodrigo Alonso <br> <img src="Images/RodrigoAl.png" width="100"/>|[texto] |
+|Eric Fabrizio Agama Espinoza <br> <img src="Images/Eric.png" width="150"/> | Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.              |             |
+|              |          |
+| Elías Sanchez, Harold Miguel <br> <img src="Images/harold.png" width="150"/>      |[texto]  |
+| Lopez Huaman, Rodrigo Adrian <br> <img src="Images/Rodrigo.png" width="150"/>      | [texto] |
+| Meneses Arevalo, Victor Manuel <br> <img src="Images/Victor.png" width="150"/>     | [texto] |
+
 ### 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
