@@ -152,7 +152,7 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 |Eric Fabrizio Agama Espinoza <br> <img src="Images/Eric.png" width="150"/> | Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.              |             |
 |              |          |
 | Elías Sanchez, Harold Miguel <br> <img src="Images/harold.png" width="150"/>      |[texto]  |
-| Lopez Huaman, Rodrigo Adrian <br> <img src="Images/Rodrigo.png" width="150"/>      | [texto] |
+| Lopez Huaman, Rodrigo Adrian <br> <img src="Images/Rodrigo.png" width="150"/>      | Soy Rodrigo Adrián López Huamán, estudiante de sexto ciclo de Ingeniería de Software, tengo 19 años me considero un chico responsable y comprometido con mis actividades. Además, de ser una persona creativa y capaz de trabajar en equipo para alcanzar nuestras metas. También tengo habilidades en el manejo de conflictos, lo que me permite resolver situaciones difíciles de manera efectiva. Estoy emocionado de seguir aprendiendo y creciendo en esta carrera. |
 | Meneses Arevalo, Victor Manuel <br> <img src="Images/Victor.png" width="150"/>     | [texto] |
 
 ### 1.2. Solution Profile
