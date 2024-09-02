@@ -188,11 +188,15 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 # Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
-El diseño general de TutorMatch se enfoca en mantener una estética que combine profesionalismo y accesibilidad, al ser una plataforma dirigida a estudiantes universitarios de Ingeniería de Software de la UPC. 
+El diseño general de TutorMatch se enfoca en mantener una estética que combine profesionalismo y accesibilidad, al ser una plataforma dirigida a estudiantes universitarios de Ingeniería de Software de la UPC.
 # Branding
 TutorMatch busca consolidar una identidad visual que inspire confianza y refleje el compromiso académico de la plataforma. La marca debe equilibrar profesionalismo y modernidad, mostrando un enfoque centrado en el aprendizaje colaborativo. Los logotipos, íconos y otros elementos gráficos serán consistentes en todas las interfaces y materiales promocionales, reforzando la presencia de la marca de manera clara y efectiva.
+<br>
+<img src="Images/BrandingPhoto.png" width="300"/>
 # Typography
 La selección tipográfica se centra en fuentes sans-serif como Roboto por su modernidad, simplicidad y legibilidad. Estas fuentes son ideales para interfaces web donde la claridad es primordial. Las jerarquías tipográficas serán claras, utilizando distintos tamaños y pesos para diferenciar títulos, subtítulos y texto principal. De esta manera, se facilita la lectura y se optimiza la experiencia del usuario en la navegación de la plataforma.
+<br>
+<img src="Images/TypeRoboto.png" width="350"/>
 # Colors
 El esquema de colores de TutorMatch está cuidadosamente seleccionado para reflejar profesionalismo y dinamismo. Los colores principales incluyen:
 - EF496D (RGB 239, 73, 109): Este tono de rojo vibrante será utilizado en botones importantes, acciones destacadas, y otros elementos interactivos clave en la interfaz, como los llamados a la acción (CTAs).
@@ -201,7 +205,11 @@ El esquema de colores de TutorMatch está cuidadosamente seleccionado para refle
 - 70111E (RGB 112, 17, 30): Un tono profundo de rojo oscuro utilizado en encabezados, bordes o elementos que requieran atención sin ser intrusivos.
 - 313131 (RGB 49, 49, 49): Esté gris oscuro será el color de fondo predominante, proporcionando una base neutra que permite que los demás colores destaquen.
 - E33744 (RGB 227, 55, 68): Similar al EF496D, pero con un tono ligeramente más suave, este color se emplea en variaciones de botones y elementos interactivos, dando flexibilidad en el diseño sin perder coherencia visual.
+<br>
+<img src="Images/StyleColores.png" width="800"/>
+<br>
 Este esquema de colores logra un balance entre energía y estabilidad, ayudando a dirigir la atención de los usuarios a donde es más relevante sin ser visualmente abrumador.
+
 # Spacing
 Uno de los principios fundamentales del diseño en TutorMatch es el uso adecuado del espaciado. El espaciado generoso entre elementos asegura una interfaz despejada y fácil de navegar. Cada sección, botón y bloque de texto tendrá márgenes y paddings definidos que permitan una experiencia visual relajada y sin saturaciones. Este enfoque también mejora la legibilidad y guía al usuario de manera intuitiva por la plataforma.
 
