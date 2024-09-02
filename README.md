@@ -217,6 +217,37 @@ Uno de los principios fundamentales del diseño en TutorMatch es el uso adecuado
 El tono de comunicación de TutorMatch adopta un estilo Formal/Casual y Respetuoso/Entusiasta. Es formal en el sentido de que respeta el contexto académico en el que se encuentra, pero también se busca que sea accesible y amigable para los estudiantes. La plataforma debe transmitir entusiasmo por el aprendizaje, manteniéndose respetuosa y alentadora. Este tono se refleja tanto en el contenido escrito como en los elementos visuales, que deberán ser acogedores y motivadores sin caer en la irreverencia.
 
 ### 4.1.2. Web Style Guidelines
+La guía de estilo web de TutorMatch define los estándares visuales y de interacción que aseguran una experiencia consistente y fluida en interfaces web responsivas. Esta guía proporciona lineamientos clave para diseñadores y desarrolladores, garantizando que la plataforma se adapte correctamente a diferentes dispositivos y tamaños de pantalla.
+
+# Colores
+- Fondo del sitio: Utiliza un fondo oscuro constante #1E1E1E para el cuerpo y secciones.
+- Textos: Los textos principales son blancos #ffffff, lo que asegura legibilidad sobre el fondo oscuro.
+- Colores destacados: Utilización de colores contrastantes para elementos destacados como botones y banners, como el rojo #FA002D y #BC012C.
+
+# Tipografía
+- Fuente principal: Se usa la fuente "Roboto", sans-serif para todo el sitio web, garantizando una experiencia visual coherente y moderna.
+- Tamaños de fuente:
+  - Títulos principales: Tamaños grandes y llamativos.
+  - Texto regular: Tamaños más pequeños y ajustados a la jerarquía de información.
+
+# Interacción
+- Hover y transiciones: Se aplican efectos de hover suaves y transiciones (ease-in-out, 0.3s, 0.5s) a elementos como botones, imágenes, y enlaces, lo que mejora la interactividad del usuario.
+- Botones: Los botones cambian de color o fondo cuando el usuario interactúa con ellos, indicando acción.
+- Escalabilidad: Las imágenes en los botones y logos aumentan de tamaño (scale) al hacer hover, mejorando la visibilidad y el impacto visual.
+
+# Diseño Responsive
+- Diseño basado en rejilla: Se utilizan sistemas de rejilla (grid-template-columns, repeat(auto-fit,minmax(...))) para organizar el contenido en múltiples dispositivos.
+- Adaptabilidad móvil: A través de media queries, los componentes cambian su disposición para pantallas más pequeñas, como la aparición de menús hamburguesa y el ajuste de márgenes y paddings.
+- Navbar: La barra de navegación es completamente responsive, adaptándose a pantallas más pequeñas mediante menús colapsables y visualización adaptativa.
+
+# Estilo de Componentes
+- Navbar: Barra de navegación fija en la parte superior, con fondo semi-transparente y desenfoque.
+- Banners: Se utilizan imágenes de fondo (background-image) y alineación centrada para destacar los bloques importantes.
+- Secciones: Uso de contenedores (containerH, containerM) que mantienen un ancho consistente del 90% y centrado en todo el contenido.
+
+# Accesibilidad
+- Contrastes altos: El uso de colores de texto claro sobre fondos oscuros asegura buena legibilidad y accesibilidad para todos los usuarios
+
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
