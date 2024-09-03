@@ -250,10 +250,44 @@ La guía de estilo web de TutorMatch define los estándares visuales y de intera
 
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+Los Sistemas de Organización se refieren a cómo agrupamos y estructuramos la información en la plataforma. Esto afecta la manera en que los usuarios experimentan el sitio y cómo interactúan con él. En nuestro caso, hemos decidido usar tres tipos de organización:
+  - Jerarquía Visual: Es cuando el contenido está organizado de mayor a menor importancia. En la página de inicio de TutorMatch, los elementos más importantes, como la búsqueda de tutores y los cursos más solicitados, estarán más visibles, mientras que la información secundaria estará en otras secciones.
+  - Organización Secuencial: Este enfoque es como una guía paso a paso. Lo usamos cuando el usuario debe seguir un proceso, como encontrar un tutor, programar una sesión y hacer el pago. Cada paso está claramente definido para que el usuario sepa exactamente qué hacer.
+  - Organización Matricial: Esto es útil cuando hay muchas opciones que se deben filtrar. En la sección de búsqueda de tutores, permitimos que los usuarios filtren según diferentes criterios como especialidad, nivel de curso o disponibilidad. Esto ayuda a que encuentren exactamente lo que necesitan sin perderse en un mar de opciones.
+
 ### 4.2.2. Labeling Systems
+
+Los Sistemas de Etiquetado son las etiquetas o palabras clave que usamos para identificar diferentes tipos de información. Es fundamental que las etiquetas sean claras y simples para evitar confusión. Esto implica usar etiquetas cortas y fáciles de entender. Por ejemplo:
+
+  - Los perfiles de tutores tendrán etiquetas como "Disponible" o "Especialidad."
+  - En lugar de usar descripciones largas para los cursos, utilizamos etiquetas simples como "Complejidad Algoritmica" o "Estructuras de Datos."
+
 ### 4.2.3. SEO Tags and Meta Tags
+Las SEO Tags y Meta Tags son fundamentales para hacer que nuestro sitio sea visible en los motores de búsqueda. Estas etiquetas ayudan a que los usuarios que busquen tutorías o cursos específicos puedan encontrarnos fácilmente en Google u otros buscadores. A continuación, algunos ejemplos de lo que incluimos:
+
+  - Título: "Encuentra Tutores en UPC | TutorMatch"
+  - Meta Descripción: Esta es una pequeña descripción que aparece en los resultados de búsqueda, como: "Conéctate con estudiantes de Ingeniería de Software en UPC que ofrecen tutorías en cursos clave como algoritmos y estructuras de datos."
+  - Palabras Clave: Incluimos palabras clave como "TutorMatch, tutores UPC, ayuda en ingeniería de software" para mejorar nuestra visibilidad.
+  - Autor: Indicamos el autor del sitio como "Equipo de TutorMatch."
+
 ### 4.2.4. Searching Systems
+
+Los Sistemas de Navegación definen cómo los usuarios se moverán por la plataforma. La idea es que puedan cumplir sus metas, como encontrar un tutor o registrarse como tal, de forma sencilla. Hemos diseñado la navegación de la siguiente manera:
+
+  - Barra de Navegación Principal: Esta es la típica barra en la parte superior de la pantalla que tiene enlaces a las secciones más importantes, como Inicio, Buscar un Tutor, Ofrecer Tutoría, y Contáctanos. Los usuarios podrán acceder a cualquier parte del sitio desde esta barra en cualquier momento.
+
+  - Navegación Móvil: Para los usuarios que ingresen desde un dispositivo móvil, utilizamos un menú tipo "hamburguesa" que se despliega cuando es necesario, optimizando el espacio en pantalla.
+
 ### 4.2.5. Navigation Systems
+Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que necesitan sin perderse. Hemos diseñado un sistema robusto para ayudar a los estudiantes a encontrar tutores o cursos específicos. Algunas características incluyen:
+
+  - Barra de Búsqueda Global: Esta barra permitirá a los usuarios escribir directamente lo que buscan, como "Base de Datos" o el nombre de un tutor. Está disponible en toda la plataforma.
+
+  - Filtros de Búsqueda: Después de realizar una búsqueda, los usuarios podrán filtrar los resultados por cosas como especialidad del tutor, calificaciones, o disponibilidad de horarios.
+
+  - Resultados Claros: Los resultados de la búsqueda se mostrarán en un formato fácil de entender, con información clave como el nombre del tutor, su especialización y su calificación, permitiendo a los usuarios hacer una elección rápida.
+
+
 ### 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
