@@ -290,7 +290,22 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 
 ### 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<img src="Images/LandingWireframe1.png" width="550"/>
+<img src="Images/LandingWireframe2.png" width="550"/>
+<img src="Images/LandingWireframe3.png" width="550"/>
+<img src="Images/LandingWireframe4.png" width="550"/>
+<img src="Images/LandingWireframe5.png" width="550"/>
+<br>
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="Images/LandingMock1.png" width="550"/>
+<img src="Images/LandingMock2.png" width="550"/>
+<img src="Images/LandingMock3.png" width="550"/>
+<img src="Images/LandingMock4.png" width="550"/>
+<br>
+
 ### 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
