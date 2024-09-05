@@ -179,7 +179,20 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 
 ### 2.3.2. User Task Matrix
 
-
+| TASK                                           | Tutor(a) FREQUENCY | Tutor(a) IMPORTANCE | Alumno(a) FREQUENCY | Alumno(a) IMPORTANCE |
+|------------------------------------------------|--------------------|---------------------|---------------------|----------------------|
+| Log in en la plataforma con su usuario UPC      | Always             | High                | Always              | High                 |
+| Crear perfil                                   | Always             | High                | Always              | High                 |
+| Gestionar disponibilidad de horarios           | Always             | High                | Always              | High                 |
+| Actualizar perfil                              | Sometimes          | Medium              | Sometimes           | Medium               |
+| Recibir notificaciones                         | Sometimes          | Medium              | Sometimes           | High                 |
+| Visualizar reseñas                             | Always             | High                | Always              | High                 |
+| Confirmar sesiones reservadas                  | Always             | High                | Always              | High                 |
+| Pagos en línea                                 | Always             | High                | Always              | High                 |
+| Buscar tutores en base a horarios disponibles  | Never              | Low                 | Always              | High                 |
+| Reservar sesiones                              | Never              | Low                 | Always              | High                 |
+| Realizar reseñas                               | Never              | Low                 | Always              | High                 |
+| Cancelación de sesión                          | Rarely             | Medium              | Sometimes           | Medium               |
 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
