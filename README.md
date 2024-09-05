@@ -178,6 +178,18 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
+En esta sección se presenta el **Ubiquitous Language**, una metodología que garantiza una comunicación clara y efectiva entre todos los miembros del equipo de desarrollo y los stakeholders mediante el uso de un vocabulario común. El Lenguaje Ubicuo se basa en un conjunto de términos y conceptos compartidos que se aplican de manera consistente a lo largo del desarrollo del software. A continuación, se detallan algunos términos y conceptos clave relacionados con TutorMatch:
+
+1. **Student (Estudiante)**: Un usuario que busca apoyo académico en cursos específicos y utiliza la plataforma para encontrar tutores que le ayuden a mejorar su rendimiento académico.
+2. **Tutor (Tutor)**: Un estudiante de ciclos superiores que ofrece sus conocimientos y habilidades en cursos específicos para ayudar a otros estudiantes, a cambio de una compensación o como parte de su desarrollo profesional.
+3. **Tutoring Session (Sesión de Tutoría)**: Un encuentro programado entre un tutor y un estudiante, que puede ser en línea o presencial, para recibir apoyo académico en un curso específico.
+4. **Subscription Plan (Plan de Suscripción)**: Las opciones de suscripción disponibles para los tutores, que definen el nivel de acceso a herramientas y visibilidad en la plataforma. Los planes incluyen Básico, Estándar y Premium.
+5. **Profile (Perfil)**: La información detallada de un tutor en la plataforma, que incluye experiencia, calificaciones y reseñas de otros estudiantes, diseñada para ayudar a los estudiantes a tomar decisiones informadas sobre la tutoría.
+6. **Search and Filter (Búsqueda y Filtrado)**: Las herramientas disponibles para los estudiantes que permiten buscar y filtrar tutores según la carrera, ciclo y curso específico, junto con la opción de ver calificaciones y reseñas.
+7. **Payment Platform (Plataforma de Pagos)**: La funcionalidad que facilita los pagos seguros y permite a los estudiantes gestionar sus pagos y facturas dentro de la plataforma.
+8. **User Experience (Experiencia de Usuario)**: El diseño de la plataforma que asegura una navegación intuitiva y un acceso fácil desde diferentes dispositivos, garantizando una experiencia fluida para todos los usuarios.
+9. **Security (Seguridad)**: Las medidas implementadas para proteger los datos personales y financieros de los usuarios, incluyendo cifrado y copias de seguridad automáticas.
+
 
 # Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
