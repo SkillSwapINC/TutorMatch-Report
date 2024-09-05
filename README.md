@@ -270,6 +270,30 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 
 ### 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+ ## Segmento 1
+Preguntas para estudiantes que requieren ayuda académica en cursos de Ingeniería de Software:
+  - ¿Cuáles son los cursos de Ingeniería de Software en los que necesitas más apoyo académico?
+  - ¿Qué desafíos específicos has enfrentado en estos cursos que te llevaron a buscar ayuda?
+  - ¿Cómo prefieres recibir tutoría? (Sesiones en línea, presenciales, individual o en grupo)
+  - ¿Qué consideras más importante en un tutor? (Conocimiento técnico, habilidades de comunicación, paciencia, etc.)
+  - ¿Has recibido tutorías anteriormente? Si es así, ¿qué es lo que más te gustó o no te gustó de la experiencia?
+  - ¿Con qué frecuencia necesitarías sesiones de tutoría para mejorar tu rendimiento académico?
+  - ¿Prefieres que el tutor sea un estudiante avanzado en tu carrera o un profesional?
+  - ¿Cuáles son tus expectativas de resultados al recibir tutoría en un curso específico?
+  - ¿Cómo te sentirías si la plataforma te conectara con tutores especializados en áreas concretas de Ingeniería de Software?
+  - ¿Qué tan probable es que recomiendes la plataforma a otros compañeros que también necesitan apoyo académico?
+  ## Segmento 2
+Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorías
+  - ¿Qué cursos de Ingeniería de Software consideras que dominas lo suficiente como para ofrecer tutorías?
+  - ¿Qué te motiva a ser tutor? (Ganar experiencia, ingresos, ayudar a otros estudiantes, etc.)
+  - ¿Cómo describirías tu estilo de enseñanza cuando ayudas a tus compañeros?
+  - ¿Qué herramientas o recursos utilizas para explicar conceptos difíciles?
+  - ¿Cómo manejarías a un estudiante que tiene dificultades para entender un tema específico?
+  - ¿Estarías dispuesto a realizar tutorías en línea, presenciales, o ambas?
+  - ¿Cómo organizarías y gestionarías tu tiempo entre tus estudios y tus sesiones de tutoría?
+  - ¿Qué esperas ganar de la experiencia de ser tutor en la plataforma?
+  - ¿Qué tipos de estudiantes crees que beneficiarán más de tus tutorías?
+  - ¿Cuáles son tus expectativas sobre la plataforma TutorMatch en términos de ayudarte a mejorar como tutor?
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ### 2.3 Needfinding
