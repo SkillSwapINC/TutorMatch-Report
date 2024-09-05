@@ -159,6 +159,26 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
+**Domain**: 
+TutorMatch es una plataforma web diseñada para estudiantes de Ingeniería de Software de la UPC que buscan ofrecer o recibir tutorías en cursos específicos de su carrera.
+
+**Customer Segments**: 
+- Estudiantes que necesitan apoyo académico en temas específicos de la carrera.
+- Estudiantes con habilidades destacadas que buscan enseñar a otros.
+
+**Pain Points**:
+- **Estudiantes que necesitan tutorías**: Dificultad para encontrar tutores especializados en los cursos de Ingeniería de Software de la UPC.
+- **Tutores**: Falta de una plataforma que facilite la conexión con estudiantes que necesitan apoyo en áreas específicas de su carrera.
+
+**Gap**:
+No existe una plataforma especializada que conecte a estudiantes y tutores dentro de la UPC, específicamente para la carrera de Ingeniería de Software.
+
+**Visión/Estrategia**:
+Crear una comunidad académica dentro de la UPC que facilite el intercambio de conocimientos entre estudiantes, asegurando que aquellos que necesitan ayuda puedan encontrar tutores calificados en temas específicos de su carrera.
+
+**Initial Segment**:
+Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías como aquellos que quieren ofrecer sus habilidades como tutores.
+
 ### 1.2.2.2. Lean UX Assumptions
 ### 1.2.2.3. Lean UX Hypothesis Statements
 ### 1.2.2.4. Lean UX Canvas
