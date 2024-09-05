@@ -218,6 +218,30 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 * **Ventaja competitiva**: Foco en la personalización y la flexibilidad horaria, con la posibilidad de aprender a cualquier hora del día.
 
 ### 2.1.1. Análisis competitivo
+
+### Objetivo del Análisis:
+Este análisis busca identificar las fortalezas y debilidades de los principales competidores de TutorMatch en el mercado de tutorías académicas y de cursos en línea, con el fin de desarrollar estrategias competitivas efectivas.
+
+### Tabla de Análisis Competitivo:
+
+|                     | TutorMatch (Su startup)   | Superprof                 | Udemy                     | Preply                   |
+|---------------------|---------------------------|---------------------------|---------------------------|--------------------------|
+| **Perfil**          |                           |                           |                           |                          |
+| Overview            | Plataforma de tutorías diseñada específicamente para estudiantes de Ingeniería de Software en la UPC. | Plataforma global de tutorías en diversas materias. | Plataforma de cursos en línea con un amplio rango de temas. | Plataforma global de tutorías con énfasis en clases individuales. |
+| Ventaja competitiva | Enfoque en una comunidad específica y en cursos alineados a las necesidades de la carrera de Ingeniería de Software. | Gran variedad de tutores en múltiples materias. | Amplia selección de cursos y expertos en diferentes campos. | Personalización y flexibilidad en las clases. |
+| **Perfil de Marketing** |                           |                           |                           |                          |
+| Mercado objetivo    | Estudiantes de Ingeniería de Software en la UPC. | Estudiantes y profesionales en busca de tutorías personalizadas en todo el mundo. | Cualquier persona interesada en aprender nuevas habilidades a través de cursos en línea. | Estudiantes y profesionales en busca de tutorías personalizadas, principalmente en idiomas. |
+| Estrategias de marketing | Marketing directo a estudiantes a través de la universidad, redes sociales, y testimonios de otros estudiantes. | Publicidad online, campañas SEO, y marketing de afiliados. | Publicidad online masiva, descuentos frecuentes, y partnerships con empresas. | Publicidad digital y campañas enfocadas en la personalización de la enseñanza. |
+| **Perfil de Producto** |                           |                           |                           |                          |
+| Productos & Servicios | Tutorías personalizadas en temas específicos de la carrera. | Tutorías en línea en una amplia gama de materias. | Cursos en línea en una amplia gama de materias. | Tutorías en línea con flexibilidad horaria y de precios. |
+| Precios & Costos    | Modelo freemium con opciones de pago para tutorías avanzadas. | Freemium con opciones de pago. | Pago por curso. | Comisión por clase y pago por paquetes. |
+| Canales de distribución (Web y/o Móvil) | Web, aplicación móvil para iOS y Android. | Web y aplicación móvil. | Web y aplicación móvil. | Web y aplicación móvil. |
+| **Análisis SWOT**   |                           |                           |                           |                          |
+| **Fortalezas**      | Foco en un nicho específico y profundo conocimiento de las necesidades del mercado objetivo. | Amplia oferta de tutores y materias, y alta visibilidad en motores de búsqueda. | Gran cantidad de cursos y flexibilidad de aprendizaje. | Personalización y flexibilidad horaria. |
+| **Debilidades**     | Alcance limitado fuera del ámbito universitario. | Competencia feroz con otras plataformas similares. | No ofrece tutorías individuales. | Foco limitado a ciertos nichos (principalmente idiomas). |
+| **Oportunidades**   | Expansión a otras universidades o carreras similares. | Expansión a nuevos mercados geográficos. | Desarrollo de nuevas áreas temáticas y expansión del modelo de negocio. | Expansión en la enseñanza de habilidades técnicas. |
+| **Amenazas**        | Aparición de competidores con enfoques similares o plataformas generalistas que deciden especializarse. | Nuevas plataformas con características más avanzadas. | La saturación del mercado y la competencia en precios. | Competencia creciente en el sector de tutorías personalizadas. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ### 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
