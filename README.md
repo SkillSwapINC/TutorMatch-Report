@@ -173,10 +173,14 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 ### 2.2.3. Análisis de entrevistas
 ### 2.3 Needfinding
 ### 2.3.1 User Personas
-    
-![Abimael Quispe](https://hackmd.io/_uploads/rySYXwv3R.png)
-![Becky Portones](https://hackmd.io/_uploads/Hy2tmvw3A.png)
+
+<img src="Images/Abimael Quispe.png">
+<img src="Images/Becky Portones.png">
+
 ### 2.3.2. User Task Matrix
+
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
