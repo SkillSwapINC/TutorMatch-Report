@@ -243,6 +243,31 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 | **Amenazas**        | Aparición de competidores con enfoques similares o plataformas generalistas que deciden especializarse. | Nuevas plataformas con características más avanzadas. | La saturación del mercado y la competencia en precios. | Competencia creciente en el sector de tutorías personalizadas. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+1. Diferenciación basada en la especialización
+- **Estrategia**: TutorMatch debe enfocarse en su ventaja competitiva clave: la especialización en la carrera de Ingeniería de Software en la UPC. Esto incluye la personalización de las tutorías para alinearse con el currículo específico y las necesidades de los estudiantes de la UPC.
+- **Tácticas**:
+  - Desarrollar contenido de marketing que resalte esta especialización y el valor agregado que ofrece.
+  - Colaborar directamente con profesores y departamentos académicos para promover la plataforma entre los estudiantes.
+
+2. Expansión del mercado objetivo
+- **Estrategia**: Considerar la expansión a otras universidades o incluso a otras carreras técnicas que puedan beneficiarse de un enfoque especializado similar.
+- **Tácticas**:
+  - Realizar estudios de mercado para identificar otras instituciones que podrían beneficiarse de TutorMatch.
+  - Desarrollar partnerships con universidades y ofrecer versiones piloto de la plataforma en nuevos entornos educativos.
+
+3. Mejora continua del producto
+- **Estrategia**: Mantener la plataforma ágil y adaptable, asegurando que TutorMatch siempre ofrezca características y funcionalidades que se alineen con las necesidades cambiantes de los estudiantes.
+- **Tácticas**:
+  - Invertir en el desarrollo de nuevas funcionalidades, como herramientas de seguimiento del progreso del estudiante o integración con plataformas de gestión de aprendizaje (LMS).
+  - Realizar encuestas periódicas a los usuarios para identificar áreas de mejora.
+
+4. Optimización del canal de distribución
+- **Estrategia**: Asegurarse de que la plataforma esté disponible y sea accesible en los dispositivos y canales que los estudiantes prefieren.
+- **Tácticas**:
+  - Continuar desarrollando la aplicación móvil, optimizándola para usabilidad y rendimiento.
+  - Explorar la posibilidad de integraciones con otras plataformas y servicios que los estudiantes ya utilizan, como calendarios de Google o aplicaciones de mensajería.
+
 ### 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
