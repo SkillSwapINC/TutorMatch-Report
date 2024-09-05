@@ -202,6 +202,15 @@ Journey Map Tutor
 <img src="Images/Map Journey tutor.png">
 
 ### 2.3.4. Empathy Mapping
+
+Empathy map Alumno
+
+<img src="Images/Abimael Quispe empathymap.png">
+
+Empathy map Tutor
+
+<img src="Images/Becky Portones empathymap.png">
+
 ### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 En esta sección se presenta el **Ubiquitous Language**, una metodología que garantiza una comunicación clara y efectiva entre todos los miembros del equipo de desarrollo y los stakeholders mediante el uso de un vocabulario común. El Lenguaje Ubicuo se basa en un conjunto de términos y conceptos compartidos que se aplican de manera consistente a lo largo del desarrollo del software. A continuación, se detallan algunos términos y conceptos clave relacionados con TutorMatch:
