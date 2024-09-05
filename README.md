@@ -201,6 +201,22 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 ### 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
+
+1. **Competidor 1: Superprof**
+* **Descripción**: Superprof es una plataforma global de tutorías en línea que conecta estudiantes con profesores en una amplia gama de materias, incluyendo tecnología y programación. La plataforma permite a los estudiantes buscar tutores según sus necesidades y ubicación.
+* **Modelo de negocio**: Freemium, con opciones de pago para clases premium y mayor visibilidad de los tutores.
+* **Ventaja competitiva**: Amplia base de datos de tutores y una gran diversidad de temas disponibles para tutorías.
+
+2. **Competidor 2: Udemy**
+* **Descripción**: Udemy es una plataforma de aprendizaje en línea que ofrece cursos en video sobre una vasta gama de temas, incluyendo ingeniería de software. Aunque no ofrece tutorías uno a uno, su amplia variedad de cursos puede cubrir muchas de las necesidades de los estudiantes.
+* **Modelo de negocio**: Pago por curso, con acceso de por vida a los materiales del curso.
+* **Ventaja competitiva**: Amplia selección de cursos, estructura de precios flexible, y cursos dictados por expertos reconocidos en sus campos.
+
+3. **Competidor 3: Preply**
+* **Descripción**: Preply es una plataforma de tutorías que permite a los estudiantes encontrar tutores para una variedad de materias, con un enfoque en idiomas y habilidades técnicas. La plataforma se centra en clases individuales y personalizadas.
+* **Modelo de negocio**: Comisión por clase reservada y opciones de pago por paquetes de clases.
+* **Ventaja competitiva**: Foco en la personalización y la flexibilidad horaria, con la posibilidad de aprender a cualquier hora del día.
+
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ### 2.2. Entrevistas
