@@ -180,6 +180,22 @@ Crear una comunidad académica dentro de la UPC que facilite el intercambio de c
 Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías como aquellos que quieren ofrecer sus habilidades como tutores.
 
 ### 1.2.2.2. Lean UX Assumptions
+
+**Assumptions**:
+1. **Valor para los usuarios**:
+   - Los estudiantes valoran una plataforma donde puedan encontrar fácilmente tutorías específicas para los cursos de Ingeniería de Software.
+   - Los tutores valoran una plataforma que les permita ofrecer sus servicios de manera estructurada y con acceso directo a estudiantes que necesitan ayuda.
+
+2. **Accesibilidad**:
+   - Los estudiantes y tutores preferirán una solución que esté integrada con las herramientas que ya utilizan, como su correo electrónico institucional o aplicaciones móviles.
+   
+3. **Sostenibilidad del modelo**:
+   - El modelo de negocio freemium, donde las tutorías básicas son gratuitas pero se ofrece un servicio premium, es sostenible en el contexto de la UPC.
+   - Los tutores están dispuestos a pagar una suscripción o comisión para acceder a un mayor número de estudiantes o para recibir herramientas adicionales que faciliten sus tutorías.
+
+4. **Diferenciación**:
+   - La especialización en Ingeniería de Software es suficiente para diferenciar TutorMatch de otras plataformas de tutorías o de aprendizaje en línea que no están enfocadas en un nicho específico.
+  
 ### 1.2.2.3. Lean UX Hypothesis Statements
 ### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
