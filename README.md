@@ -629,7 +629,13 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 <br>
 
 ### 4.4. Web Applications UX/UI Design
+
+La Web Application es la parte principal de TutorMatch, donde los usuarios podran acceder a las funcionalidades y servicios que ofrece la plataforma.
+
 ### 4.4.1. Web Applications Wireframes
+
+link figma: https://www.figma.com/design/Kt1QYCPfNt4kGlT2hrw2Lk/TutorMatch?node-id=0-1&t=CzF5SqsyvLSmfIkK-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
