@@ -213,7 +213,18 @@ width=50%"/>
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
 ### 5.2.X.1. Sprint Planning n
-### 5.2.X.2. Sprint Backlog n
+### 5.2.X.2. Sprint Backlog 1
+
+| **User Story** | | **Work-Item / Task** | | | | |
+|----------------|------|-------------------|------|--------------|-----------------|------------|
+| **Id**         | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | In process|
+| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | To-do|
+| US23           | Información sobre Planes de Suscripción en la Landing Page | T03 | Incluir Planes de Suscripción | Incluir una descripción general de los planes de suscripción para tutores | 4 | Eric Agama | Done |
+| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 3 | Rodrigo Alcántara | Done |
+| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | In process|
+| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
+
 ### 5.2.X.3. Development Evidence for Sprint Review
 ### 5.2.X.4. Testing Suite Evidence for Sprint Review
 ### 5.2.X.5. Execution Evidence for Sprint Review
