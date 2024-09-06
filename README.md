@@ -548,6 +548,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `cycle`         | `String`             | Ciclo académico del usuario.                                |
 | `registerDate`  | `Timestamp`          | Fecha y hora de registro del usuario.                       |
 
+---
 
 ## 2. Class Tutor
 | **Atributo**     | **Tipo de variable** | **Descripción**                                             |
@@ -558,6 +559,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `rating`         | `double`             | Calificación promedio del tutor basada en reseñas.           |
 | `schedule`       | `Schedule`           | Horario disponible del tutor.                               |
 
+---
 
 ## 3. Class Learner
 | **Atributo**     | **Tipo de variable** | **Descripción**                                             |
@@ -565,7 +567,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `id`             | `int`                | Identificador único del aprendiz.                           |
 | `user`           | `User`               | Referencia al usuario que corresponde al aprendiz.          |
 
-
+---
 
 ## 4. Class Schedule
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -573,7 +575,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `id`                | `int`                | Identificador único del horario.                            |
 | `availableDate`      | `LocalDateTime`      | Fecha y hora de disponibilidad del tutor.                   |
 
-
+---
 
 ## 5. Class Subject
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -582,7 +584,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `name`              | `String`             | Nombre de la asignatura.                                    |
 | `cycle`             | `int`                | Ciclo académico en el que se imparte la asignatura.         |
 
-
+---
 
 ## 6. Class Review
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -592,7 +594,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `comment`           | `String`             | Comentario escrito en la reseña.                            |
 | `rating`            | `double`             | Calificación asignada en la reseña (valor numérico).         |
 
-
+---
 
 ## 7. Class Post
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -608,7 +610,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `subject`           | `Subject`            | Asignatura relacionada a la publicación.                    |
 | `schedule`          | `Schedule`           | Horario relacionado a la publicación.                       |
 
-
+---
 
 ## 8. Class Payment
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -620,7 +622,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `tutor`             | `Tutor`              | Tutor asociado al pago.                                     |
 | `membership`        | `Membership`         | Membresía adquirida con el pago.                            |
 
-
+---
 
 ## 9. Class Subscription
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
@@ -631,7 +633,7 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | `tutor`             | `Tutor`              | Tutor que posee la suscripción.                             |
 | `membership`        | `Membership`         | Membresía asociada a la suscripción.                        |
 
-
+---
 
 ## 10. Class Membership
 | **Atributo**        | **Tipo de variable** | **Descripción**                                             |
