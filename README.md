@@ -637,6 +637,7 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 ### 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
   <img src="Images/contextc4.png"/>
+  
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
