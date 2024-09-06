@@ -641,6 +641,8 @@ El diagrama de contexto ofrece una visión general de cómo la página TutorMatc
   <img src="Images/contextc4.png"/>
   
 ### 4.6.2. Software Architecture Container Diagrams
+El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch.
+
   <img src="Images/containerc4.png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
