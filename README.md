@@ -342,6 +342,8 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 <img src="Images/collab1.jpg" />
 
+<img src="Images/collab2.jpg" />
+
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
