@@ -331,6 +331,9 @@ Para la entrega del Sprint 1, se ha lanzado la versión inicial del Landing Page
 
 <img src="Images/landing1.jpg" />
 
+<img src="Images/landing2.jpg" />
+
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
