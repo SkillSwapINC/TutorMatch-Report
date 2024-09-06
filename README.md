@@ -199,6 +199,31 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 ### 1.2.2.3. Lean UX Hypothesis Statements
 ### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
+
+1. **Universitarios de software que buscan apoyo académico:**
+
+   * **Características Demográficas:**
+
+     - **Edad:** Generalmente entre 16 y 22 años.
+     - **Género:** Mixto, aunque puede haber una ligera predominancia masculina en carreras de ingeniería. 
+     - **Nivel Socioeconómico:** Varía, pero muchos estudiantes pueden pertenecer a clases medias y altas debido a los costos de la educación superior en instituciones privadas como la UPC.
+
+   * **Información Estadística:**
+      - Porcentaje de estudiantes que buscan apoyo académico: Según un estudio de la Universidad de Lima, aproximadamente el 40% de los estudiantes universitarios en Perú buscan algún tipo de apoyo académico adicional. [Universidad de Lima. (2022, marzo)](https://repositorio.ulima.edu.pe/bitstream/handle/20.500.12724/18283/T018_72270868_T.pdf?sequence=1)
+      - Demanda de tutorías en línea: La demanda de tutorías en línea ha crecido significativamente, especialmente después de la pandemia de COVID-19, con un aumento del 30% en el uso de plataformas de tutoría en línea. [Unesco.org. (2023)](https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf)
+
+2. **Universitarios de software con habilidades destacadas que buscan enseñar:**
+
+
+   * **Características Demográficas:**
+
+       - **Edad:** Generalmente entre 18 y 24 años.
+       - **Género:** Mixto, con una ligera predominancia masculina.
+       - **Nivel Socioeconómico:** Similar al de los estudiantes que buscan apoyo, aunque estos estudiantes pueden tener una mayor motivación económica para ofrecer tutorías.
+   
+   * **Información Estadística:**
+     - **Porcentaje de estudiantes que ofrecen tutorías:** Aproximadamente el 15% de los estudiantes universitarios en Perú participan en actividades de tutoría, ya sea formal o informalmente.  [MINEDUPeru. (2023, diciembre 28).](https://mineduperu.org/informes-y-planes-de-tutoria-2023/)
+     - **Beneficios de ser tutor:** Los estudiantes que ofrecen tutorías no solo obtienen ingresos adicionales, sino que también mejoran sus propias habilidades académicas y de comunicación, lo cual es altamente valorado en el mercado laboral. [Los Motivos. (s/f.)](https://www.losmotivos.com/motivos-para-ser-tutor/)
 # Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores
 
