@@ -327,6 +327,8 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para la entrega del Sprint 1, se ha lanzado la versión inicial del Landing Page, la cual ha sido publicada en GitHub Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
