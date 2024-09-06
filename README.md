@@ -320,7 +320,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre3.png" width="200"/>  |  |
+| <img src="Images/Seg1Entre3.png" width="200"/>  | El entrevistado menciona que los cursos de Ingeniería de Software contienen una gran cantidad de información, lo que le dificulta entender ciertos temas. Cuando intenta aprender de manera autodidacta, le resulta complicado encontrar y comprender la información adecuada. Le gustaría recibir tutorías, preferentemente presenciales e individuales, valorando especialmente que el tutor tenga un buen dominio de los temas, sea claro al comunicar sus ideas y tenga paciencia. Ha recibido tutorías de un amigo anteriormente, pero sintió que las explicaciones fueron demasiado rápidas y faltaron detalles. Considera que la frecuencia de las tutorías es clave, y mientras más sesiones pueda tener, mejor, ya que sabe que la práctica constante es fundamental en su carrera. No le importa si el tutor es estudiante o profesional, siempre y cuando cuente con los conocimientos necesarios para enseñar de manera efectiva. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=Lt8SH2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTQyLjMxfX0%3D)            |
 | Timming      | 15:42 - 22:32           |
 
