@@ -533,6 +533,115 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
+# Diccionario de Clases
+
+## 1. Class User
+| **Atributo**    | **Tipo de variable** | **Descripción**                                             |
+|-----------------|----------------------|-------------------------------------------------------------|
+| `id`            | `int`                | Identificador único del usuario.                            |
+| `firstName`     | `String`             | Nombre del usuario.                                         |
+| `lastName`      | `String`             | Apellido del usuario.                                       |
+| `email`         | `String`             | Correo electrónico del usuario, utilizado para autenticación.|
+| `password`      | `String`             | Contraseña del usuario para autenticación.                  |
+| `avatar`        | `byte[]`             | Imagen de perfil del usuario.                               |
+| `gender`        | `String`             | Género del usuario.                                         |
+| `cycle`         | `String`             | Ciclo académico del usuario.                                |
+| `registerDate`  | `Timestamp`          | Fecha y hora de registro del usuario.                       |
+
+
+## 2. Class Tutor
+| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
+|------------------|----------------------|-------------------------------------------------------------|
+| `id`             | `int`                | Identificador único del tutor.                              |
+| `user`           | `User`               | Referencia al usuario que corresponde al tutor.             |
+| `description`    | `String`             | Descripción del tutor, generalmente sobre su experiencia.   |
+| `rating`         | `double`             | Calificación promedio del tutor basada en reseñas.           |
+| `schedule`       | `Schedule`           | Horario disponible del tutor.                               |
+
+
+## 3. Class Learner
+| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
+|------------------|----------------------|-------------------------------------------------------------|
+| `id`             | `int`                | Identificador único del aprendiz.                           |
+| `user`           | `User`               | Referencia al usuario que corresponde al aprendiz.          |
+
+
+
+## 4. Class Schedule
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único del horario.                            |
+| `availableDate`      | `LocalDateTime`      | Fecha y hora de disponibilidad del tutor.                   |
+
+
+
+## 5. Class Subject
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único de la asignatura.                       |
+| `name`              | `String`             | Nombre de la asignatura.                                    |
+| `cycle`             | `int`                | Ciclo académico en el que se imparte la asignatura.         |
+
+
+
+## 6. Class Review
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único de la reseña.                           |
+| `learner`           | `Learner`            | Aprendiz que realiza la reseña.                             |
+| `comment`           | `String`             | Comentario escrito en la reseña.                            |
+| `rating`            | `double`             | Calificación asignada en la reseña (valor numérico).         |
+
+
+
+## 7. Class Post
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único de la publicación.                      |
+| `title`             | `String`             | Título de la publicación.                                   |
+| `description`       | `String`             | Descripción de la publicación o servicio ofrecido.           |
+| `cost`              | `double`             | Costo del servicio/tutoría ofrecido en la publicación.       |
+| `postImage`         | `byte[]`             | Imagen relacionada a la publicación.                        |
+| `rating`            | `double`             | Calificación promedio de la publicación.                    |
+| `tutor`             | `Tutor`              | Tutor asociado a la publicación.                            |
+| `review`            | `Review`             | Reseña asociada a la publicación.                           |
+| `subject`           | `Subject`            | Asignatura relacionada a la publicación.                    |
+| `schedule`          | `Schedule`           | Horario relacionado a la publicación.                       |
+
+
+
+## 8. Class Payment
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único del pago.                               |
+| `amount`            | `double`             | Monto total del pago.                                       |
+| `paymentDate`       | `LocalDateTime`      | Fecha y hora en que se realizó el pago.                     |
+| `paymentType`       | `String`             | Método de pago utilizado (tarjeta, PayPal, etc.).            |
+| `tutor`             | `Tutor`              | Tutor asociado al pago.                                     |
+| `membership`        | `Membership`         | Membresía adquirida con el pago.                            |
+
+
+
+## 9. Class Subscription
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único de la suscripción.                      |
+| `startDate`         | `LocalDateTime`      | Fecha de inicio de la suscripción.                          |
+| `endDate`           | `LocalDateTime`      | Fecha de finalización de la suscripción.                    |
+| `tutor`             | `Tutor`              | Tutor que posee la suscripción.                             |
+| `membership`        | `Membership`         | Membresía asociada a la suscripción.                        |
+
+
+
+## 10. Class Membership
+| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
+|---------------------|----------------------|-------------------------------------------------------------|
+| `id`                | `int`                | Identificador único de la membresía.                        |
+| `name`              | `String`             | Nombre de la membresía.                                     |
+| `cost`              | `double`             | Costo mensual de la membresía.                              |
+| `description`       | `String`             | Descripción detallada de los beneficios de la membresía.     |
+| `monthDuration`     | `int`                | Duración de la membresía en meses.                          |
+
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
 
