@@ -420,6 +420,15 @@ En esta sección se presenta el **Ubiquitous Language**, una metodología que ga
 
 # Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
+
+* Universitarios de software que buscan apoyo académico:
+
+<img src="Images/to-be_alumno.png">
+
+* Universitarios de software con habilidades destacadas que buscan enseñar:
+
+<img src="Images/to-be_tutor.png">
+
 ### 3.2. User Stories
 Las User Stories son una metodología de desarrollo ágil empleada para detallar las funcionalidades de un sistema desde la perspectiva del usuario. Cada User Story especifica una función concreta que el usuario necesita para lograr un objetivo determinado. Estas historias se escriben de manera sencilla y se enfocan en las necesidades del usuario. A continuación, se presentan ejemplos de User Stories para TutorMatch:
 | Epic/ Story ID |                              Título                              |                                                                                                                                            Descripción                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                               Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                |   Relacionado con (Epic ID)   |
