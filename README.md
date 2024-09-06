@@ -716,6 +716,14 @@ User Goal: Crear curso
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
+A continuacion mostramos los prototipos designados para el landing page, adjuntamos video  de la explicacion de los pasos a seguir de los usuarios para usar el prototipo : https://drive.google.com/file/d/1nuTuL2Xl2xO7ZdGynnd-TcBRFNhO65o5/view?usp=drive_link
+
+<img src="Images/image_mockup_1.jpg">
+
+<img src="Images/image_mockup_2.jpg">
+
+<img src="Images/image_mockup_3.jpg">
+
 ### 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
