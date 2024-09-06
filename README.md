@@ -211,9 +211,9 @@ width=50%"/>
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n
-### 5.2.X.1. Sprint Planning n
-### 5.2.X.2. Sprint Backlog 1
+### 5.2.1. Sprint 1
+### 5.2.1.1. Sprint Planning 1
+### 5.2.1.2. Sprint Backlog 1
 
 | **User Story** | | **Work-Item / Task** | | | | |
 |----------------|------|-------------------|------|--------------|-----------------|------------|
@@ -225,12 +225,12 @@ width=50%"/>
 | US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | In process|
 | US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
 
-### 5.2.X.3. Development Evidence for Sprint Review
-### 5.2.X.4. Testing Suite Evidence for Sprint Review
-### 5.2.X.5. Execution Evidence for Sprint Review
-### 5.2.X.6. Services Documentation Evidence for Sprint Review
-### 5.2.X.7. Software Deployment Evidence for Sprint Review
-### 5.2.X.8. Team Collaboration Insights during Sprint
+### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
