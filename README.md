@@ -153,7 +153,7 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 |              |          |
 | Elías Sanchez, Harold Miguel <br> <img src="Images/harold.png" width="150"/>      | Mi nombre es Harold Miguel Elías Sánchez con código u202212684 tengo 19 años y estoy en quinto ciclo de la carrera de ingeniería de software. Mi conocimiento técnico abarca el lenguaje C++ y Python, que manejo de manera intermedia. Además, poseo habilidades básicas que me permiten contribuir efectivamente en equipos, aportando ideas y trabajando en colaboración para alcanzar nuestras metas conjuntas. |
 | Lopez Huaman, Rodrigo Adrian <br> <img src="Images/Rodrigo.png" width="150"/>      | Soy Rodrigo Adrián López Huamán, estudiante de sexto ciclo de Ingeniería de Software, tengo 19 años me considero un chico responsable y comprometido con mis actividades. Además, de ser una persona creativa y capaz de trabajar en equipo para alcanzar nuestras metas. También tengo habilidades en el manejo de conflictos, lo que me permite resolver situaciones difíciles de manera efectiva. Estoy emocionado de seguir aprendiendo y creciendo en esta carrera. |
-| Meneses Arevalo, Victor Manuel <br> <img src="Images/Victor.png" width="150"/>     | [texto] |
+| Meneses Arevalo, Victor Manuel <br> <img src="Images/Victor.png" width="150"/>     | Soy estudiante de la carrera de Ingeniería de Software y actualmente me encuentro en 6to ciclo, me considero una persona bastante eficiente y capaz que siempre busca la solución más rápida y que mejor funcione. Siempre trato de tener una comunicación fluida con todos los miembros de mi grupo para así evitar cualquier inconveniente al momento de realizar el trabajo. |
 
 ### 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
