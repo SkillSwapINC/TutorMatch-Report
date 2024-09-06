@@ -639,6 +639,8 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
   <img src="Images/contextc4.png"/>
   
 ### 4.6.2. Software Architecture Container Diagrams
+  <img src="Images/containerc4.png"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
