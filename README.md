@@ -507,6 +507,8 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 | 25 | US25          | Optimización para Dispositivos Móviles           | Como visitante de la landing page, quiero que la página esté optimizada para dispositivos móviles, para tener una experiencia de navegación fluida y accesible desde cualquier dispositivo. | 3            |
 | 26 | US26          | Diseño Atractivo y Coherente con la Marca        | Como visitante de la landing page, quiero que el diseño de la página sea visualmente atractivo y coherente con la identidad de la marca TutorMatch, para tener una experiencia de usuario profesional y agradable. | 3            |
 
+<img src="Images/Product_backlog.png">
+
 # Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
