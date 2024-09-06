@@ -672,7 +672,15 @@ Link del lucidchart : https://lucid.app/lucidchart/f27f1597-02ac-46fd-8a5a-64edc
 
 User Goal: Crear Usuario
 
+<img src="Images/User_goal_create_acccount.jpg">
 
+User Goal: Unirse a curso
+
+<img src="Images/User_goal_join_session.jpg">
+
+User Goal: Crear curso
+
+<img src="Images/User_goal_create_course.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
