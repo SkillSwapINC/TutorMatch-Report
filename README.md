@@ -213,6 +213,24 @@ width=50%"/>
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 1      | 03/09/2024 | 11:00 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
+
+| Sprint 1 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró el desarrollo de la documentación del proyecto y elaboración del landing page de la aplicación TutorMatch gracias al feedback de los entrevistados.                        |
+
+| Sprint 1 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 1.                                            |
+
+| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Desarrollar la documentación del proyecto y elaborar el landing page.                    | 5                 | 13                  |
+
+
 ### 5.2.1.2. Sprint Backlog 1
 
 | **User Story** | | **Work-Item / Task** | | | | |
