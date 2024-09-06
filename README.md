@@ -665,6 +665,15 @@ Segmento Tutor:
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Representacion visual de la navegacion de los usuarios
+
+Link del lucidchart : https://lucid.app/lucidchart/f27f1597-02ac-46fd-8a5a-64edcb56468d/edit?viewport_loc=-348%2C-5%2C2219%2C1039%2C0_0&invitationId=inv_b833b9f1-f24b-41fa-a6f1-8d165ab346cd
+
+User Goal: Crear Usuario
+
+
+
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
