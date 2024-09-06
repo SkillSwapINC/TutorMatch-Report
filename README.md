@@ -233,6 +233,9 @@ width=50%"/>
 
 ### 5.2.1.2. Sprint Backlog 1
 
+En el Sprint Backlog número 1 se encuentra todas las tareas dadas para el Sprint 1. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch 
+
 | **User Story** | | **Work-Item / Task** | | | | |
 |----------------|------|-------------------|------|--------------|-----------------|------------|
 | **Id**         | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
