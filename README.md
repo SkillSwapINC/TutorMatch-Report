@@ -683,6 +683,37 @@ User Goal: Crear curso
 <img src="Images/User_goal_create_course.jpg">
 
 ### 4.4.3. Web Applications Mock-ups
+
+<img src="Images/image_mockup_1.jpg">
+
+<img src="Images/image_mockup_2.jpg">
+
+<img src="Images/image_mockup_3.jpg">
+
+<img src="Images/image_mockup_4.jpg">
+
+<img src="Images/image_mockup_5.jpg">
+
+<img src="Images/image_mockup_6.jpg">
+
+<img src="Images/image_mockup_7.jpg">
+
+<img src="Images/image_mockup_8.jpg">
+
+<img src="Images/image_mockup_9.jpg">
+
+<img src="Images/image_mockup_10.jpg">
+
+<img src="Images/image_mockup_11.jpg">
+
+<img src="Images/image_mockup_12.jpg">
+
+<img src="Images/image_mockup_13.jpg">
+
+<img src="Images/image_mockup_14.jpg">
+
+<img src="Images/image_mockup_15.jpg">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
