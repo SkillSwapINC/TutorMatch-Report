@@ -36,6 +36,11 @@ width=50%"/>
 
 ### Project Report Collaboration Insights
 
+Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gestionar el control de versiones y facilitar la colaboración en tiempo real. A continuación, se proporciona el enlace al repositorio del proyecto:
+
+| Repositorio SkillSwapINC | [https://github.com/SkillSwapINC](https://github.com/SkillSwapINC) |
+|--------------------------|-----------------------------------------------|
+
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
