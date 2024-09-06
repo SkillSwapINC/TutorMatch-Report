@@ -264,6 +264,8 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
