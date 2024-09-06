@@ -757,6 +757,8 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<img src="Images/Database_diagram.png"/>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
