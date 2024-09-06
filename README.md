@@ -205,8 +205,61 @@ width=50%"/>
 ### 4.8.1. Database Diagram
 
 # Capítulo V: Product Implementation, Validation & Deployment
-### 5.1. Software Configuration Management
+## 5.1. Software Configuration Management
+En esta sección se establecen las decisiones y convenciones que mantendrán la consistencia a lo largo del ciclo de vida del proyecto. Incluye las subsecciones para **Source Code Management**, **Development Environment Configuration** y **Deployment Configuration**.
+
 ### 5.1.1. Software Development Environment Configuration
+En esta sección, se describen las herramientas utilizadas por el equipo para colaborar en el desarrollo del proyecto, así como sus propósitos específicos y las rutas de referencia.
+
+#### 1. Product UX/UI Design
+- **Figma**: Utilizado para el diseño y prototipado de la aplicación, tanto en su versión de escritorio como en navegadores móviles.
+
+#### 2. Software Development
+- **WebStorm**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para frameworks web como Vue.js.
+- **HTML5**: Lenguaje de marcado utilizado para la estructura del contenido web de la aplicación.
+- **CSS**: Utilizado para el diseño y la presentación visual de las páginas web, complementando el contenido estructurado por HTML.
+- **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
+- **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
+- **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+
+#### 3. Software Testing
+- **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
+
+#### 4. Software Deployment
+- **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
+  - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+
+#### 5. Software Documentation
+- **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
+
+---
+
+## Source Code Management
+En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
+
+- **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
+- **Report**: [https://github.com/SkillSwapINC/TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report)
+
+### GitFlow Workflow
+Seguimos el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
+
+- **main**: Contiene las versiones estables del código.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `main`.
+- **feature/sprint1**: Rama creada para el desarrollo de funcionalidades específicas del sprint 1.
+- **feature/productdesign**: Rama para el diseño del producto.
+
+Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
+
+### Conventional Commits
+Para los mensajes de commits, seguimos el estándar de **Conventional Commits**, utilizando las siguientes etiquetas:
+
+- **add**: Para añadir nuevas funcionalidades.
+- **feat**: Para nuevas características.
+- **fix**: Para corrección de errores.
+- **doc**: Para documentación.
+
+<img src="Images/gitflow.png" />
+  
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
