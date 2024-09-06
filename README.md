@@ -367,7 +367,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre2.png" width="200"/>  |  |
+| <img src="Images/Seg1Entre2.png" width="200"/>  | Mateo explica que su mayor problema es saber programar. La teoría del aprendizaje se centra en la flexibilidad cognitiva al realizar tareas basadas en respuestas. Espectáculos interesantes. Tiene experiencia en el campo y prefiere aprender en línea. También le encantan las reuniones de grupo. Esto demuestra que valora el aprendizaje de sus compañeros. Requisitos del maestro Para Mateo, un maestro no sólo debe poseer el más alto conocimiento de la enseñanza, sino también buenas habilidades docentes. Como no todos sus profesores pueden leer su mente resalta la importancia de contar con docentes con experiencia docente o fuertes habilidades de comunicación. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
 | Timming      | 10:08 - 15:41           |
 <br>
