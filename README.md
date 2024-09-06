@@ -302,7 +302,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 19 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  | Rodrigo es un estudiante de ingeniería de software que está buscando tutorías principalmente para el curso de Aplicaciones Web y Open Source. Ha identificado dificultades específicas con los conceptos avanzados y el manejo de múltiples lenguajes de programación. Prefiere sesiones de tutoría individuales en línea, valorando la paciencia y habilidades de comunicación en un tutor. Considera que la mejor opción sería un profesional en el campo debido a su experiencia técnica. Rodrigo ha tenido experiencias previas con tutorías grupales que mejoraron su rendimiento académico y actualmente necesitaría dos sesiones semanales para poder mejorar su comprensión de los temas complejos que enfrenta. |
+| <img src="Images/Seg1Entre1.png" width="200"/>  | Rodrigo es un estudiante de ingeniería de software que está buscando tutorías principalmente para el curso de Aplicaciones Web y Open Source. Ha identificado dificultades específicas con los conceptos avanzados y el manejo de múltiples lenguajes de programación. Prefiere sesiones de tutoría individuales en línea, valorando la paciencia y habilidades de comunicación en un tutor. Considera que la mejor opción sería un profesional en el campo debido a su experiencia técnica. Rodrigo ha tenido experiencias previas con tutorías grupales que mejoraron su rendimiento académico y actualmente necesitaría dos sesiones semanales para poder mejorar su comprensión de los temas complejos que enfrenta. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=W85LKK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NS4wNX19)            |
 | Timming      | 0:05 - 10:07           |
 <br>
@@ -311,7 +311,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  |  |
+| <img src="Images/Seg1Entre2.png" width="200"/>  |  |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
 | Timming      | 10:08 - 15:41           |
 <br>
@@ -320,7 +320,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  |  |
+| <img src="Images/Seg1Entre3.png" width="200"/>  |  |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=Lt8SH2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTQyLjMxfX0%3D)            |
 | Timming      | 15:42 - 22:32           |
 
@@ -330,7 +330,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  |  |
+| <img src="Images/Seg2Entre1.png" width="200"/>  | José Cuevas menciona que domina cursos clave de Ingeniería de Software y se motiva a ser tutor para ganar experiencia y ayudar a otros estudiantes. Describe su estilo de enseñanza como paciente y personalizado, utilizando diversas herramientas y métodos para adaptarse a las necesidades de cada estudiante. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y espera que TutorMatch le ayude a mejorar sus habilidades de enseñanza y comunicación, mientras conecta con otros tutores. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=thbWmb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM1Ni4zM319)            |
 | Timming      | 22:36 - 30:47           |
 <br>
@@ -339,7 +339,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  |  |
+| <img src="Images/Seg2Entre2.png" width="200"/>  | Joaquín Cortez menciona que domina cursos como Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web, y Sistemas Operativos, y está motivado a ser tutor para ayudar a otros estudiantes, reforzar sus propios conocimientos y ganar experiencia en comunicación técnica. Su estilo de enseñanza es paciente y estructurado, utilizando ejemplos prácticos y herramientas interactivas como pizarras virtuales y plataformas de codificación en línea. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y utiliza herramientas de gestión del tiempo para organizarse. Espera mejorar sus habilidades de enseñanza y obtener retroalimentación de los estudiantes a través de TutorMatch. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=5MaTmO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTg0OC4xMn19)            |
 | Timming      | 30:48 - 43:52           |
 <br>
@@ -348,7 +348,7 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| [Imagen]  | En la entrevista, nuestro invitado Christofer More nos menciona que la motivación que tiene para ser tutor en nuestra página es que le gusta ayudar y también la ganancia monetaria extra que tendría. Nos comenta que su enfoque de enseñanza sería explicar con ejemplos que él mismo haya hecho y explicar línea por línea de código para asegurarse de que los estudiantes entiendan completamente el proceso. Además, indica que le apasiona ver cómo sus explicaciones pueden ayudar a otros a mejorar sus habilidades en programación. |
+| <img src="Images/Seg2Entre3.png" width="200"/>  | En la entrevista, nuestro invitado Christofer More nos menciona que la motivación que tiene para ser tutor en nuestra página es que le gusta ayudar y también la ganancia monetaria extra que tendría. Nos comenta que su enfoque de enseñanza sería explicar con ejemplos que él mismo haya hecho y explicar línea por línea de código para asegurarse de que los estudiantes entiendan completamente el proceso. Además, indica que le apasiona ver cómo sus explicaciones pueden ayudar a otros a mejorar sus habilidades en programación. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=8q8nBF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjYzMy4zNH19)            |
 | Timming      | 43:53 - 47:28           |
 
