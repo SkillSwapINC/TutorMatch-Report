@@ -903,6 +903,71 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+
+En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para mantener un código limpio, consistente y fácil de mantener en todos los lenguajes utilizados.
+
+## HTML:
+
+1. **Estructura Semántica**:
+  - Se utilizan etiquetas semánticas para estructurar el contenido, como `<header>`, `<section>`, `<nav>`, `<footer>`, y `<h1>`, lo que mejora la accesibilidad y optimización SEO.
+
+2. **Nombres de Clases**:
+  - Las clases siguen la convención **camelCase** (primera palabra en minúscula y las subsecuentes con capitalización), como `containerH`, `boxH`, `membership-banner-price`, y `membership-card`.
+
+3. **Atributos en Elementos**:
+  - Elementos como `<a>` utilizan `style="--i:0;"`, lo que indica el uso de variables CSS personalizadas, combinadas con animaciones que dependen de `--i`.
+
+4. **Imágenes y Recursos**:
+  - Las imágenes se optimizan con el formato `webp`, mejorando la velocidad de carga (`assets/images/logo/logoWhite.webp`).
+
+## CSS:
+
+1. **Resets de CSS**:
+  - Se aplica un reset de márgenes y padding para asegurar consistencia entre navegadores:
+    ```css
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    ```
+
+2. **Convención de Nombres de Clases**:
+  - Los nombres de clases son **descriptivos** y reflejan el propósito de cada elemento, como `.header`, `.navbar`, `.banner`, `.about-box`.
+
+3. **Uso de Pseudo-clases**:
+  - Se utilizan pseudo-clases como `:hover` y `:checked` para manejar interacciones:
+    ```css
+    #check:checked~.navbar {
+        height: 20.5rem;
+    }
+    ```
+
+4. **Grid Layouts**:
+  - Se usa `display: grid` para la disposición de elementos, junto con `grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));`, lo que hace el diseño adaptable a pantallas de diferentes tamaños.
+
+5. **Media Queries**:
+  - Se incluyen **media queries** para dispositivos pequeños, asegurando una buena experiencia en móviles:
+    ```css
+    @media (max-width: 768px) {
+        .icons {
+            display: inline-flex;
+        }
+    }
+    ```
+
+6. **Variables CSS Personalizadas**:
+  - Se utilizan variables como `--i` en las animaciones para crear **retrasos** controlados por CSS, haciendo que los elementos de la barra de navegación aparezcan secuencialmente.
+
+7. **Transiciones**:
+  - Se implementan transiciones suaves en varios elementos para mejorar la interacción con el usuario:
+    ```css
+    .img-logo:hover {
+        transform: scale(1.25);
+        transition: transform 0.5s ease-in-out;
+    }
+    ```
+
 ### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
