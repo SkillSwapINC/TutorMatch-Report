@@ -294,7 +294,65 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
   - ¿Qué esperas ganar de la experiencia de ser tutor en la plataforma?
   - ¿Qué tipos de estudiantes crees que beneficiarán más de tus tutorías?
   - ¿Cuáles son tus expectativas sobre la plataforma TutorMatch en términos de ayudarte a mejorar como tutor?
+
 ### 2.2.2. Registro de entrevistas
+
+# Segmento 1
+| Entrevista 1 | Rodrigo Salvador |
+|------------------|----------------------|
+| Edad         | 19 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  | Rodrigo es un estudiante de ingeniería de software que está buscando tutorías principalmente para el curso de Aplicaciones Web y Open Source. Ha identificado dificultades específicas con los conceptos avanzados y el manejo de múltiples lenguajes de programación. Prefiere sesiones de tutoría individuales en línea, valorando la paciencia y habilidades de comunicación en un tutor. Considera que la mejor opción sería un profesional en el campo debido a su experiencia técnica. Rodrigo ha tenido experiencias previas con tutorías grupales que mejoraron su rendimiento académico y actualmente necesitaría dos sesiones semanales para poder mejorar su comprensión de los temas complejos que enfrenta. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=W85LKK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NS4wNX19)            |
+| Timming      | 0:05 - 10:07           |
+<br>
+
+| Entrevista 2 | Mateo Loechle Arias  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  |  |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
+| Timming      | 10:08 - 15:41           |
+<br>
+
+| Entrevista 3 | Alejandro Barturen  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  |  |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=Lt8SH2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTQyLjMxfX0%3D)            |
+| Timming      | 15:42 - 22:32           |
+
+# Segmento 2
+
+| Entrevista 1 | José Ángel Cuevas Vera  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  |  |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=thbWmb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM1Ni4zM319)            |
+| Timming      | 22:36 - 30:47           |
+<br>
+
+| Entrevista 2 | Joaquin Cortez Quezada  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  |  |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=5MaTmO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTg0OC4xMn19)            |
+| Timming      | 30:48 - 43:52           |
+<br>
+
+| Entrevista 3 | Christofer More  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| [Imagen]  | En la entrevista, nuestro invitado Christofer More nos menciona que la motivación que tiene para ser tutor en nuestra página es que le gusta ayudar y también la ganancia monetaria extra que tendría. Nos comenta que su enfoque de enseñanza sería explicar con ejemplos que él mismo haya hecho y explicar línea por línea de código para asegurarse de que los estudiantes entiendan completamente el proceso. Además, indica que le apasiona ver cómo sus explicaciones pueden ayudar a otros a mejorar sus habilidades en programación. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=8q8nBF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjYzMy4zNH19)            |
+| Timming      | 43:53 - 47:28           |
+
+
 ### 2.2.3. Análisis de entrevistas
 ### 2.3 Needfinding
 ### 2.3.1 User Personas
