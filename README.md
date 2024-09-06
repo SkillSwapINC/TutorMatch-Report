@@ -228,7 +228,32 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
    - La especialización en Ingeniería de Software es suficiente para diferenciar TutorMatch de otras plataformas de tutorías o de aprendizaje en línea que no están enfocadas en un nicho específico.
   
 ### 1.2.2.3. Lean UX Hypothesis Statements
+
+### Hipótesis de Valor:
+- **Si ofrecemos una plataforma especializada en tutorías para estudiantes de Ingeniería de Software en la UPC**, entonces los estudiantes que necesitan apoyo académico encontrarán valor en la facilidad de encontrar tutores específicos para sus necesidades, lo que resultará en un **mejor rendimiento académico**.
+  
+### Hipótesis de Usabilidad:
+- **Si la plataforma es fácil de usar e intuitiva**, entonces tanto los estudiantes que buscan tutoría como los tutores que ofrecen sus servicios **utilizarán la plataforma regularmente** para gestionar sus tutorías, lo que mejorará la adopción del producto.
+
+### Hipótesis de Adopción:
+- **Si creamos una comunidad centrada en la Ingeniería de Software y ofrecemos opciones tanto gratuitas como de pago (freemium)**, entonces los estudiantes estarán dispuestos a **registrarse y utilizar la plataforma** inicialmente, y algunos optarán por servicios premium, lo que asegurará la adopción a largo plazo.
+
+### Hipótesis de Crecimiento:
+- **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
+- 
 ### 1.2.2.4. Lean UX Canvas
+
+# 1.2.2.4. Lean UX Canvas
+
+| **Problem Statement**                                                                                         | **Target Audience**                                     | **Assumptions**                                                                                                                                                                                                       | **Hipótesis**                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TutorMatch tiene como objetivo resolver el problema de **conectar a los estudiantes del programa de Ingeniería de Software de la UPC** con **tutores calificados** para obtener apoyo académico personalizado. | - Estudiantes que necesitan ayuda académica en cursos de Ingeniería de Software. <br> - Estudiantes con habilidades destacadas que desean ofrecer servicios de tutoría. | - Los estudiantes tienen dificultades para encontrar **tutorías específicas** para sus cursos. <br> - Los tutores no cuentan con una **plataforma estructurada** para ofrecer sus servicios. <br> - Una plataforma especializada es un **diferenciador**. | - Si creamos una **plataforma especializada para tutorías en Ingeniería de Software**, entonces los estudiantes **mejorarán académicamente** al encontrar la ayuda exacta que necesitan. <br> - Si ofrecemos un **modelo freemium**, los usuarios participarán más. |
+
+| **Key Features**                                                                                             | **User Tasks**                                     | **Risks**                                                                                                                                                                                                          | **Metrics**                                                                                                                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Una plataforma que **empareja estudiantes y tutores** según cursos y especializaciones. <br> - Opciones de tutorías **presenciales y en línea**. <br> - **Interfaz amigable para móviles**. | - Los estudiantes pueden **buscar fácilmente tutores** por curso o asignatura específica.<br> - Los tutores pueden **registrarse y listar** sus calificaciones y disponibilidad.                                        | - Los estudiantes podrían **no adoptar** la plataforma si es demasiado compleja o inconveniente.<br> - Los tutores podrían **no participar** si no ven suficiente valor en registrarse.<br> - El **modelo freemium** podría no ser rentable. | - Estudiantes y tutores registrados - Sesiones de tutoría completadas - Frecuencia de uso de la plataforma - Tasa de satisfacción de usuarios- Retención de usuarios- Crecimiento mensual de usuarios- Ingresos generados- Conversión de usuarios freemium a premium
+
+
 ### 1.3. Segmentos objetivo
 
 1. **Universitarios de software que buscan apoyo académico:**
