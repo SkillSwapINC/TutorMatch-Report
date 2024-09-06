@@ -640,7 +640,9 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 ### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
   <img src="Images/class_diagram.png"/>
+  
 ### 4.7.2. Class Dictionary
 
 ## 1. Class User
