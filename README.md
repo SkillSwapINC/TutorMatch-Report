@@ -244,6 +244,20 @@ width=50%"/>
 | US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
 
 ### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
+|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | main                 | 391a7d5   | initial commit                     | initial commit                            | 31/08/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | df2dd51   | Adding Startup Description         | Adding Startup Description               | 31/08/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | c65b6Id   | Added User Stories                 | Added User Stories                       | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | a74b814   | Added User personas section        | Added User personas section              | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | d1fff48   | Added Analisis Competitivo         | Added Analisis Competitivo               | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | eb16337   | Added Background and Problem Statement | Added Background and Problem Statement | 06/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | ddefee1   | Added Source Code Style Guide & Conventions content | Added Source Code Style Guide & Conventions content | 06/09/2024 |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/ProductDesign | 8b8e816  | Added interview logs               | Added interview logs                     | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/Sprint 1     | df0db11   | Added sprint planning 1            | Added sprint planning 1                  | 06/09/2024       |
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
