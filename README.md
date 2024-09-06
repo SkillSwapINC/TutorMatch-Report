@@ -157,6 +157,37 @@ TutorMatch es una plataforma web diseñada exclusivamente para estudiantes de In
 
 ### 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+
+Para competir de manera efectiva en el mercado de tutorías, es fundamental reconocer los antecedentes y el problema que TutorMatch pretende abordar.
+
+Antecedentes
+
+En la educación superior, especialmente en campos como la Ingeniería de Software, los estudiantes a menudo enfrentan dificultades para comprender conceptos complejos. Con el tiempo, la demanda de apoyo personalizado y accesible ha aumentado, impulsada por la creciente complejidad de las materias y la necesidad de obtener un mejor rendimiento académico. En la Universidad Peruana de Ciencias Aplicadas (UPC), los estudiantes suelen buscar ayuda adicional para dominar temas clave de sus cursos.
+
+A pesar de la disponibilidad de recursos en línea y el apoyo proporcionado por la universidad, muchos estudiantes encuentran difícil obtener la atención personalizada que necesitan para comprender problemas o conceptos específicos. Esta situación se complica aún más por el hecho de que no todos los estudiantes pueden costear servicios de tutoría profesional, o tienen dificultades para encontrar tutores calificados que comprendan sus necesidades académicas. La falta de un apoyo accesible y adaptado puede tener un impacto negativo en el éxito académico y la motivación de los estudiantes.
+
+Además, los estudiantes con un buen rendimiento académico suelen estar dispuestos a ayudar a sus compañeros, pero carecen de una plataforma que los conecte con aquellos que necesitan servicios de tutoría. La ausencia de una forma confiable y simplificada para emparejar tutores con estudiantes crea una brecha en el aprendizaje entre pares, que es un recurso valioso en los entornos académicos.
+
+Estos desafíos destacan la necesidad de una solución que facilite las conexiones entre los estudiantes que requieren apoyo académico y aquellos que pueden ofrecerlo. TutorMatch tiene como objetivo cubrir esta brecha al proporcionar una plataforma dedicada para los estudiantes de Ingeniería de Software de la UPC, asegurando que aquellos que necesiten tutoría puedan encontrar fácilmente la ayuda que requieren de compañeros o profesionales calificados.
+
+Declaración del Problema
+
+Identificaremos nuestro problema utilizando el método de las 5W y 2H:
+
+What(Qué): ¿Cuál es el problema? - TutorMatch es una plataforma web diseñada para abordar el desafío de encontrar y ofrecer servicios de tutoría dentro del programa de Ingeniería de Software en la UPC. Organiza a los tutores disponibles por curso y especialización para facilitar que los estudiantes se conecten con la persona adecuada para sus necesidades.
+
+Who(Quién): ¿A quiénes afecta el problema? - Los principales usuarios de TutorMatch son estudiantes universitarios que necesitan tutoría o están dispuestos a ofrecerla. Esto incluye tanto a los estudiantes que buscan ayuda en cursos específicos como a aquellos que desean compartir sus conocimientos convirtiéndose en tutores.
+
+When(Cuándo): ¿Cuándo ocurre el problema? - La necesidad de tutoría puede surgir en cualquier momento del trayecto académico de un estudiante, especialmente antes de los exámenes o cuando se enfrentan a cursos particularmente desafiantes. Los estudiantes también pueden buscar apoyo de manera regular para mantener o mejorar su rendimiento académico.
+
+Where(Dónde): ¿Dónde ocurre el problema? -  TutorMatch está diseñado específicamente para los estudiantes del programa de Ingeniería de Software de la UPC, aunque la plataforma podría expandirse a otros campos o instituciones a medida que crezca la demanda.
+
+Why(Por qué): ¿Por quá ocurre el problema? - Muchos estudiantes tienen dificultades para seguir el ritmo de sus cursos y requieren apoyo adicional para comprender conceptos difíciles. Al mismo tiempo, los estudiantes con habilidades avanzadas carecen de una forma estructurada de ofrecer servicios de tutoría a sus compañeros. Esto crea una brecha en el proceso de aprendizaje, afectando negativamente el rendimiento académico general y la colaboración entre pares.
+
+How(Cómo): ¿Cómo ocurre el problema? - TutorMatch proporciona una plataforma fácil de usar que facilita el emparejamiento de estudiantes con tutores según los cursos específicos en los que necesitan ayuda. La plataforma admite tanto sesiones presenciales como virtuales, lo que permite flexibilidad en cómo se imparten las tutorías.
+
+How Much(Cuánto): ¿Cuál es la magnitud del problema? - Al ofrecer servicios de tutoría a través de una plataforma accesible para todos los estudiantes de la UPC, TutorMatch puede ayudar a los estudiantes a mejorar sus calificaciones y su comprensión de los temas clave. Aunque aún está en desarrollo, la plataforma tiene el potencial de proporcionar un valor significativo a bajo costo o sin costo para los usuarios. También ofrece a los estudiantes que hacen tutoría la oportunidad de ganar experiencia en la enseñanza y potencialmente generar ingresos.
+
 ### 1.2.2. Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
 **Domain**: 
