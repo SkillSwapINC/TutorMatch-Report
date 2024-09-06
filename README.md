@@ -636,6 +636,8 @@ Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que 
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
+
   <img src="Images/contextc4.png"/>
   
 ### 4.6.2. Software Architecture Container Diagrams
