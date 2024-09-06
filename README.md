@@ -32,7 +32,7 @@ width=50%"/>
 ### Registro de Versiones del Informe
 | Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
-|           |             |            |                                                                                                  |
+|    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
 
 ### Project Report Collaboration Insights
 
