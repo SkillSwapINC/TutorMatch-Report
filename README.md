@@ -120,15 +120,15 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.X. Sprint n](#52x-sprint-n)
-      - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
-      - [5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)
-      - [5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-      - [5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-      - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-      - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint n](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -975,15 +975,15 @@ En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para m
 
 ### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n
-### 5.2.X.1. Sprint Planning n
-### 5.2.X.2. Sprint Backlog n
-### 5.2.X.3. Development Evidence for Sprint Review
-### 5.2.X.4. Testing Suite Evidence for Sprint Review
-### 5.2.X.5. Execution Evidence for Sprint Review
-### 5.2.X.6. Services Documentation Evidence for Sprint Review
-### 5.2.X.7. Software Deployment Evidence for Sprint Review
-### 5.2.X.8. Team Collaboration Insights during Sprint
+### 5.2.1. Sprint 1
+### 5.2.1.1. Sprint Planning 1
+### 5.2.1.2. Sprint Backlog 1
+### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
