@@ -905,8 +905,61 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 ### 4.8.1. Database Diagram
 
 # Capítulo V: Product Implementation, Validation & Deployment
-### 5.1. Software Configuration Management
+## 5.1. Software Configuration Management
+En esta sección se establecen las decisiones y convenciones que mantendrán la consistencia a lo largo del ciclo de vida del proyecto. Incluye las subsecciones para **Source Code Management**, **Development Environment Configuration** y **Deployment Configuration**.
+
 ### 5.1.1. Software Development Environment Configuration
+En esta sección, se describen las herramientas utilizadas por el equipo para colaborar en el desarrollo del proyecto, así como sus propósitos específicos y las rutas de referencia.
+
+#### 1. Product UX/UI Design
+- **Figma**: Utilizado para el diseño y prototipado de la aplicación, tanto en su versión de escritorio como en navegadores móviles.
+
+#### 2. Software Development
+- **WebStorm**: Entorno de desarrollo integrado (IDE) utilizado para la creación y edición del código fuente del proyecto. Su elección se debe a su excelente soporte para frameworks web como Vue.js.
+- **HTML5**: Lenguaje de marcado utilizado para la estructura del contenido web de la aplicación.
+- **CSS**: Utilizado para el diseño y la presentación visual de las páginas web, complementando el contenido estructurado por HTML.
+- **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
+- **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
+- **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+
+#### 3. Software Testing
+- **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
+
+#### 4. Software Deployment
+- **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
+  - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+
+#### 5. Software Documentation
+- **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
+
+---
+
+## Source Code Management
+En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
+
+- **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
+- **Report**: [https://github.com/SkillSwapINC/TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report)
+
+### GitFlow Workflow
+Seguimos el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
+
+- **main**: Contiene las versiones estables del código.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `main`.
+- **feature/sprint1**: Rama creada para el desarrollo de funcionalidades específicas del sprint 1.
+- **feature/productdesign**: Rama para el diseño del producto.
+
+Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
+
+### Conventional Commits
+Para los mensajes de commits, seguimos el estándar de **Conventional Commits**, utilizando las siguientes etiquetas:
+
+- **add**: Para añadir nuevas funcionalidades.
+- **feat**: Para nuevas características.
+- **fix**: Para corrección de errores.
+- **doc**: Para documentación.
+
+<img src="Images/gitflow.png" />
+  
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -978,13 +1031,88 @@ En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para m
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 1      | 03/09/2024 | 11:00 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
+
+| Sprint 1 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró el desarrollo de la documentación del proyecto y elaboración del landing page de la aplicación TutorMatch gracias al feedback de los entrevistados.                        |
+
+| Sprint 1 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 1.                                            |
+
+| Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Desarrollar la documentación del proyecto y elaborar el landing page.                    | 5                 | 13                  |
+
+
 ### 5.2.1.2. Sprint Backlog 1
+
+En el Sprint Backlog número 1 se encuentra todas las tareas dadas para el Sprint 1. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch 
+
+| **User Story** | | **Work-Item / Task** | | | | |
+|----------------|------|-------------------|------|--------------|-----------------|------------|
+| **Id**         | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | In process|
+| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | To-do|
+| US23           | Información sobre Planes de Suscripción en la Landing Page | T03 | Incluir Planes de Suscripción | Incluir una descripción general de los planes de suscripción para tutores | 4 | Eric Agama | Done |
+| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 3 | Rodrigo Alcántara | Done |
+| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | In process|
+| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
+
 ### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
+|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | main                 | 391a7d5   | initial commit                     | initial commit                            | 31/08/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | df2dd51   | Adding Startup Description         | Adding Startup Description               | 31/08/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | c65b6Id   | Added User Stories                 | Added User Stories                       | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | a74b814   | Added User personas section        | Added User personas section              | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | d1fff48   | Added Analisis Competitivo         | Added Analisis Competitivo               | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | eb16337   | Added Background and Problem Statement | Added Background and Problem Statement | 06/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | ddefee1   | Added Source Code Style Guide & Conventions content | Added Source Code Style Guide & Conventions content | 06/09/2024 |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/ProductDesign | 8b8e816  | Added interview logs               | Added interview logs                     | 05/09/2024       |
+| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/Sprint 1     | df0db11   | Added sprint planning 1            | Added sprint planning 1                  | 06/09/2024       |
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+| Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
+|----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
+| [TutorMatch-landing](https://github.com/RodrLH/TutorMatch-landing) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
+
+[Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para la entrega del Sprint 1, se ha lanzado la versión inicial del Landing Page, la cual ha sido publicada en GitHub Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
+
+<img src="Images/landing1.jpg" />
+
+<img src="Images/landing2.jpg" />
+
+<img src="Images/landing3.jpg" />
+
+<img src="Images/landing4.jpg" />
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+A continuacion, se muestran las evidencias de la colaboración del equipo durante el Sprint 1.
+
+<img src="Images/collab1.jpg" />
+
+<img src="Images/collab2.jpg" />
+
+<img src="Images/collab3.jpg" />
+
+<img src="Images/collab4.jpg" />
+
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
