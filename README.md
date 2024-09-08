@@ -1088,6 +1088,17 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 [Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se implento en este primer Sprint se diseño la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes del Landing Page.
+
+1.- Sección About us: Aquí, explicamos cómo nuestra plataforma está diseñada para conectar a estudiantes de Ingeniería de Software con tutores calificados que pueden ofrecer apoyo en cursos específicos. Detallamos cómo facilitamos el proceso de aprendizaje al organizar los tutores por ciclo y especialidad, para que puedas encontrar la ayuda que necesitas de manera eficiente. 
+<br>
+<img src="Images/LandingAboutUs.png" />
+
+2.- Sección Tutor Memberships: Detallamos los diferentes planes de membresía disponibles para nuestros tutores, cada uno diseñado para ofrecer beneficios y características específicas que optimizan la experiencia de tutoría en TutorMatch.
+<br>
+<img src="Images/LandingTutorMemberships.png" />
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
