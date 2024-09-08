@@ -642,7 +642,7 @@ La Web Application es la parte principal de TutorMatch, donde los usuarios podra
 
 ### 4.4.1. Web Applications Wireframes
 
-link [Figma]( https://www.figma.com/design/Kt1QYCPfNt4kGlT2hrw2Lk/TutorMatch?node-id=0-1&t=CzF5SqsyvLSmfIkK-1)
+link [Figma](https://www.figma.com/design/Kt1QYCPfNt4kGlT2hrw2Lk/TutorMatch?node-id=0-1&t=CzF5SqsyvLSmfIkK-1)
 
 Segmento alumno:
 
@@ -676,7 +676,7 @@ Segmento Tutor:
 
 Representacion visual de la navegacion de los usuarios
 
-Link del [Link del video](https://lucid.app/lucidchart/1e0fa7b1-71ed-4100-b6a2-d1c2a80980e2/edit?viewport_loc=284%2C682%2C4960%2C2216%2C0_0&invitationId=inv_c51626df-9142-48c9-9a36-8c01f80ce266)
+Link del [Link del LucidChart](https://lucid.app/lucidchart/f27f1597-02ac-46fd-8a5a-64edcb56468d/edit?viewport_loc=-348%2C-5%2C2219%2C1039%2C0_0&invitationId=inv_b833b9f1-f24b-41fa-a6f1-8d165ab346cd)
 
 User Goal: Crear Usuario
 
@@ -723,6 +723,21 @@ User Goal: Crear curso
 <img src="Images/image_mockup_15.jpg">
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+[Link del Lucidchart](https://lucid.app/lucidchart/1e0fa7b1-71ed-4100-b6a2-d1c2a80980e2/edit?viewport_loc=284%2C682%2C4960%2C2216%2C0_0&invitationId=inv_c51626df-9142-48c9-9a36-8c01f80ce266)
+
+User Goal: Crear Cuenta <br>
+Explicación: Este flujo ideal muestra cómo un nuevo usuario puede registrarse de manera rápida y sencilla en TutorMatch. Todo funciona como se espera, sin ningún obstáculo o error que interrumpa el proceso.
+<img src="Images/UserFlowDiagram1.png">
+
+User Goal: Unirse a curso <br>
+Explicación: Un usuario registrado en TutorMatch puede explorar una variedad de cursos, filtrarlos por sus intereses y seleccionar el que más le convenga. Una vez elegido el curso, puede inscribirse fácilmente completando un formulario de registro.
+<img src="Images/UserFlowDiagram2.png">
+
+User Goal: Crear curso <br>
+Explicación: El proceso está diseñado para ser intuitivo y permitir a los tutores crear cursos de manera eficiente. La plataforma ofrece herramientas y guías para facilitar este proceso y asegurar la calidad de los cursos.
+<img src="Images/UserFlowDiagram3.png">
+
 ### 4.5. Web Applications Prototyping
 A continuacion mostramos los prototipos designados para el landing page y aplicación web, adjuntamos video  de la explicacion de los pasos a seguir de los usuarios para usar el prototipo : [Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EXH_9bcuGiZOhzcQd5lcvpYB1hpjJHu8NmtBr43MTVA3hQ?e=LVv3uW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
