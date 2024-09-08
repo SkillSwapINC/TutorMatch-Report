@@ -915,9 +915,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 #### 5. Software Documentation
 - **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
 
----
+### 5.1.2. Source Code Management
 
-## Source Code Management
 En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
 
 - **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
@@ -942,8 +941,7 @@ Para los mensajes de commits, seguimos el estándar de **Conventional Commits**,
 - **doc**: Para documentación.
 
 <img src="Images/gitflow.png" />
-  
-### 5.1.2. Source Code Management
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para mantener un código limpio, consistente y fácil de mantener en todos los lenguajes utilizados.
@@ -1011,6 +1009,15 @@ En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para m
     ```
 
 ### 5.1.4. Software Deployment Configuration
+
+Para la realizacion del despliegue debemos seguir los siguientes pasos:
+  1. Primero, creamos un nuevo [repositorio en GitHub](https://github.com/SkillSwapINC/Landing-page.git). Después, subimos los archivos del  proyecto a ese repositorio.
+  2. Una vez que se haya subido todo, nos dirigimos a la configuración del repositorio. Allí, buscamos la sección de "Pages", que aparece en la barra lateral izquierda.
+  3. Luego, se vera una opción que permite seleccionar la rama desde la cual quieres hacer el despliegue. Normalmente, se elige **main**.
+  4. Después de esto, GitHub generará automáticamente una URL para tu sitio.
+<br>
+<img src="Images/LandingDeployment.png" />
+
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
@@ -1071,6 +1078,17 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 [Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se implento en este primer Sprint se diseño la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes del Landing Page.
+
+1.- Sección About us: Aquí, explicamos cómo nuestra plataforma está diseñada para conectar a estudiantes de Ingeniería de Software con tutores calificados que pueden ofrecer apoyo en cursos específicos. Detallamos cómo facilitamos el proceso de aprendizaje al organizar los tutores por ciclo y especialidad, para que puedas encontrar la ayuda que necesitas de manera eficiente. 
+<br>
+<img src="Images/LandingAboutUs.png" />
+
+2.- Sección Tutor Memberships: Detallamos los diferentes planes de membresía disponibles para nuestros tutores, cada uno diseñado para ofrecer beneficios y características específicas que optimizan la experiencia de tutoría en TutorMatch.
+<br>
+<img src="Images/LandingTutorMemberships.png" />
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
