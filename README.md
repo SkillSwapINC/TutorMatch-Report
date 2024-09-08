@@ -1026,6 +1026,15 @@ En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para m
     ```
 
 ### 5.1.4. Software Deployment Configuration
+
+Para la realizacion del despliegue debemos seguir los siguientes pasos:
+  1. Primero, creamos un nuevo [repositorio en GitHub](https://github.com/SkillSwapINC/Landing-page.git). Después, subimos los archivos del  proyecto a ese repositorio.
+  2. Una vez que se haya subido todo, nos dirigimos a la configuración del repositorio. Allí, buscamos la sección de "Pages", que aparece en la barra lateral izquierda.
+  3. Luego, se vera una opción que permite seleccionar la rama desde la cual quieres hacer el despliegue. Normalmente, se elige **main**.
+  4. Después de esto, GitHub generará automáticamente una URL para tu sitio.
+<br>
+<img src="Images/LandingDeployment.png" />
+
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
