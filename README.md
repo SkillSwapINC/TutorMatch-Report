@@ -441,7 +441,6 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 
 
 ### 2.2.3. Análisis de entrevistas
-### 2.2.3. Análisis de entrevistas
 
 ## Análisis del Segmento 1
 
