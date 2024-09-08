@@ -246,7 +246,7 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 
 ### Hipótesis de Crecimiento:
 - **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
-- 
+
 ### 1.2.2.4. Lean UX Canvas
 
 # 1.2.2.4. Lean UX Canvas
