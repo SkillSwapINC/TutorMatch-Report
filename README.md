@@ -736,6 +736,9 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
   <img src="Images/containerc4.png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="Images/componentc4.png"/>
+
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
