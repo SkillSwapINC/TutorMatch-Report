@@ -932,9 +932,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 #### 5. Software Documentation
 - **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
 
----
+### 5.1.2. Source Code Management
 
-## Source Code Management
 En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
 
 - **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
@@ -959,8 +958,7 @@ Para los mensajes de commits, seguimos el estándar de **Conventional Commits**,
 - **doc**: Para documentación.
 
 <img src="Images/gitflow.png" />
-  
-### 5.1.2. Source Code Management
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para mantener un código limpio, consistente y fácil de mantener en todos los lenguajes utilizados.
