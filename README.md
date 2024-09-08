@@ -311,7 +311,7 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 
 ### Tabla de Análisis Competitivo:
 
-|                     | TutorMatch (Su startup)   | Superprof                 | Udemy                     | Preply                   |
+|                     | TutorMatch   | Superprof                 | Udemy                     | Preply                   |
 |---------------------|---------------------------|---------------------------|---------------------------|--------------------------|
 | **Perfil**          |                           |                           |                           |                          |
 | Overview            | Plataforma de tutorías diseñada específicamente para estudiantes de Ingeniería de Software en la UPC. | Plataforma global de tutorías en diversas materias. | Plataforma de cursos en línea con un amplio rango de temas. | Plataforma global de tutorías con énfasis en clases individuales. |
