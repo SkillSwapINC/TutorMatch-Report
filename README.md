@@ -33,6 +33,7 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
 |    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
+|    1.1     |    8/09/2024     |    Eric Agama, Rodrigo Alcántara       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
 
 ### Project Report Collaboration Insights
 
@@ -246,7 +247,7 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 
 ### Hipótesis de Crecimiento:
 - **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
-- 
+
 ### 1.2.2.4. Lean UX Canvas
 
 # 1.2.2.4. Lean UX Canvas
@@ -311,7 +312,7 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 
 ### Tabla de Análisis Competitivo:
 
-|                     | TutorMatch (Su startup)   | Superprof                 | Udemy                     | Preply                   |
+|                     | TutorMatch   | Superprof                 | Udemy                     | Preply                   |
 |---------------------|---------------------------|---------------------------|---------------------------|--------------------------|
 | **Perfil**          |                           |                           |                           |                          |
 | Overview            | Plataforma de tutorías diseñada específicamente para estudiantes de Ingeniería de Software en la UPC. | Plataforma global de tutorías en diversas materias. | Plataforma de cursos en línea con un amplio rango de temas. | Plataforma global de tutorías con énfasis en clases individuales. |
@@ -441,163 +442,146 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 
 
 ### 2.2.3. Análisis de entrevistas
-## Análisis del Segmento 1
-- 1. Cursos que requieren apoyo académico:
 
+## Análisis del Segmento 1
+
+- **1. Cursos que requieren apoyo académico:**
   - Rodrigo busca ayuda en Aplicaciones Web y Open Source.
   - Mateo enfrenta dificultades en programación en general.
-  - Alejandro menciona dificultades generales en la comprensión de temas debido a la sobrecarga de información. <br>
-- Porcentaje: 100% de los entrevistados identifican cursos específicos o temas generales que requieren apoyo académico.
-<br>
-- 2. Desafíos específicos:
+  - Alejandro menciona dificultades generales en la comprensión de temas debido a la sobrecarga de información.  
+  **Porcentaje:** 100% de los entrevistados identifican cursos específicos o temas generales que requieren apoyo académico.
 
+- **2. Desafíos específicos:**
   - Rodrigo se enfrenta a conceptos avanzados y manejo de múltiples lenguajes.
   - Mateo tiene problemas con la teoría y la programación.
-  - Alejandro lucha con la sobrecarga de información y la autodidacta. <br>
-- Porcentaje: 100% indican desafíos específicos que motivan la búsqueda de ayuda.
-<br>
-- 3. Preferencias para la tutoría:
+  - Alejandro lucha con la sobrecarga de información y la autodidacta.  
+  **Porcentaje:** 100% indican desafíos específicos que motivan la búsqueda de ayuda.
 
+- **3. Preferencias para la tutoría:**
   - Rodrigo prefiere sesiones individuales en línea.
   - Mateo prefiere aprendizaje en línea y en grupo.
-  - Alejandro prefiere sesiones individuales presenciales. <br>
-- Porcentaje:
+  - Alejandro prefiere sesiones individuales presenciales.  
+  **Porcentaje:**
     - Individual: 66.7% (Rodrigo, Alejandro)
     - En línea: 66.7% (Rodrigo, Mateo)
     - En grupo: 33.3% (Mateo)
-<br>
-- 4. Características importantes en un tutor:
 
+- **4. Características importantes en un tutor:**
   - Rodrigo valora paciencia y habilidades de comunicación.
   - Mateo considera crucial el conocimiento técnico y buenas habilidades docentes.
-  - Alejandro destaca el dominio de los temas, claridad y paciencia. <br>
-- Porcentaje:
+  - Alejandro destaca el dominio de los temas, claridad y paciencia.  
+  **Porcentaje:**
     - Paciencia y habilidades de comunicación: 66.7% (Rodrigo, Alejandro)
     - Conocimiento técnico y habilidades docentes: 66.7% (Mateo, Alejandro)
-<br>
-- 5. Experiencia previa con tutorías:
 
+- **5. Experiencia previa con tutorías:**
   - Rodrigo ha tenido experiencias positivas con tutorías grupales.
   - Mateo valora las reuniones en grupo.
-  - Alejandro ha tenido tutorías menos efectivas con un amigo. <br>
-- Porcentaje:
+  - Alejandro ha tenido tutorías menos efectivas con un amigo.  
+  **Porcentaje:**
     - Positiva con tutorías grupales: 33.3% (Rodrigo, Mateo)
     - Negativa o poco efectiva: 33.3% (Alejandro)
-<br>
-- 6. Frecuencia deseada de las tutorías:
 
+- **6. Frecuencia deseada de las tutorías:**
   - Rodrigo necesitaría dos sesiones semanales.
   - Mateo no especifica frecuencia pero valora la interacción en grupo.
-  - Alejandro considera que más sesiones son mejores para la práctica constante. <br>
-- Porcentaje: 66.7% (Rodrigo, Alejandro) prefieren sesiones frecuentes.
-<br>
-- 7. Preferencia del tipo de tutor:
+  - Alejandro considera que más sesiones son mejores para la práctica constante.  
+  **Porcentaje:** 66.7% (Rodrigo, Alejandro) prefieren sesiones frecuentes.
 
+- **7. Preferencia del tipo de tutor:**
   - Rodrigo prefiere un profesional.
   - Mateo valora tanto a estudiantes avanzados como profesionales.
-  - Alejandro no tiene preferencia entre estudiante o profesional. <br>
-- Porcentaje:
+  - Alejandro no tiene preferencia entre estudiante o profesional.  
+  **Porcentaje:**
     - Profesional: 33.3% (Rodrigo)
     - Estudiante avanzado o profesional: 66.7% (Mateo, Alejandro)
-<br>
-- 8. Expectativas de resultados:
 
+- **8. Expectativas de resultados:**
   - Rodrigo busca una mejor comprensión de conceptos complejos.
   - Mateo quiere mejorar en programación y teoría.
-  - Alejandro espera una comprensión más clara y detallada. <br>
-- Porcentaje: 100% tienen expectativas claras de mejora en comprensión y rendimiento.
-<br>
-- 9. Probabilidad de recomendación:
+  - Alejandro espera una comprensión más clara y detallada.  
+  **Porcentaje:** 100% tienen expectativas claras de mejora en comprensión y rendimiento.
 
+- **9. Probabilidad de recomendación:**
   - Rodrigo probablemente recomendaría la plataforma si cumple con sus necesidades.
   - Mateo muestra apertura a recomendar la plataforma si se ajusta a sus preferencias.
-  - Alejandro también estaría dispuesto a recomendar si la experiencia es efectiva. <br>
-- Porcentaje: 100% serían propensos a recomendar la plataforma si cumple con sus expectativas.
+  - Alejandro también estaría dispuesto a recomendar si la experiencia es efectiva.  
+  **Porcentaje:** 100% serían propensos a recomendar la plataforma si cumple con sus expectativas.
 
 ## Análisis del Segmento 2
-- 1. Cursos que consideran dominar:
 
+- **1. Cursos que consideran dominar:**
   - José Cuevas domina cursos clave de Ingeniería de Software (no especificados).
   - Joaquín Cortez menciona Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web y Sistemas Operativos.
-  - Christofer More no especifica cursos concretos, pero sugiere un conocimiento amplio en programación.
-<br>
-- Porcentaje: 100% de los entrevistados tienen dominio en áreas específicas de Ingeniería de Software.
+  - Christofer More no especifica cursos concretos, pero sugiere un conocimiento amplio en programación.  
+  **Porcentaje:** 100% de los entrevistados tienen dominio en áreas específicas de Ingeniería de Software.
 
-- 2. Motivación para ser tutor:
-
+- **2. Motivación para ser tutor:**
   - José Cuevas está motivado por ganar experiencia y ayudar a otros.
   - Joaquín Cortez quiere ayudar a otros, reforzar sus conocimientos y ganar experiencia en comunicación técnica.
-  - Christofer More busca ayudar a otros y ganar una ganancia monetaria extra. <br>
-- Porcentaje:
+  - Christofer More busca ayudar a otros y ganar una ganancia monetaria extra.  
+  **Porcentaje:**
     - Ganar experiencia: 66.7% (José, Joaquín)
     - Ayudar a otros: 100% (José, Joaquín, Christofer)
     - Ingresos: 33.3% (Christofer)
 
-- 3. Estilo de enseñanza:
-
+- **3. Estilo de enseñanza:**
   - José Cuevas utiliza un estilo paciente y personalizado, adaptado a las necesidades del estudiante.
   - Joaquín Cortez tiene un estilo paciente y estructurado, con ejemplos prácticos y herramientas interactivas.
-  - Christofer More explica con ejemplos y línea por línea de código. <br>
-Porcentaje:
+  - Christofer More explica con ejemplos y línea por línea de código.  
+  **Porcentaje:**
     - Paciente: 66.7% (José, Joaquín)
     - Personalizado y estructurado: 66.7% (José, Joaquín)
     - Ejemplos y explicación detallada: 33.3% (Christofer)
-<br>
-- 4. Herramientas y recursos utilizados:
 
+- **4. Herramientas y recursos utilizados:**
   - José Cuevas usa diversas herramientas y métodos adaptados a cada estudiante.
   - Joaquín Cortez utiliza pizarras virtuales y plataformas de codificación en línea.
-  - Christofer More usa ejemplos propios y explica el código línea por línea. <br>
-Porcentaje:
+  - Christofer More usa ejemplos propios y explica el código línea por línea.  
+  **Porcentaje:**
     - Herramientas interactivas y ejemplos: 66.7% (Joaquín, Christofer)
     - Métodos adaptados a las necesidades: 33.3% (José)
-<br>
-- 5. Manejo de estudiantes con dificultades:
 
+- **5. Manejo de estudiantes con dificultades:**
   - José Cuevas adaptaría su enfoque según las necesidades.
   - Joaquín Cortez utilizaría ejemplos prácticos y recursos interactivos.
-  - Christofer More explicaría detalladamente el proceso. <br>
-- Porcentaje: 100% están dispuestos a adaptar su enfoque según las dificultades del estudiante.
-<br>
-- 6. Modalidad de las tutorías:
+  - Christofer More explicaría detalladamente el proceso.  
+  **Porcentaje:** 100% están dispuestos a adaptar su enfoque según las dificultades del estudiante.
 
+- **6. Modalidad de las tutorías:**
   - José Cuevas está dispuesto a ofrecer tutorías en línea y presenciales.
   - Joaquín Cortez también está dispuesto a ofrecer ambas modalidades.
-  - Christofer More no especifica modalidad, pero implícitamente sugiere flexibilidad. <br>
-Porcentaje:
+  - Christofer More no especifica modalidad, pero implícitamente sugiere flexibilidad.  
+  **Porcentaje:**
     - En línea y presenciales: 66.7% (José, Joaquín)
     - No especificado: 33.3% (Christofer)
-<br>
-- 7. Gestión del tiempo entre estudios y tutorías:
 
+- **7. Gestión del tiempo entre estudios y tutorías:**
   - Joaquín Cortez utiliza herramientas de gestión del tiempo.
   - José Cuevas no menciona específicamente, pero se asume flexibilidad.
-  - Christofer More no menciona estrategias de gestión del tiempo. <br>
-- Porcentaje: 33.3% mencionan estrategias de gestión del tiempo específicas.
-<br>
-- 8. Expectativas de la experiencia de ser tutor:
+  - Christofer More no menciona estrategias de gestión del tiempo.  
+  **Porcentaje:** 33.3% mencionan estrategias de gestión del tiempo específicas.
 
+- **8. Expectativas de la experiencia de ser tutor:**
   - José Cuevas espera mejorar sus habilidades de enseñanza y comunicación.
   - Joaquín Cortez espera obtener retroalimentación y mejorar habilidades de enseñanza.
-  - Christofer More busca ayudar a otros y disfrutar del proceso de enseñanza. <br>
-- Porcentaje: 100% tienen expectativas de mejorar en habilidades de enseñanza y comunicación.
-<br>
-- 9. Tipos de estudiantes que se beneficiarían:
+  - Christofer More busca ayudar a otros y disfrutar del proceso de enseñanza.  
+  **Porcentaje:** 100% tienen expectativas de mejorar en habilidades de enseñanza y comunicación.
 
+- **9. Tipos de estudiantes que se beneficiarían:**
   - José Cuevas cree que estudiantes con diversas necesidades se beneficiarían.
   - Joaquín Cortez considera que estudiantes que buscan estructura y ejemplos prácticos.
-  - Christofer More piensa que estudiantes que necesitan explicación detallada. <br>
-Porcentaje:
+  - Christofer More piensa que estudiantes que necesitan explicación detallada.  
+  **Porcentaje:**
     - Diversos tipos de estudiantes: 66.7% (José, Joaquín)
     - Estudiantes con necesidades específicas: 33.3% (Christofer)
-<br>
-- 10. Expectativas sobre la plataforma TutorMatch:
 
+- **10. Expectativas sobre la plataforma TutorMatch:**
   - José Cuevas espera mejorar sus habilidades y conectar con otros tutores.
   - Joaquín Cortez espera recibir retroalimentación y mejorar su enseñanza.
-  - Christofer More no menciona expectativas específicas sobre la plataforma. <br>
-Porcentaje:
-    -  Mejorar habilidades y recibir retroalimentación: 66.7% (José, Joaquín)
+  - Christofer More no menciona expectativas específicas sobre la plataforma.  
+  **Porcentaje:**
+    - Mejorar habilidades y recibir retroalimentación: 66.7% (José, Joaquín)
     - No especificado: 33.3% (Christofer)
 
 ### 2.3 Needfinding
@@ -767,30 +751,264 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 # Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+El diseño general de TutorMatch se enfoca en mantener una estética que combine profesionalismo y accesibilidad, al ser una plataforma dirigida a estudiantes universitarios de Ingeniería de Software de la UPC.
+# Branding
+TutorMatch busca consolidar una identidad visual que inspire confianza y refleje el compromiso académico de la plataforma. La marca debe equilibrar profesionalismo y modernidad, mostrando un enfoque centrado en el aprendizaje colaborativo. Los logotipos, íconos y otros elementos gráficos serán consistentes en todas las interfaces y materiales promocionales, reforzando la presencia de la marca de manera clara y efectiva.
+<br>
+<img src="Images/BrandingPhoto.png" width="300"/>
+# Typography
+La selección tipográfica se centra en fuentes sans-serif como Roboto por su modernidad, simplicidad y legibilidad. Estas fuentes son ideales para interfaces web donde la claridad es primordial. Las jerarquías tipográficas serán claras, utilizando distintos tamaños y pesos para diferenciar títulos, subtítulos y texto principal. De esta manera, se facilita la lectura y se optimiza la experiencia del usuario en la navegación de la plataforma.
+<br>
+<img src="Images/TypeRoboto.png" width="350"/>
+# Colors
+El esquema de colores de TutorMatch está cuidadosamente seleccionado para reflejar profesionalismo y dinamismo. Los colores principales incluyen:
+- EF496D (RGB 239, 73, 109): Este tono de rojo vibrante será utilizado en botones importantes, acciones destacadas, y otros elementos interactivos clave en la interfaz, como los llamados a la acción (CTAs).
+- EFA40A (RGB 239, 164, 10): Un tono anaranjado que se emplea como color de acento en algunos íconos, destacando elementos secundarios en la plataforma.
+- 2C242C (RGB 44, 36, 44): Un tono oscuro y sobrio para fondos y secciones que requieren un enfoque visual más elegante y minimalista.
+- 70111E (RGB 112, 17, 30): Un tono profundo de rojo oscuro utilizado en encabezados, bordes o elementos que requieran atención sin ser intrusivos.
+- 313131 (RGB 49, 49, 49): Esté gris oscuro será el color de fondo predominante, proporcionando una base neutra que permite que los demás colores destaquen.
+- E33744 (RGB 227, 55, 68): Similar al EF496D, pero con un tono ligeramente más suave, este color se emplea en variaciones de botones y elementos interactivos, dando flexibilidad en el diseño sin perder coherencia visual.
+<br>
+<img src="Images/StyleColores.png" width="800"/>
+<br>
+Este esquema de colores logra un balance entre energía y estabilidad, ayudando a dirigir la atención de los usuarios a donde es más relevante sin ser visualmente abrumador.
+
+# Spacing
+Uno de los principios fundamentales del diseño en TutorMatch es el uso adecuado del espaciado. El espaciado generoso entre elementos asegura una interfaz despejada y fácil de navegar. Cada sección, botón y bloque de texto tendrá márgenes y paddings definidos que permitan una experiencia visual relajada y sin saturaciones. Este enfoque también mejora la legibilidad y guía al usuario de manera intuitiva por la plataforma.
+
+# Tone of Communication and Language
+El tono de comunicación de TutorMatch adopta un estilo Formal/Casual y Respetuoso/Entusiasta. Es formal en el sentido de que respeta el contexto académico en el que se encuentra, pero también se busca que sea accesible y amigable para los estudiantes. La plataforma debe transmitir entusiasmo por el aprendizaje, manteniéndose respetuosa y alentadora. Este tono se refleja tanto en el contenido escrito como en los elementos visuales, que deberán ser acogedores y motivadores sin caer en la irreverencia.
+
 ### 4.1.2. Web Style Guidelines
+La guía de estilo web de TutorMatch define los estándares visuales y de interacción que aseguran una experiencia consistente y fluida en interfaces web responsivas. Esta guía proporciona lineamientos clave para diseñadores y desarrolladores, garantizando que la plataforma se adapte correctamente a diferentes dispositivos y tamaños de pantalla.
+
+# Colores
+- Fondo del sitio: Utiliza un fondo oscuro constante #1E1E1E para el cuerpo y secciones.
+- Textos: Los textos principales son blancos #ffffff, lo que asegura legibilidad sobre el fondo oscuro.
+- Colores destacados: Utilización de colores contrastantes para elementos destacados como botones y banners, como el rojo #FA002D y #BC012C.
+
+# Tipografía
+- Fuente principal: Se usa la fuente "Roboto", sans-serif para todo el sitio web, garantizando una experiencia visual coherente y moderna.
+- Tamaños de fuente:
+  - Títulos principales: Tamaños grandes y llamativos.
+  - Texto regular: Tamaños más pequeños y ajustados a la jerarquía de información.
+
+# Interacción
+- Hover y transiciones: Se aplican efectos de hover suaves y transiciones (ease-in-out, 0.3s, 0.5s) a elementos como botones, imágenes, y enlaces, lo que mejora la interactividad del usuario.
+- Botones: Los botones cambian de color o fondo cuando el usuario interactúa con ellos, indicando acción.
+- Escalabilidad: Las imágenes en los botones y logos aumentan de tamaño (scale) al hacer hover, mejorando la visibilidad y el impacto visual.
+
+# Diseño Responsive
+- Diseño basado en rejilla: Se utilizan sistemas de rejilla (grid-template-columns, repeat(auto-fit,minmax(...))) para organizar el contenido en múltiples dispositivos.
+- Adaptabilidad móvil: A través de media queries, los componentes cambian su disposición para pantallas más pequeñas, como la aparición de menús hamburguesa y el ajuste de márgenes y paddings.
+- Navbar: La barra de navegación es completamente responsive, adaptándose a pantallas más pequeñas mediante menús colapsables y visualización adaptativa.
+
+# Estilo de Componentes
+- Navbar: Barra de navegación fija en la parte superior, con fondo semi-transparente y desenfoque.
+- Banners: Se utilizan imágenes de fondo (background-image) y alineación centrada para destacar los bloques importantes.
+- Secciones: Uso de contenedores (containerH, containerM) que mantienen un ancho consistente del 90% y centrado en todo el contenido.
+
+# Accesibilidad
+- Contrastes altos: El uso de colores de texto claro sobre fondos oscuros asegura buena legibilidad y accesibilidad para todos los usuarios
+
 ### 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+Los Sistemas de Organización se refieren a cómo agrupamos y estructuramos la información en la plataforma. Esto afecta la manera en que los usuarios experimentan el sitio y cómo interactúan con él. En nuestro caso, hemos decidido usar tres tipos de organización:
+  - Jerarquía Visual: Es cuando el contenido está organizado de mayor a menor importancia. En la página de inicio de TutorMatch, los elementos más importantes, como la búsqueda de tutores y los cursos más solicitados, estarán más visibles, mientras que la información secundaria estará en otras secciones.
+  - Organización Secuencial: Este enfoque es como una guía paso a paso. Lo usamos cuando el usuario debe seguir un proceso, como encontrar un tutor, programar una sesión y hacer el pago. Cada paso está claramente definido para que el usuario sepa exactamente qué hacer.
+  - Organización Matricial: Esto es útil cuando hay muchas opciones que se deben filtrar. En la sección de búsqueda de tutores, permitimos que los usuarios filtren según diferentes criterios como especialidad, nivel de curso o disponibilidad. Esto ayuda a que encuentren exactamente lo que necesitan sin perderse en un mar de opciones.
+
 ### 4.2.2. Labeling Systems
+
+Los Sistemas de Etiquetado son las etiquetas o palabras clave que usamos para identificar diferentes tipos de información. Es fundamental que las etiquetas sean claras y simples para evitar confusión. Esto implica usar etiquetas cortas y fáciles de entender. Por ejemplo:
+
+  - Los perfiles de tutores tendrán etiquetas como "Disponible" o "Especialidad."
+  - En lugar de usar descripciones largas para los cursos, utilizamos etiquetas simples como "Complejidad Algoritmica" o "Estructuras de Datos."
+
 ### 4.2.3. SEO Tags and Meta Tags
+Las SEO Tags y Meta Tags son fundamentales para hacer que nuestro sitio sea visible en los motores de búsqueda. Estas etiquetas ayudan a que los usuarios que busquen tutorías o cursos específicos puedan encontrarnos fácilmente en Google u otros buscadores. A continuación, algunos ejemplos de lo que incluimos:
+
+  - Título: "Encuentra Tutores en UPC | TutorMatch"
+  - Meta Descripción: Esta es una pequeña descripción que aparece en los resultados de búsqueda, como: "Conéctate con estudiantes de Ingeniería de Software en UPC que ofrecen tutorías en cursos clave como algoritmos y estructuras de datos."
+  - Palabras Clave: Incluimos palabras clave como "TutorMatch, tutores UPC, ayuda en ingeniería de software" para mejorar nuestra visibilidad.
+  - Autor: Indicamos el autor del sitio como "Equipo de TutorMatch."
+
 ### 4.2.4. Searching Systems
+
+Los Sistemas de Navegación definen cómo los usuarios se moverán por la plataforma. La idea es que puedan cumplir sus metas, como encontrar un tutor o registrarse como tal, de forma sencilla. Hemos diseñado la navegación de la siguiente manera:
+
+  - Barra de Navegación Principal: Esta es la típica barra en la parte superior de la pantalla que tiene enlaces a las secciones más importantes, como Inicio, Buscar un Tutor, Ofrecer Tutoría, y Contáctanos. Los usuarios podrán acceder a cualquier parte del sitio desde esta barra en cualquier momento.
+
+  - Navegación Móvil: Para los usuarios que ingresen desde un dispositivo móvil, utilizamos un menú tipo "hamburguesa" que se despliega cuando es necesario, optimizando el espacio en pantalla.
+
 ### 4.2.5. Navigation Systems
+Los Sistemas de Búsqueda son cruciales para que los usuarios encuentren lo que necesitan sin perderse. Hemos diseñado un sistema robusto para ayudar a los estudiantes a encontrar tutores o cursos específicos. Algunas características incluyen:
+
+  - Barra de Búsqueda Global: Esta barra permitirá a los usuarios escribir directamente lo que buscan, como "Base de Datos" o el nombre de un tutor. Está disponible en toda la plataforma.
+
+  - Filtros de Búsqueda: Después de realizar una búsqueda, los usuarios podrán filtrar los resultados por cosas como especialidad del tutor, calificaciones, o disponibilidad de horarios.
+
+  - Resultados Claros: Los resultados de la búsqueda se mostrarán en un formato fácil de entender, con información clave como el nombre del tutor, su especialización y su calificación, permitiendo a los usuarios hacer una elección rápida.
+
+
 ### 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<img src="Images/LandingWireframe1.png" width="550"/>
+<img src="Images/LandingWireframe2.png" width="550"/>
+<img src="Images/LandingWireframe3.png" width="550"/>
+<img src="Images/LandingWireframe4.png" width="550"/>
+<img src="Images/LandingWireframe5.png" width="550"/>
+<br>
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="Images/LandingMock1.png" width="550"/>
+<img src="Images/LandingMock2.png" width="550"/>
+<img src="Images/LandingMock3.png" width="550"/>
+<img src="Images/LandingMock4.png" width="550"/>
+<br>
+
+Mobile Version
+
+<img src="Images/mobile_1.jpg" width="550"/>
+<img src="Images/mobile_2.jpg" width="550"/>
+<img src="Images/mobile_3.jpg" width="550"/>
+<img src="Images/mobile_4.jpg" width="550"/>
+<img src="Images/mobile_5.jpg" width="550"/>
+
 ### 4.4. Web Applications UX/UI Design
+
+La Web Application es la parte principal de TutorMatch, donde los usuarios podran acceder a las funcionalidades y servicios que ofrece la plataforma.
+
 ### 4.4.1. Web Applications Wireframes
+
+link [Figma](https://www.figma.com/design/Kt1QYCPfNt4kGlT2hrw2Lk/TutorMatch?node-id=0-1&t=CzF5SqsyvLSmfIkK-1)
+
+Segmento alumno:
+
+<img src="Images/log_in.jpg">
+
+<img src="Images/sign_up.jpg">
+
+<img src="Images/course_page_student.jpg">
+
+<img src="Images/course_page_student_2.jpg">
+
+<img src="Images/membership.jpg">
+
+Segmento Tutor:
+
+<img src="Images/log_in.jpg">
+
+<img src="Images/sign_up.jpg">
+
+<img src="Images/course_page_tutor.jpg">
+
+<img src="Images/course_page_tutor_2.jpg">
+
+<img src="Images/principal_page_tutor_1.jpg">
+
+<img src="Images/principal_page_tutor_2.jpg">
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+Representacion visual de la navegacion de los usuarios
+
+Link del [Link del LucidChart](https://lucid.app/lucidchart/f27f1597-02ac-46fd-8a5a-64edcb56468d/edit?viewport_loc=-348%2C-5%2C2219%2C1039%2C0_0&invitationId=inv_b833b9f1-f24b-41fa-a6f1-8d165ab346cd)
+
+User Goal: Crear Usuario
+
+<img src="Images/User_goal_create_acccount.jpg">
+
+User Goal: Unirse a curso
+
+<img src="Images/User_goal_join_session.jpg">
+
+User Goal: Crear curso
+
+<img src="Images/User_goal_create_course.jpg">
+
 ### 4.4.3. Web Applications Mock-ups
+
+<img src="Images/image_mockup_1.jpg">
+
+<img src="Images/image_mockup_2.jpg">
+
+<img src="Images/image_mockup_3.jpg">
+
+<img src="Images/image_mockup_4.jpg">
+
+<img src="Images/image_mockup_5.jpg">
+
+<img src="Images/image_mockup_6.jpg">
+
+<img src="Images/image_mockup_7.jpg">
+
+<img src="Images/image_mockup_8.jpg">
+
+<img src="Images/image_mockup_9.jpg">
+
+<img src="Images/image_mockup_10.jpg">
+
+<img src="Images/image_mockup_11.jpg">
+
+<img src="Images/image_mockup_12.jpg">
+
+<img src="Images/image_mockup_13.jpg">
+
+<img src="Images/image_mockup_14.jpg">
+
+<img src="Images/image_mockup_15.jpg">
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+[Link del Lucidchart](https://lucid.app/lucidchart/1e0fa7b1-71ed-4100-b6a2-d1c2a80980e2/edit?viewport_loc=284%2C682%2C4960%2C2216%2C0_0&invitationId=inv_c51626df-9142-48c9-9a36-8c01f80ce266)
+
+User Goal: Crear Cuenta <br>
+Explicación: Este flujo ideal muestra cómo un nuevo usuario puede registrarse de manera rápida y sencilla en TutorMatch. Todo funciona como se espera, sin ningún obstáculo o error que interrumpa el proceso.
+<img src="Images/UserFlowDiagram1.png">
+
+User Goal: Unirse a curso <br>
+Explicación: Un usuario registrado en TutorMatch puede explorar una variedad de cursos, filtrarlos por sus intereses y seleccionar el que más le convenga. Una vez elegido el curso, puede inscribirse fácilmente completando un formulario de registro.
+<img src="Images/UserFlowDiagram2.png">
+
+User Goal: Crear curso <br>
+Explicación: El proceso está diseñado para ser intuitivo y permitir a los tutores crear cursos de manera eficiente. La plataforma ofrece herramientas y guías para facilitar este proceso y asegurar la calidad de los cursos.
+<img src="Images/UserFlowDiagram3.png">
+
 ### 4.5. Web Applications Prototyping
+A continuacion mostramos los prototipos designados para el landing page y aplicación web, adjuntamos video  de la explicacion de los pasos a seguir de los usuarios para usar el prototipo : [Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216698_upc_edu_pe/EXH_9bcuGiZOhzcQd5lcvpYB1hpjJHu8NmtBr43MTVA3hQ?e=LVv3uW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="Images/image_mockup_1.jpg">
+
+<img src="Images/image_mockup_2.jpg">
+
+<img src="Images/image_mockup_3.jpg">
+
 ### 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
+
+  <img src="Images/contextc4.png"/>
+  
 ### 4.6.2. Software Architecture Container Diagrams
+El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch.
+
+  <img src="Images/containerc4.png"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="Images/componentc4.png"/>
+
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+  <img src="Images/class_diagram.png"/>
+  
 ### 4.7.2. Class Dictionary
-# Diccionario de Clases
 
 ## 1. Class User
 | **Atributo**    | **Tipo de variable** | **Descripción**                                             |
@@ -904,6 +1122,8 @@ El Product Backlog es una lista priorizada que contiene todas las característic
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<img src="Images/Database_diagram.png"/>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 En esta sección se establecen las decisiones y convenciones que mantendrán la consistencia a lo largo del ciclo de vida del proyecto. Incluye las subsecciones para **Source Code Management**, **Development Environment Configuration** y **Deployment Configuration**.
@@ -932,9 +1152,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 #### 5. Software Documentation
 - **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
 
----
+### 5.1.2. Source Code Management
 
-## Source Code Management
 En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el código fuente, manteniendo los siguientes repositorios:
 
 - **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
@@ -959,8 +1178,7 @@ Para los mensajes de commits, seguimos el estándar de **Conventional Commits**,
 - **doc**: Para documentación.
 
 <img src="Images/gitflow.png" />
-  
-### 5.1.2. Source Code Management
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para mantener un código limpio, consistente y fácil de mantener en todos los lenguajes utilizados.
@@ -1028,6 +1246,15 @@ En TutorMatch, seguiremos las siguientes buenas prácticas y convenciones para m
     ```
 
 ### 5.1.4. Software Deployment Configuration
+
+Para la realizacion del despliegue debemos seguir los siguientes pasos:
+  1. Primero, creamos un nuevo [repositorio en GitHub](https://github.com/SkillSwapINC/Landing-page.git). Después, subimos los archivos del  proyecto a ese repositorio.
+  2. Una vez que se haya subido todo, nos dirigimos a la configuración del repositorio. Allí, buscamos la sección de "Pages", que aparece en la barra lateral izquierda.
+  3. Luego, se vera una opción que permite seleccionar la rama desde la cual quieres hacer el despliegue. Normalmente, se elige **main**.
+  4. Después de esto, GitHub generará automáticamente una URL para tu sitio.
+<br>
+<img src="Images/LandingDeployment.png" />
+
 ### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
@@ -1088,6 +1315,17 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 [Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se implento en este primer Sprint se diseño la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes del Landing Page.
+
+1.- Sección About us: Aquí, explicamos cómo nuestra plataforma está diseñada para conectar a estudiantes de Ingeniería de Software con tutores calificados que pueden ofrecer apoyo en cursos específicos. Detallamos cómo facilitamos el proceso de aprendizaje al organizar los tutores por ciclo y especialidad, para que puedas encontrar la ayuda que necesitas de manera eficiente. 
+<br>
+<img src="Images/LandingAboutUs.png" />
+
+2.- Sección Tutor Memberships: Detallamos los diferentes planes de membresía disponibles para nuestros tutores, cada uno diseñado para ofrecer beneficios y características específicas que optimizan la experiencia de tutoría en TutorMatch.
+<br>
+<img src="Images/LandingTutorMemberships.png" />
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
