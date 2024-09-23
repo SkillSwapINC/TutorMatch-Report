@@ -462,16 +462,45 @@ Preguntas para estudiantes que requieren ayuda académica en cursos de Ingenier�
 
   ## Segmento 2
 Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorías
-  - ¿Qué cursos de Ingeniería de Software consideras que dominas lo suficiente como para ofrecer tutorías?
-  - ¿Qué te motiva a ser tutor? (Ganar experiencia, ingresos, ayudar a otros estudiantes, etc.)
-  - ¿Cómo describirías tu estilo de enseñanza cuando ayudas a tus compañeros?
-  - ¿Qué herramientas o recursos utilizas para explicar conceptos difíciles?
-  - ¿Cómo manejarías a un estudiante que tiene dificultades para entender un tema específico?
-  - ¿Estarías dispuesto a realizar tutorías en línea, presenciales, o ambas?
-  - ¿Cómo organizarías y gestionarías tu tiempo entre tus estudios y tus sesiones de tutoría?
-  - ¿Qué esperas ganar de la experiencia de ser tutor en la plataforma?
-  - ¿Qué tipos de estudiantes crees que beneficiarán más de tus tutorías?
-  - ¿Cuáles son tus expectativas sobre la plataforma TutorMatch en términos de ayudarte a mejorar como tutor?
+1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿En qué cursos te especializas para ofrecer tutorías?
+
+6. ¿Cuántas horas a la semana estarías disponible para ofrecer tutorías?
+
+7. ¿Has ofrecido tutorías a otros estudiantes antes? Si es así, ¿cómo ha sido tu experiencia?
+
+8. ¿Qué te motiva a ofrecer tutorías a otros estudiantes?
+
+9. ¿Qué esperas ver en una plataforma de tutorías para facilitar tu trabajo como tutor?
+
+10. ¿Qué te gustaría que la aplicación incluyera para hacer más fácil la gestión de tus tutorías?
+
+11. ¿Qué tan cómodo te sientes gestionando tus horarios de tutorías en una plataforma en línea?
+
+12. ¿Qué características te gustaría ver en una plataforma para facilitar la oferta de tus servicios de tutoría?
+
+13. ¿Qué te parece más importante al elegir a qué estudiantes ofrecer tutorías?
+
+14. ¿Qué valoras más en el proceso de retroalimentación de tus alumnos?
+
+15. ¿Cómo prefieres realizar las sesiones de tutoría (presencial, virtual, grupal, individual)?
+
+16. ¿Qué tan importante te parece recibir una compensación económica o académica por tus tutorías?
+
+17. ¿Qué otras funcionalidades o herramientas te gustaría que la plataforma incluyera para mejorar la calidad de tus tutorías?
+
+18. ¿Te gustaría tener acceso a herramientas adicionales para mejorar la calidad de tus tutorías?
+
+19. ¿Qué te motivaría a recomendar la plataforma a otros tutores o estudiantes?
+
+20. ¿Qué crees que se podría mejorar en el proceso de gestionar tus horarios y ofertas de tutoría en línea?
 
 ### 2.2.2. Registro de entrevistas
 
