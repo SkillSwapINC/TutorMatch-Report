@@ -181,19 +181,25 @@ Declaración del Problema
 
 Identificaremos nuestro problema utilizando el método de las 5W y 2H:
 
-What(Qué): ¿Cuál es el problema? - TutorMatch es una plataforma web diseñada para abordar el desafío de encontrar y ofrecer servicios de tutoría dentro del programa de Ingeniería de Software en la UPC. Organiza a los tutores disponibles por curso y especialización para facilitar que los estudiantes se conecten con la persona adecuada para sus necesidades.
+What(Qué): ¿Cuál es el problema? - 
+Los alumnos se estresan al no entender temas académicos y no logran cumplir con las expectativas requeridas para obtener buenas calificaciones en varios cursos.
 
-Who(Quién): ¿A quiénes afecta el problema? - Los principales usuarios de TutorMatch son estudiantes universitarios que necesitan tutoría o están dispuestos a ofrecerla. Esto incluye tanto a los estudiantes que buscan ayuda en cursos específicos como a aquellos que desean compartir sus conocimientos convirtiéndose en tutores.
+Who(Quién): ¿A quiénes afecta el problema? - El problema afecta principalmente a los alumnos de los primeros ciclos, ya que no están familiarizados con el sistema universitario, lo que dificulta su progreso académico y profesional.
 
-When(Cuándo): ¿Cuándo ocurre el problema? - La necesidad de tutoría puede surgir en cualquier momento del trayecto académico de un estudiante, especialmente antes de los exámenes o cuando se enfrentan a cursos particularmente desafiantes. Los estudiantes también pueden buscar apoyo de manera regular para mantener o mejorar su rendimiento académico.
+When(Cuándo): ¿Cuándo ocurre el problema? - 
+El problema surge cuando los estudiantes tienen dificultades para entender los temas académicos de uno o varios cursos. Esto los lleva a estudiar excesivamente sin obtener buenos resultados, buscar tutorías de emergencia o incluso terminar estresados.
 
-Where(Dónde): ¿Dónde ocurre el problema? -  TutorMatch está diseñado específicamente para los estudiantes del programa de Ingeniería de Software de la UPC, aunque la plataforma podría expandirse a otros campos o instituciones a medida que crezca la demanda.
+Where(Dónde): ¿Dónde ocurre el problema? - 
+El problema se presenta tanto en la modalidad presencial como virtual. Los estudiantes experimentan dificultades en ambas modalidades, lo que los obliga a dedicar más tiempo a un solo curso y descuidar otros, generando desequilibrio en su rendimiento académico.
 
-Why(Por qué): ¿Por quá ocurre el problema? - Muchos estudiantes tienen dificultades para seguir el ritmo de sus cursos y requieren apoyo adicional para comprender conceptos difíciles. Al mismo tiempo, los estudiantes con habilidades avanzadas carecen de una forma estructurada de ofrecer servicios de tutoría a sus compañeros. Esto crea una brecha en el proceso de aprendizaje, afectando negativamente el rendimiento académico general y la colaboración entre pares.
+Why(Por qué): ¿Por qué ocurre el problema? - 
+El problema ocurre porque muchos estudiantes tienen dificultades para seguir el ritmo de los cursos y necesitan apoyo adicional para entender conceptos complejos. Al mismo tiempo, los estudiantes con habilidades avanzadas no tienen una manera estructurada de ofrecer tutorías, lo que crea una brecha en el proceso de aprendizaje y afecta el rendimiento académico.
 
-How(Cómo): ¿Cómo ocurre el problema? - TutorMatch proporciona una plataforma fácil de usar que facilita el emparejamiento de estudiantes con tutores según los cursos específicos en los que necesitan ayuda. La plataforma admite tanto sesiones presenciales como virtuales, lo que permite flexibilidad en cómo se imparten las tutorías.
+How(Cómo): ¿Cómo se resolverá el problema? - 
+Desarrollaremos una plataforma web intuitiva que permitirá a los estudiantes de Ingeniería de Software de la UPC encontrar tutores especializados en los cursos de su carrera. La plataforma organizará los cursos por ciclo y especialidad, facilitando la búsqueda y selección de tutores capacitados. Los estudiantes podrán agendar sesiones de tutoría de manera sencilla, mientras que los tutores podrán gestionar sus horarios y ofertas. Además, TutorMatch ofrecerá un sistema de valoración y retroalimentación que garantizará la calidad de las tutorías, optimizando el proceso de aprendizaje.
 
-How Much(Cuánto): ¿Cuál es la magnitud del problema? - Al ofrecer servicios de tutoría a través de una plataforma accesible para todos los estudiantes de la UPC, TutorMatch puede ayudar a los estudiantes a mejorar sus calificaciones y su comprensión de los temas clave. Aunque aún está en desarrollo, la plataforma tiene el potencial de proporcionar un valor significativo a bajo costo o sin costo para los usuarios. También ofrece a los estudiantes que hacen tutoría la oportunidad de ganar experiencia en la enseñanza y potencialmente generar ingresos.
+How Much(Cuánto): ¿Cuál es la magnitud del problema? - 
+Estudios internos han revelado que aproximadamente el 65% de los estudiantes de Ingeniería de Software en la UPC buscan apoyo académico adicional al menos una vez durante sus primeros cuatro ciclos. Esto indica una alta demanda de tutorías y la necesidad de un sistema estructurado que facilite el acceso a estas.
 
 ### 1.2.2. Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
