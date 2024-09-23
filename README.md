@@ -226,19 +226,69 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 ### 1.2.2.2. Lean UX Assumptions
 
 **Assumptions**:
-1. **Valor para los usuarios**:
-   - Los estudiantes valoran una plataforma donde puedan encontrar fácilmente tutorías específicas para los cursos de Ingeniería de Software.
-   - Los tutores valoran una plataforma que les permita ofrecer sus servicios de manera estructurada y con acceso directo a estudiantes que necesitan ayuda.
-
-2. **Accesibilidad**:
-   - Los estudiantes y tutores preferirán una solución que esté integrada con las herramientas que ya utilizan, como su correo electrónico institucional o aplicaciones móviles.
+1. **Business Assumptions**:
    
-3. **Sostenibilidad del modelo**:
-   - El modelo de negocio freemium, donde las tutorías básicas son gratuitas pero se ofrece un servicio premium, es sostenible en el contexto de la UPC.
-   - Los tutores están dispuestos a pagar una suscripción o comisión para acceder a un mayor número de estudiantes o para recibir herramientas adicionales que faciliten sus tutorías.
+   - Los estudiantes de Ingeniería de Software de la UPC están dispuestos a usar una plataforma de tutorías para mejorar su rendimiento académico.
 
-4. **Diferenciación**:
-   - La especialización en Ingeniería de Software es suficiente para diferenciar TutorMatch de otras plataformas de tutorías o de aprendizaje en línea que no están enfocadas en un nicho específico.
+   - Los tutores experimentados desean compartir su conocimiento y tiempo a cambio de compensación económica o académica.
+
+   - La universidad podría estar interesada en apoyar la creación de esta plataforma para mejorar el rendimiento académico general de sus estudiantes.
+
+   - El servicio de tutoría puede integrarse en el ecosistema académico de la universidad sin afectar otros servicios o plataformas existentes.
+
+
+3. **Business Outcomes**:
+   
+   - Aumentar el porcentaje de estudiantes que logran entender los cursos a través de tutorías, lo que se traducirá en una mejora en sus calificaciones.
+
+   - Reducir el nivel de estrés entre los estudiantes de primeros ciclos debido a la falta de comprensión de temas académicos.
+
+   - Crear una red activa de tutores y estudiantes que fomente el aprendizaje colaborativo.
+
+   - Generar ingresos o apoyo institucional para el mantenimiento y desarrollo de la plataforma.
+
+   
+4. **User Assumptions**:
+   
+   - Los estudiantes de primeros ciclos tienen dificultades para comprender temas académicos sin ayuda adicional.
+
+   - Los estudiantes prefieren una solución accesible y organizada por ciclo y especialidad para encontrar tutorías.
+
+   - Los tutores estarán dispuestos a gestionar sus horarios y mantener una relación profesional con sus alumnos a través de la plataforma.
+
+   - Los usuarios (tutores y estudiantes) valorarán la retroalimentación y las calificaciones, lo que impulsará la calidad del servicio.
+
+
+5. **User Outcomes**:
+   
+   - Los estudiantes podrán identificar rápidamente tutores especializados para resolver sus dudas y mejorar su comprensión de los temas.
+
+   - Los tutores tendrán una plataforma eficiente para ofrecer sus servicios, organizar sus horarios y recibir retroalimentación para mejorar su oferta.
+
+   - Los usuarios tendrán una experiencia de uso intuitiva y eficiente que reduzca el tiempo necesario para buscar o agendar tutorías.
+
+   - Un aumento en la satisfacción y el rendimiento académico entre los estudiantes de primeros ciclos.
+  
+6. **Feature Assumptions**:
+   
+  - Una plataforma que organice los tutores por ciclo y especialidad facilitará la búsqueda de ayuda académica.
+
+  - La funcionalidad de agendar sesiones de tutoría será clave para que los estudiantes puedan coordinar fácilmente con los tutores.
+
+  - El sistema de retroalimentación y valoraciones permitirá garantizar la calidad del servicio y fomentará la mejora continua de los tutores.
+
+  - La capacidad de los tutores para gestionar sus propios horarios será esencial para asegurar la disponibilidad y evitar conflictos.
+
+6. **Feature Outcomes**:
+   
+  - El proceso de encontrar un tutor y agendar una sesión será rápido y eficiente, minimizando el tiempo dedicado a la búsqueda.
+
+  - La plataforma creará un entorno confiable donde los estudiantes puedan evaluar la calidad del tutor en base a reseñas y calificaciones.
+
+  - Los tutores podrán manejar su oferta de servicios de manera flexible, optimizando su tiempo y maximizando sus oportunidades de tutoría.
+
+
+
   
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
