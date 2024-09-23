@@ -292,17 +292,33 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
   
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-### Hipótesis de Valor:
-- **Si ofrecemos una plataforma especializada en tutorías para estudiantes de Ingeniería de Software en la UPC**, entonces los estudiantes que necesitan apoyo académico encontrarán valor en la facilidad de encontrar tutores específicos para sus necesidades, lo que resultará en un **mejor rendimiento académico**.
-  
-### Hipótesis de Usabilidad:
-- **Si la plataforma es fácil de usar e intuitiva**, entonces tanto los estudiantes que buscan tutoría como los tutores que ofrecen sus servicios **utilizarán la plataforma regularmente** para gestionar sus tutorías, lo que mejorará la adopción del producto.
+**Hypothesis Statement 1:**
 
-### Hipótesis de Adopción:
-- **Si creamos una comunidad centrada en la Ingeniería de Software y ofrecemos opciones tanto gratuitas como de pago (freemium)**, entonces los estudiantes estarán dispuestos a **registrarse y utilizar la plataforma** inicialmente, y algunos optarán por servicios premium, lo que asegurará la adopción a largo plazo.
+Creemos que los estudiantes de los primeros ciclos de Ingeniería de Software en la UPC que enfrentan dificultades académicas estarán dispuestos a utilizar una plataforma de tutorías para encontrar apoyo en temas complejos.
+Sabremos que esto es cierto cuando veamos un aumento en la cantidad de estudiantes que se registren y utilicen la plataforma para buscar tutores especializados en sus cursos.
+Cuando al menos el 50% de los estudiantes de primeros ciclos que acceden a la plataforma agenden una sesión de tutoría dentro de las primeras semanas de su inscripción.
 
-### Hipótesis de Crecimiento:
-- **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
+**Hypothesis Statement 2:**
+
+Creemos que los tutores experimentados estarán dispuestos a ofrecer su tiempo y conocimiento en la plataforma para ayudar a los estudiantes a comprender mejor los temas de sus cursos.
+Sabremos que esto es cierto cuando veamos que un número significativo de tutores (al menos el 30% del total de posibles tutores) se registre en la plataforma y active sus ofertas de tutoría.
+Cuando los tutores comiencen a gestionar sus horarios y ofertas, y reciban al menos una retroalimentación positiva por sus servicios en la primera semana de actividad.
+
+**Hypothesis Statement 3:**
+
+Creemos que la funcionalidad de organización de cursos por ciclo y especialidad facilitará que los estudiantes encuentren a los tutores adecuados más rápidamente.
+Sabremos que esto es cierto cuando los estudiantes puedan agendar una sesión de tutoría en menos de 10 minutos tras registrarse y buscar un tutor.
+Cuando el 70% de los estudiantes que buscan tutorías utilicen esta funcionalidad para encontrar un tutor en su área de necesidad en menos de tres intentos de búsqueda.
+
+**Hypothesis Statement 4:**
+
+Creemos que un sistema de retroalimentación y valoraciones aumentará la confianza de los estudiantes al seleccionar tutores y mejorará la calidad del servicio ofrecido por los tutores.
+Sabremos que esto es cierto cuando los tutores con mejor valoración reciban un mayor número de solicitudes de tutorías en comparación con los de menor puntuación.
+Cuando los tutores con calificaciones superiores a 4.5 (en una escala de 5) reciban un 30% más de solicitudes en un mes en comparación con aquellos con calificaciones inferiores.
+
+
+
+
 
 ### 1.2.2.4. Lean UX Canvas
 
