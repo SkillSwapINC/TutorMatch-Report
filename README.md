@@ -422,16 +422,44 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 ### 2.2.1. Diseño de entrevistas
  ## Segmento 1
 Preguntas para estudiantes que requieren ayuda académica en cursos de Ingeniería de Software:
-  - ¿Cuáles son los cursos de Ingeniería de Software en los que necesitas más apoyo académico?
-  - ¿Qué desafíos específicos has enfrentado en estos cursos que te llevaron a buscar ayuda?
-  - ¿Cómo prefieres recibir tutoría? (Sesiones en línea, presenciales, individual o en grupo)
-  - ¿Qué consideras más importante en un tutor? (Conocimiento técnico, habilidades de comunicación, paciencia, etc.)
-  - ¿Has recibido tutorías anteriormente? Si es así, ¿qué es lo que más te gustó o no te gustó de la experiencia?
-  - ¿Con qué frecuencia necesitarías sesiones de tutoría para mejorar tu rendimiento académico?
-  - ¿Prefieres que el tutor sea un estudiante avanzado en tu carrera o un profesional?
-  - ¿Cuáles son tus expectativas de resultados al recibir tutoría en un curso específico?
-  - ¿Cómo te sentirías si la plataforma te conectara con tutores especializados en áreas concretas de Ingeniería de Software?
-  - ¿Qué tan probable es que recomiendes la plataforma a otros compañeros que también necesitan apoyo académico?
+ 1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿Cuáles son los cursos en los que necesitas más ayuda?
+
+6. ¿Con qué frecuencia sueles buscar apoyo académico externo?
+
+7. ¿Qué métodos de estudio sueles utilizar cuando tienes dificultades con un curso?
+
+8. ¿Qué te gustaría mejorar en tu comprensión de los temas académicos?
+
+9. ¿Qué esperas ver en una plataforma de tutorías?
+
+10. ¿Qué te gustaría que la aplicación incluyera para mejorar tu experiencia de aprendizaje?
+
+11. ¿Te sentirías cómodo utilizando una plataforma en línea para encontrar tutores?
+
+12. ¿Qué tan importante te parece poder elegir un tutor especializado en tu curso específico?
+
+13. ¿Qué tan importante es para ti la retroalimentación o las calificaciones de los tutores al seleccionar uno?
+
+14. ¿Cuántas horas a la semana estás dispuesto a dedicar a tutorías?
+
+15. ¿Qué te motiva a recomendar un tutor a otros compañeros de clase?
+
+16. ¿Qué tipo de tutorías prefieres (presencial o virtual)?
+
+17. ¿Qué otras funcionalidades te gustaría que la aplicación de tutorías incluyera para hacer el proceso más eficiente o atractivo?
+
+18. ¿Cómo crees que la plataforma podría ayudarte a organizar mejor tu tiempo de estudio?
+
+19. ¿Qué te gustaría mejorar en el proceso de agendar sesiones de tutoría?
+
   ## Segmento 2
 Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorías
   - ¿Qué cursos de Ingeniería de Software consideras que dominas lo suficiente como para ofrecer tutorías?
