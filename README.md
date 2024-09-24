@@ -1111,16 +1111,17 @@ A continuacion mostramos los prototipos designados para el landing page y aplica
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
 
-  <img src="Images/contextc4.png"/>
+  <img src="Images/tutormatch-context-diagram.png"/>
   
 ### 4.6.2. Software Architecture Container Diagrams
 El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch.
 
-  <img src="Images/containerc4.png"/>
+  <img src="Images/tutormatch-container-diagram.png"/>
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="Images/componentc4.png"/>
+<img src="Images/tutormatch-component-diagram.png"/>
 
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -1129,114 +1130,138 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
   
 ### 4.7.2. Class Dictionary
 
-## 1. Class User
-| **Atributo**    | **Tipo de variable** | **Descripción**                                             |
-|-----------------|----------------------|-------------------------------------------------------------|
-| `id`            | `int`                | Identificador único del usuario.                            |
-| `firstName`     | `String`             | Nombre del usuario.                                         |
-| `lastName`      | `String`             | Apellido del usuario.                                       |
-| `email`         | `String`             | Correo electrónico del usuario, utilizado para autenticación.|
-| `password`      | `String`             | Contraseña del usuario para autenticación.                  |
-| `avatar`        | `byte[]`             | Imagen de perfil del usuario.                               |
-| `gender`        | `String`             | Género del usuario.                                         |
-| `cycle`         | `String`             | Ciclo académico del usuario.                                |
-| `registerDate`  | `Timestamp`          | Fecha y hora de registro del usuario.                       |
+Claro, aquí tienes el formato en Markdown:
+
+
+## 1. Clase Tutor
+| **Atributo**   | **Tipo de variable** | **Descripción**                                       |
+|----------------|----------------------|-------------------------------------------------------|
+| `idTutor`      | `int`                | Identificador único del tutor.                        |
+| `name`         | `String`             | Nombre del tutor.                                     |
+| `surname`      | `String`             | Apellido del tutor.                                  |
+| `email`        | `String`             | Correo electrónico del tutor.                        |
+| `password`     | `String`             | Contraseña del tutor para autenticación.              |
+| `avatar`       | `String`             | Imagen de perfil del tutor.                           |
+| `gender`       | `String`             | Género del tutor.                                    |
+| `cycle`        | `String`             | Ciclo académico del tutor.                            |
 
 ---
 
-## 2. Class Tutor
-| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
-|------------------|----------------------|-------------------------------------------------------------|
-| `id`             | `int`                | Identificador único del tutor.                              |
-| `user`           | `User`               | Referencia al usuario que corresponde al tutor.             |
-| `description`    | `String`             | Descripción del tutor, generalmente sobre su experiencia.   |
-| `rating`         | `double`             | Calificación promedio del tutor basada en reseñas.           |
-| `schedule`       | `Schedule`           | Horario disponible del tutor.                               |
+## 2. Clase Learner
+| **Atributo**   | **Tipo de variable** | **Descripción**                                       |
+|----------------|----------------------|-------------------------------------------------------|
+| `idLearner`    | `int`                | Identificador único del aprendiz.                     |
+| `name`         | `String`             | Nombre del aprendiz.                                  |
+| `surname`      | `String`             | Apellido del aprendiz.                               |
+| `email`        | `String`             | Correo electrónico del aprendiz, utilizado para autenticación. |
+| `password`     | `String`             | Contraseña del aprendiz para autenticación.           |
+| `avatar`       | `String`             | Imagen de perfil del aprendiz.                        |
+| `gender`       | `String`             | Género del aprendiz.                                 |
+| `cycle`        | `String`             | Ciclo académico del aprendiz.                         |
 
 ---
 
-## 3. Class Learner
-| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
-|------------------|----------------------|-------------------------------------------------------------|
-| `id`             | `int`                | Identificador único del aprendiz.                           |
-| `user`           | `User`               | Referencia al usuario que corresponde al aprendiz.          |
+## 3. Clase Course
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idCourse`       | `int`                | Identificador único del curso.                        |
+| `name`           | `String`             | Nombre del curso.                                     |
+| `cycle`          | `String`             | Ciclo académico en el que se imparte el curso.       |
+| `description`    | `String`             | Descripción del curso.                                |
 
 ---
 
-## 4. Class Schedule
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único del horario.                            |
-| `availableDate`      | `LocalDateTime`      | Fecha y hora de disponibilidad del tutor.                   |
+## 4. Clase Post
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idPost`         | `int`                | Identificador único de la publicación.                |
+| `title`          | `String`             | Título de la publicación.                             |
+| `description`    | `String`             | Descripción de la publicación o servicio ofrecido.    |
+| `price`          | `decimal`            | Costo del servicio/tutoría ofrecido en la publicación. |
+| `image`          | `String`             | Imagen relacionada a la publicación.                  |
+| `idTutor`        | `int`                | Identificador del tutor asociado a la publicación.     |
+| `idCourse`       | `int`                | Identificador del curso relacionado a la publicación.  |
+| `idRating`       | `int`                | Identificador de la calificación asociada.            |
 
 ---
 
-## 5. Class Subject
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la asignatura.                       |
-| `name`              | `String`             | Nombre de la asignatura.                                    |
-| `cycle`             | `int`                | Ciclo académico en el que se imparte la asignatura.         |
+## 5. Clase Review
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idReview`       | `int`                | Identificador único de la reseña.                     |
+| `comment`        | `String`             | Comentario escrito en la reseña.                      |
+| `idRating`       | `int`                | Identificador de la calificación asignada.            |
+| `idLearner`      | `int`                | Identificador del aprendiz que realiza la reseña.     |
+| `idPost`         | `int`                | Identificador de la publicación asociada a la reseña. |
 
 ---
 
-## 6. Class Review
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la reseña.                           |
-| `learner`           | `Learner`            | Aprendiz que realiza la reseña.                             |
-| `comment`           | `String`             | Comentario escrito en la reseña.                            |
-| `rating`            | `double`             | Calificación asignada en la reseña (valor numérico).         |
+## 6. Clase Rating
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idRating`       | `int`                | Identificador único de la calificación.               |
+| `value`          | `decimal`            | Valor de la calificación.                             |
 
 ---
 
-## 7. Class Post
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la publicación.                      |
-| `title`             | `String`             | Título de la publicación.                                   |
-| `description`       | `String`             | Descripción de la publicación o servicio ofrecido.           |
-| `cost`              | `double`             | Costo del servicio/tutoría ofrecido en la publicación.       |
-| `postImage`         | `byte[]`             | Imagen relacionada a la publicación.                        |
-| `rating`            | `double`             | Calificación promedio de la publicación.                    |
-| `tutor`             | `Tutor`              | Tutor asociado a la publicación.                            |
-| `review`            | `Review`             | Reseña asociada a la publicación.                           |
-| `subject`           | `Subject`            | Asignatura relacionada a la publicación.                    |
-| `schedule`          | `Schedule`           | Horario relacionado a la publicación.                       |
+## 7. Clase Contract
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idContract`     | `int`                | Identificador único del contrato.                     |
+| `idSubscription`  | `int`                | Identificador de la suscripción asociada.             |
+| `startDate`      | `Date`               | Fecha de inicio del contrato.                         |
+| `endDate`        | `Date`               | Fecha de finalización del contrato.                   |
+| `state`          | `String`             | Estado del contrato.                                  |
+| `idTutor`        | `int`                | Identificador del tutor asociado al contrato.         |
 
 ---
 
-## 8. Class Payment
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único del pago.                               |
-| `amount`            | `double`             | Monto total del pago.                                       |
-| `paymentDate`       | `LocalDateTime`      | Fecha y hora en que se realizó el pago.                     |
-| `paymentType`       | `String`             | Método de pago utilizado (tarjeta, PayPal, etc.).            |
-| `tutor`             | `Tutor`              | Tutor asociado al pago.                                     |
-| `membership`        | `Membership`         | Membresía adquirida con el pago.                            |
+## 8. Clase Schedule
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idSchedule`     | `int`                | Identificador único del horario.                      |
+| `startHour`      | `DateTime`           | Hora de inicio de la disponibilidad.                  |
+| `endHour`        | `DateTime`           | Hora de finalización de la disponibilidad.            |
+| `idWeekDay`      | `int`                | Identificador del día de la semana.                  |
+| `idLearner`      | `int`                | Identificador del aprendiz asociado al horario.       |
 
 ---
 
-## 9. Class Subscription
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la suscripción.                      |
-| `startDate`         | `LocalDateTime`      | Fecha de inicio de la suscripción.                          |
-| `endDate`           | `LocalDateTime`      | Fecha de finalización de la suscripción.                    |
-| `tutor`             | `Tutor`              | Tutor que posee la suscripción.                             |
-| `membership`        | `Membership`         | Membresía asociada a la suscripción.                        |
+## 9. Clase Calendar
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idCalendar`     | `int`                | Identificador único del calendario.                   |
+| `idTutor`        | `int`                | Identificador del tutor asociado al calendario.       |
 
 ---
 
-## 10. Class Membership
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la membresía.                        |
-| `name`              | `String`             | Nombre de la membresía.                                     |
-| `cost`              | `double`             | Costo mensual de la membresía.                              |
-| `description`       | `String`             | Descripción detallada de los beneficios de la membresía.     |
-| `monthDuration`     | `int`                | Duración de la membresía en meses.                          |
+## 10. Clase WeekDay
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idWeekDay`      | `int`                | Identificador único del día de la semana.            |
+| `name`           | `String`             | Nombre del día de la semana.                          |
+
+---
+
+## 11. Clase Subscription
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idSubscription`  | `int`               | Identificador único de la suscripción.                |
+| `name`           | `String`             | Nombre de la suscripción.                             |
+| `price`          | `decimal`            | Precio de la suscripción.                             |
+
+---
+
+## 12. Clase Payment
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idPayment`      | `int`                | Identificador único del pago.                         |
+| `amount`         | `decimal`            | Monto total del pago.                                 |
+| `paymentDate`    | `Date`               | Fecha y hora en que se realizó el pago.              |
+| `status`         | `String`             | Estado del pago.                                      |
+| `idContract`     | `int`                | Identificador del contrato asociado al pago.          |
+
+
 
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
