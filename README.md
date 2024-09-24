@@ -728,10 +728,10 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 
 ### 2.3.3. User Journey Mapping
 Journey Map Alumno
-<img src="Images/Map Journey Alumno.png">
+<img src="Images/Student_journey_map_new.png">
 
 Journey Map Tutor
-<img src="Images/Map Journey tutor.png">
+<img src="Images/Tutor_Journey_map_new.png">
 
 ### 2.3.4. Empathy Mapping
 
