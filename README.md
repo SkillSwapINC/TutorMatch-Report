@@ -83,7 +83,7 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.3. pping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
@@ -828,9 +828,9 @@ Las User Stories son una metodología de desarrollo ágil empleada para detallar
 El Impact Mapping es una técnica de planificación estratégica en ingeniería de software que permite visualizar cómo un proyecto aportará valor tanto al negocio como a los usuarios y al sistema. Facilita la identificación de objetivos de negocio, comportamientos de los usuarios, características del sistema y resultados esperados, ayudando a los equipos a centrarse en la entrega de valor y a tomar decisiones más informadas sobre qué características desarrollar y cómo priorizar el trabajo. A continuación, se presenta el Impact Mapping para el proyecto TutorMatch.
 
 * Universitarios de software que buscan apoyo académico (Alumnos):<br>
-  <img src="Images/ImpactMapping_primer_segmento.png"/>
+  <img src="Images/Student_Impact_map_new.png"/>
 * Universitarios de software con habilidades destacadas que buscan enseñar (Tutores):<br>
-  <img src="Images/ImpactMapping_segundo_segmento.png"/>
+  <img src="Images/Tutor_Impact_map_2.png"/>
 
 ### 3.4. Product Backlog
 El Product Backlog es una lista priorizada que contiene todas las características, funcionalidades, mejoras y correcciones que se planea desarrollar para un producto de software. Esta lista se crea y se mantiene a lo largo del ciclo de vida del proyecto y sirve como guía para el equipo de desarrollo, indicando en qué deben trabajar a continuación. A continuación, se presenta el Product Backlog para el proyecto TutorMatch:
