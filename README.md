@@ -181,19 +181,25 @@ Declaración del Problema
 
 Identificaremos nuestro problema utilizando el método de las 5W y 2H:
 
-What(Qué): ¿Cuál es el problema? - TutorMatch es una plataforma web diseñada para abordar el desafío de encontrar y ofrecer servicios de tutoría dentro del programa de Ingeniería de Software en la UPC. Organiza a los tutores disponibles por curso y especialización para facilitar que los estudiantes se conecten con la persona adecuada para sus necesidades.
+What(Qué): ¿Cuál es el problema? - 
+Los alumnos se estresan al no entender temas académicos y no logran cumplir con las expectativas requeridas para obtener buenas calificaciones en varios cursos.
 
-Who(Quién): ¿A quiénes afecta el problema? - Los principales usuarios de TutorMatch son estudiantes universitarios que necesitan tutoría o están dispuestos a ofrecerla. Esto incluye tanto a los estudiantes que buscan ayuda en cursos específicos como a aquellos que desean compartir sus conocimientos convirtiéndose en tutores.
+Who(Quién): ¿A quiénes afecta el problema? - El problema afecta principalmente a los alumnos de los primeros ciclos, ya que no están familiarizados con el sistema universitario, lo que dificulta su progreso académico y profesional.
 
-When(Cuándo): ¿Cuándo ocurre el problema? - La necesidad de tutoría puede surgir en cualquier momento del trayecto académico de un estudiante, especialmente antes de los exámenes o cuando se enfrentan a cursos particularmente desafiantes. Los estudiantes también pueden buscar apoyo de manera regular para mantener o mejorar su rendimiento académico.
+When(Cuándo): ¿Cuándo ocurre el problema? - 
+El problema surge cuando los estudiantes tienen dificultades para entender los temas académicos de uno o varios cursos. Esto los lleva a estudiar excesivamente sin obtener buenos resultados, buscar tutorías de emergencia o incluso terminar estresados.
 
-Where(Dónde): ¿Dónde ocurre el problema? -  TutorMatch está diseñado específicamente para los estudiantes del programa de Ingeniería de Software de la UPC, aunque la plataforma podría expandirse a otros campos o instituciones a medida que crezca la demanda.
+Where(Dónde): ¿Dónde ocurre el problema? - 
+El problema se presenta tanto en la modalidad presencial como virtual. Los estudiantes experimentan dificultades en ambas modalidades, lo que los obliga a dedicar más tiempo a un solo curso y descuidar otros, generando desequilibrio en su rendimiento académico.
 
-Why(Por qué): ¿Por quá ocurre el problema? - Muchos estudiantes tienen dificultades para seguir el ritmo de sus cursos y requieren apoyo adicional para comprender conceptos difíciles. Al mismo tiempo, los estudiantes con habilidades avanzadas carecen de una forma estructurada de ofrecer servicios de tutoría a sus compañeros. Esto crea una brecha en el proceso de aprendizaje, afectando negativamente el rendimiento académico general y la colaboración entre pares.
+Why(Por qué): ¿Por qué ocurre el problema? - 
+El problema ocurre porque muchos estudiantes tienen dificultades para seguir el ritmo de los cursos y necesitan apoyo adicional para entender conceptos complejos. Al mismo tiempo, los estudiantes con habilidades avanzadas no tienen una manera estructurada de ofrecer tutorías, lo que crea una brecha en el proceso de aprendizaje y afecta el rendimiento académico.
 
-How(Cómo): ¿Cómo ocurre el problema? - TutorMatch proporciona una plataforma fácil de usar que facilita el emparejamiento de estudiantes con tutores según los cursos específicos en los que necesitan ayuda. La plataforma admite tanto sesiones presenciales como virtuales, lo que permite flexibilidad en cómo se imparten las tutorías.
+How(Cómo): ¿Cómo se resolverá el problema? - 
+Desarrollaremos una plataforma web intuitiva que permitirá a los estudiantes de Ingeniería de Software de la UPC encontrar tutores especializados en los cursos de su carrera. La plataforma organizará los cursos por ciclo y especialidad, facilitando la búsqueda y selección de tutores capacitados. Los estudiantes podrán agendar sesiones de tutoría de manera sencilla, mientras que los tutores podrán gestionar sus horarios y ofertas. Además, TutorMatch ofrecerá un sistema de valoración y retroalimentación que garantizará la calidad de las tutorías, optimizando el proceso de aprendizaje.
 
-How Much(Cuánto): ¿Cuál es la magnitud del problema? - Al ofrecer servicios de tutoría a través de una plataforma accesible para todos los estudiantes de la UPC, TutorMatch puede ayudar a los estudiantes a mejorar sus calificaciones y su comprensión de los temas clave. Aunque aún está en desarrollo, la plataforma tiene el potencial de proporcionar un valor significativo a bajo costo o sin costo para los usuarios. También ofrece a los estudiantes que hacen tutoría la oportunidad de ganar experiencia en la enseñanza y potencialmente generar ingresos.
+How Much(Cuánto): ¿Cuál es la magnitud del problema? - 
+Estudios internos han revelado que aproximadamente el 65% de los estudiantes de Ingeniería de Software en la UPC buscan apoyo académico adicional al menos una vez durante sus primeros cuatro ciclos. Esto indica una alta demanda de tutorías y la necesidad de un sistema estructurado que facilite el acceso a estas.
 
 ### 1.2.2. Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
@@ -220,46 +226,102 @@ Estudiantes de Ingeniería de Software en la UPC, tanto los que buscan tutorías
 ### 1.2.2.2. Lean UX Assumptions
 
 **Assumptions**:
-1. **Valor para los usuarios**:
-   - Los estudiantes valoran una plataforma donde puedan encontrar fácilmente tutorías específicas para los cursos de Ingeniería de Software.
-   - Los tutores valoran una plataforma que les permita ofrecer sus servicios de manera estructurada y con acceso directo a estudiantes que necesitan ayuda.
-
-2. **Accesibilidad**:
-   - Los estudiantes y tutores preferirán una solución que esté integrada con las herramientas que ya utilizan, como su correo electrónico institucional o aplicaciones móviles.
+1. **Business Assumptions**:
    
-3. **Sostenibilidad del modelo**:
-   - El modelo de negocio freemium, donde las tutorías básicas son gratuitas pero se ofrece un servicio premium, es sostenible en el contexto de la UPC.
-   - Los tutores están dispuestos a pagar una suscripción o comisión para acceder a un mayor número de estudiantes o para recibir herramientas adicionales que faciliten sus tutorías.
+   - Los estudiantes de Ingeniería de Software de la UPC están dispuestos a usar una plataforma de tutorías para mejorar su rendimiento académico.
 
-4. **Diferenciación**:
-   - La especialización en Ingeniería de Software es suficiente para diferenciar TutorMatch de otras plataformas de tutorías o de aprendizaje en línea que no están enfocadas en un nicho específico.
+   - Los tutores experimentados desean compartir su conocimiento y tiempo a cambio de compensación económica o académica.
+
+   - La universidad podría estar interesada en apoyar la creación de esta plataforma para mejorar el rendimiento académico general de sus estudiantes.
+
+   - El servicio de tutoría puede integrarse en el ecosistema académico de la universidad sin afectar otros servicios o plataformas existentes.
+
+
+3. **Business Outcomes**:
+   
+   - Aumentar el porcentaje de estudiantes que logran entender los cursos a través de tutorías, lo que se traducirá en una mejora en sus calificaciones.
+
+   - Reducir el nivel de estrés entre los estudiantes de primeros ciclos debido a la falta de comprensión de temas académicos.
+
+   - Crear una red activa de tutores y estudiantes que fomente el aprendizaje colaborativo.
+
+   - Generar ingresos o apoyo institucional para el mantenimiento y desarrollo de la plataforma.
+
+   
+4. **User Assumptions**:
+   
+   - Los estudiantes de primeros ciclos tienen dificultades para comprender temas académicos sin ayuda adicional.
+
+   - Los estudiantes prefieren una solución accesible y organizada por ciclo y especialidad para encontrar tutorías.
+
+   - Los tutores estarán dispuestos a gestionar sus horarios y mantener una relación profesional con sus alumnos a través de la plataforma.
+
+   - Los usuarios (tutores y estudiantes) valorarán la retroalimentación y las calificaciones, lo que impulsará la calidad del servicio.
+
+
+5. **User Outcomes**:
+   
+   - Los estudiantes podrán identificar rápidamente tutores especializados para resolver sus dudas y mejorar su comprensión de los temas.
+
+   - Los tutores tendrán una plataforma eficiente para ofrecer sus servicios, organizar sus horarios y recibir retroalimentación para mejorar su oferta.
+
+   - Los usuarios tendrán una experiencia de uso intuitiva y eficiente que reduzca el tiempo necesario para buscar o agendar tutorías.
+
+   - Un aumento en la satisfacción y el rendimiento académico entre los estudiantes de primeros ciclos.
+  
+6. **Feature Assumptions**:
+   
+  - Una plataforma que organice los tutores por ciclo y especialidad facilitará la búsqueda de ayuda académica.
+
+  - La funcionalidad de agendar sesiones de tutoría será clave para que los estudiantes puedan coordinar fácilmente con los tutores.
+
+  - El sistema de retroalimentación y valoraciones permitirá garantizar la calidad del servicio y fomentará la mejora continua de los tutores.
+
+  - La capacidad de los tutores para gestionar sus propios horarios será esencial para asegurar la disponibilidad y evitar conflictos.
+
+6. **Feature Outcomes**:
+   
+  - El proceso de encontrar un tutor y agendar una sesión será rápido y eficiente, minimizando el tiempo dedicado a la búsqueda.
+
+  - La plataforma creará un entorno confiable donde los estudiantes puedan evaluar la calidad del tutor en base a reseñas y calificaciones.
+
+  - Los tutores podrán manejar su oferta de servicios de manera flexible, optimizando su tiempo y maximizando sus oportunidades de tutoría.
+
+
+
   
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-### Hipótesis de Valor:
-- **Si ofrecemos una plataforma especializada en tutorías para estudiantes de Ingeniería de Software en la UPC**, entonces los estudiantes que necesitan apoyo académico encontrarán valor en la facilidad de encontrar tutores específicos para sus necesidades, lo que resultará en un **mejor rendimiento académico**.
-  
-### Hipótesis de Usabilidad:
-- **Si la plataforma es fácil de usar e intuitiva**, entonces tanto los estudiantes que buscan tutoría como los tutores que ofrecen sus servicios **utilizarán la plataforma regularmente** para gestionar sus tutorías, lo que mejorará la adopción del producto.
+**Hypothesis Statement 1:**
 
-### Hipótesis de Adopción:
-- **Si creamos una comunidad centrada en la Ingeniería de Software y ofrecemos opciones tanto gratuitas como de pago (freemium)**, entonces los estudiantes estarán dispuestos a **registrarse y utilizar la plataforma** inicialmente, y algunos optarán por servicios premium, lo que asegurará la adopción a largo plazo.
+Creemos que los estudiantes de los primeros ciclos de Ingeniería de Software en la UPC que enfrentan dificultades académicas estarán dispuestos a utilizar una plataforma de tutorías para encontrar apoyo en temas complejos.
+Sabremos que esto es cierto cuando veamos un aumento en la cantidad de estudiantes que se registren y utilicen la plataforma para buscar tutores especializados en sus cursos.
+Cuando al menos el 50% de los estudiantes de primeros ciclos que acceden a la plataforma agenden una sesión de tutoría dentro de las primeras semanas de su inscripción.
 
-### Hipótesis de Crecimiento:
-- **Si la plataforma permite a los estudiantes de Ingeniería de Software ofrecer sus servicios como tutores y generar ingresos adicionales**, entonces los tutores estarán motivados para **registrarse y participar activamente**, lo que aumentará la oferta de tutorías disponibles y el crecimiento de la plataforma.
+**Hypothesis Statement 2:**
+
+Creemos que los tutores experimentados estarán dispuestos a ofrecer su tiempo y conocimiento en la plataforma para ayudar a los estudiantes a comprender mejor los temas de sus cursos.
+Sabremos que esto es cierto cuando veamos que un número significativo de tutores (al menos el 30% del total de posibles tutores) se registre en la plataforma y active sus ofertas de tutoría.
+Cuando los tutores comiencen a gestionar sus horarios y ofertas, y reciban al menos una retroalimentación positiva por sus servicios en la primera semana de actividad.
+
+**Hypothesis Statement 3:**
+
+Creemos que la funcionalidad de organización de cursos por ciclo y especialidad facilitará que los estudiantes encuentren a los tutores adecuados más rápidamente.
+Sabremos que esto es cierto cuando los estudiantes puedan agendar una sesión de tutoría en menos de 10 minutos tras registrarse y buscar un tutor.
+Cuando el 70% de los estudiantes que buscan tutorías utilicen esta funcionalidad para encontrar un tutor en su área de necesidad en menos de tres intentos de búsqueda.
+
+**Hypothesis Statement 4:**
+
+Creemos que un sistema de retroalimentación y valoraciones aumentará la confianza de los estudiantes al seleccionar tutores y mejorará la calidad del servicio ofrecido por los tutores.
+Sabremos que esto es cierto cuando los tutores con mejor valoración reciban un mayor número de solicitudes de tutorías en comparación con los de menor puntuación.
+Cuando los tutores con calificaciones superiores a 4.5 (en una escala de 5) reciban un 30% más de solicitudes en un mes en comparación con aquellos con calificaciones inferiores.
+
 
 ### 1.2.2.4. Lean UX Canvas
 
-# 1.2.2.4. Lean UX Canvas
+<img src="Images/UpdateCanvas.png"/>
 
-| **Problem Statement**                                                                                         | **Target Audience**                                     | **Assumptions**                                                                                                                                                                                                       | **Hipótesis**                                                                                                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TutorMatch tiene como objetivo resolver el problema de **conectar a los estudiantes del programa de Ingeniería de Software de la UPC** con **tutores calificados** para obtener apoyo académico personalizado. | - Estudiantes que necesitan ayuda académica en cursos de Ingeniería de Software. <br> - Estudiantes con habilidades destacadas que desean ofrecer servicios de tutoría. | - Los estudiantes tienen dificultades para encontrar **tutorías específicas** para sus cursos. <br> - Los tutores no cuentan con una **plataforma estructurada** para ofrecer sus servicios. <br> - Una plataforma especializada es un **diferenciador**. | - Si creamos una **plataforma especializada para tutorías en Ingeniería de Software**, entonces los estudiantes **mejorarán académicamente** al encontrar la ayuda exacta que necesitan. <br> - Si ofrecemos un **modelo freemium**, los usuarios participarán más. |
-
-| **Key Features**                                                                                             | **User Tasks**                                     | **Risks**                                                                                                                                                                                                          | **Metrics**                                                                                                                                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Una plataforma que **empareja estudiantes y tutores** según cursos y especializaciones. <br> - Opciones de tutorías **presenciales y en línea**. <br> - **Interfaz amigable para móviles**. | - Los estudiantes pueden **buscar fácilmente tutores** por curso o asignatura específica.<br> - Los tutores pueden **registrarse y listar** sus calificaciones y disponibilidad.                                        | - Los estudiantes podrían **no adoptar** la plataforma si es demasiado compleja o inconveniente.<br> - Los tutores podrían **no participar** si no ven suficiente valor en registrarse.<br> - El **modelo freemium** podría no ser rentable. | - Estudiantes y tutores registrados - Sesiones de tutoría completadas - Frecuencia de uso de la plataforma - Tasa de satisfacción de usuarios- Retención de usuarios- Crecimiento mensual de usuarios- Ingresos generados- Conversión de usuarios freemium a premium
-
+[Link del Figma](https://www.figma.com/board/sndiwVTsQuXViXVQDjuGhT/Lean-UX-Canvas-(v2)-(Community)?node-id=0-1&t=j5uISMwrxwXjoOwQ-1)
 
 ### 1.3. Segmentos objetivo
 
@@ -360,28 +422,85 @@ Este análisis busca identificar las fortalezas y debilidades de los principales
 ### 2.2.1. Diseño de entrevistas
  ## Segmento 1
 Preguntas para estudiantes que requieren ayuda académica en cursos de Ingeniería de Software:
-  - ¿Cuáles son los cursos de Ingeniería de Software en los que necesitas más apoyo académico?
-  - ¿Qué desafíos específicos has enfrentado en estos cursos que te llevaron a buscar ayuda?
-  - ¿Cómo prefieres recibir tutoría? (Sesiones en línea, presenciales, individual o en grupo)
-  - ¿Qué consideras más importante en un tutor? (Conocimiento técnico, habilidades de comunicación, paciencia, etc.)
-  - ¿Has recibido tutorías anteriormente? Si es así, ¿qué es lo que más te gustó o no te gustó de la experiencia?
-  - ¿Con qué frecuencia necesitarías sesiones de tutoría para mejorar tu rendimiento académico?
-  - ¿Prefieres que el tutor sea un estudiante avanzado en tu carrera o un profesional?
-  - ¿Cuáles son tus expectativas de resultados al recibir tutoría en un curso específico?
-  - ¿Cómo te sentirías si la plataforma te conectara con tutores especializados en áreas concretas de Ingeniería de Software?
-  - ¿Qué tan probable es que recomiendes la plataforma a otros compañeros que también necesitan apoyo académico?
+ 1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿Cuáles son los cursos en los que necesitas más ayuda?
+
+6. ¿Con qué frecuencia sueles buscar apoyo académico externo?
+
+7. ¿Qué métodos de estudio sueles utilizar cuando tienes dificultades con un curso?
+
+8. ¿Qué te gustaría mejorar en tu comprensión de los temas académicos?
+
+9. ¿Qué esperas ver en una plataforma de tutorías?
+
+10. ¿Qué te gustaría que la aplicación incluyera para mejorar tu experiencia de aprendizaje?
+
+11. ¿Te sentirías cómodo utilizando una plataforma en línea para encontrar tutores?
+
+12. ¿Qué tan importante te parece poder elegir un tutor especializado en tu curso específico?
+
+13. ¿Qué tan importante es para ti la retroalimentación o las calificaciones de los tutores al seleccionar uno?
+
+14. ¿Cuántas horas a la semana estás dispuesto a dedicar a tutorías?
+
+15. ¿Qué te motiva a recomendar un tutor a otros compañeros de clase?
+
+16. ¿Qué tipo de tutorías prefieres (presencial o virtual)?
+
+17. ¿Qué otras funcionalidades te gustaría que la aplicación de tutorías incluyera para hacer el proceso más eficiente o atractivo?
+
+18. ¿Cómo crees que la plataforma podría ayudarte a organizar mejor tu tiempo de estudio?
+
+19. ¿Qué te gustaría mejorar en el proceso de agendar sesiones de tutoría?
+
   ## Segmento 2
 Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorías
-  - ¿Qué cursos de Ingeniería de Software consideras que dominas lo suficiente como para ofrecer tutorías?
-  - ¿Qué te motiva a ser tutor? (Ganar experiencia, ingresos, ayudar a otros estudiantes, etc.)
-  - ¿Cómo describirías tu estilo de enseñanza cuando ayudas a tus compañeros?
-  - ¿Qué herramientas o recursos utilizas para explicar conceptos difíciles?
-  - ¿Cómo manejarías a un estudiante que tiene dificultades para entender un tema específico?
-  - ¿Estarías dispuesto a realizar tutorías en línea, presenciales, o ambas?
-  - ¿Cómo organizarías y gestionarías tu tiempo entre tus estudios y tus sesiones de tutoría?
-  - ¿Qué esperas ganar de la experiencia de ser tutor en la plataforma?
-  - ¿Qué tipos de estudiantes crees que beneficiarán más de tus tutorías?
-  - ¿Cuáles son tus expectativas sobre la plataforma TutorMatch en términos de ayudarte a mejorar como tutor?
+1. ¿Cual es su nombre?
+
+2. ¿Qué edad tiene?
+
+3. ¿De qué sede eres?
+
+4. ¿En qué ciclo de la carrera te encuentras?
+
+5. ¿En qué cursos te especializas para ofrecer tutorías?
+
+6. ¿Cuántas horas a la semana estarías disponible para ofrecer tutorías?
+
+7. ¿Has ofrecido tutorías a otros estudiantes antes? Si es así, ¿cómo ha sido tu experiencia?
+
+8. ¿Qué te motiva a ofrecer tutorías a otros estudiantes?
+
+9. ¿Qué esperas ver en una plataforma de tutorías para facilitar tu trabajo como tutor?
+
+10. ¿Qué te gustaría que la aplicación incluyera para hacer más fácil la gestión de tus tutorías?
+
+11. ¿Qué tan cómodo te sientes gestionando tus horarios de tutorías en una plataforma en línea?
+
+12. ¿Qué características te gustaría ver en una plataforma para facilitar la oferta de tus servicios de tutoría?
+
+13. ¿Qué te parece más importante al elegir a qué estudiantes ofrecer tutorías?
+
+14. ¿Qué valoras más en el proceso de retroalimentación de tus alumnos?
+
+15. ¿Cómo prefieres realizar las sesiones de tutoría (presencial, virtual, grupal, individual)?
+
+16. ¿Qué tan importante te parece recibir una compensación económica o académica por tus tutorías?
+
+17. ¿Qué otras funcionalidades o herramientas te gustaría que la plataforma incluyera para mejorar la calidad de tus tutorías?
+
+18. ¿Te gustaría tener acceso a herramientas adicionales para mejorar la calidad de tus tutorías?
+
+19. ¿Qué te motivaría a recomendar la plataforma a otros tutores o estudiantes?
+
+20. ¿Qué crees que se podría mejorar en el proceso de gestionar tus horarios y ofertas de tutoría en línea?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -609,10 +728,10 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 
 ### 2.3.3. User Journey Mapping
 Journey Map Alumno
-<img src="Images/Map Journey Alumno.png">
+<img src="Images/Student_journey_map_new.png">
 
 Journey Map Tutor
-<img src="Images/Map Journey tutor.png">
+<img src="Images/Tutor_Journey_map_new.png">
 
 ### 2.3.4. Empathy Mapping
 
@@ -709,9 +828,9 @@ Las User Stories son una metodología de desarrollo ágil empleada para detallar
 El Impact Mapping es una técnica de planificación estratégica en ingeniería de software que permite visualizar cómo un proyecto aportará valor tanto al negocio como a los usuarios y al sistema. Facilita la identificación de objetivos de negocio, comportamientos de los usuarios, características del sistema y resultados esperados, ayudando a los equipos a centrarse en la entrega de valor y a tomar decisiones más informadas sobre qué características desarrollar y cómo priorizar el trabajo. A continuación, se presenta el Impact Mapping para el proyecto TutorMatch.
 
 * Universitarios de software que buscan apoyo académico (Alumnos):<br>
-  <img src="Images/ImpactMapping_primer_segmento.png"/>
+  <img src="Images/Student_Impact_map_new.png"/>
 * Universitarios de software con habilidades destacadas que buscan enseñar (Tutores):<br>
-  <img src="Images/ImpactMapping_segundo_segmento.png"/>
+  <img src="Images/Tutor_Impact_map_2.png"/>
 
 ### 3.4. Product Backlog
 El Product Backlog es una lista priorizada que contiene todas las características, funcionalidades, mejoras y correcciones que se planea desarrollar para un producto de software. Esta lista se crea y se mantiene a lo largo del ciclo de vida del proyecto y sirve como guía para el equipo de desarrollo, indicando en qué deben trabajar a continuación. A continuación, se presenta el Product Backlog para el proyecto TutorMatch:
@@ -992,16 +1111,17 @@ A continuacion mostramos los prototipos designados para el landing page y aplica
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto ofrece una visión general de cómo la página TutorMatch interactúa con sus usuarios. Muestra las relaciones principales entre la plataforma y los diferentes tipos de usuarios, como estudiantes y tutores, y cualquier posible integración con sistemas externos.
 
-  <img src="Images/contextc4.png"/>
+  <img src="Images/tutormatch-context-diagram.png"/>
   
 ### 4.6.2. Software Architecture Container Diagrams
 El diagrama de contenedores muestra una vista de las relaciones entre la página principal de TutorMatch, la aplicación web, el gateway de API y los contextos delimitados que forman parte de la arquitectura del sistema TutorMatch.
 
-  <img src="Images/containerc4.png"/>
+  <img src="Images/tutormatch-container-diagram.png"/>
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="Images/componentc4.png"/>
+<img src="Images/tutormatch-component-diagram.png"/>
 
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -1010,114 +1130,138 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
   
 ### 4.7.2. Class Dictionary
 
-## 1. Class User
-| **Atributo**    | **Tipo de variable** | **Descripción**                                             |
-|-----------------|----------------------|-------------------------------------------------------------|
-| `id`            | `int`                | Identificador único del usuario.                            |
-| `firstName`     | `String`             | Nombre del usuario.                                         |
-| `lastName`      | `String`             | Apellido del usuario.                                       |
-| `email`         | `String`             | Correo electrónico del usuario, utilizado para autenticación.|
-| `password`      | `String`             | Contraseña del usuario para autenticación.                  |
-| `avatar`        | `byte[]`             | Imagen de perfil del usuario.                               |
-| `gender`        | `String`             | Género del usuario.                                         |
-| `cycle`         | `String`             | Ciclo académico del usuario.                                |
-| `registerDate`  | `Timestamp`          | Fecha y hora de registro del usuario.                       |
+Claro, aquí tienes el formato en Markdown:
+
+
+## 1. Clase Tutor
+| **Atributo**   | **Tipo de variable** | **Descripción**                                       |
+|----------------|----------------------|-------------------------------------------------------|
+| `idTutor`      | `int`                | Identificador único del tutor.                        |
+| `name`         | `String`             | Nombre del tutor.                                     |
+| `surname`      | `String`             | Apellido del tutor.                                  |
+| `email`        | `String`             | Correo electrónico del tutor.                        |
+| `password`     | `String`             | Contraseña del tutor para autenticación.              |
+| `avatar`       | `String`             | Imagen de perfil del tutor.                           |
+| `gender`       | `String`             | Género del tutor.                                    |
+| `cycle`        | `String`             | Ciclo académico del tutor.                            |
 
 ---
 
-## 2. Class Tutor
-| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
-|------------------|----------------------|-------------------------------------------------------------|
-| `id`             | `int`                | Identificador único del tutor.                              |
-| `user`           | `User`               | Referencia al usuario que corresponde al tutor.             |
-| `description`    | `String`             | Descripción del tutor, generalmente sobre su experiencia.   |
-| `rating`         | `double`             | Calificación promedio del tutor basada en reseñas.           |
-| `schedule`       | `Schedule`           | Horario disponible del tutor.                               |
+## 2. Clase Learner
+| **Atributo**   | **Tipo de variable** | **Descripción**                                       |
+|----------------|----------------------|-------------------------------------------------------|
+| `idLearner`    | `int`                | Identificador único del aprendiz.                     |
+| `name`         | `String`             | Nombre del aprendiz.                                  |
+| `surname`      | `String`             | Apellido del aprendiz.                               |
+| `email`        | `String`             | Correo electrónico del aprendiz, utilizado para autenticación. |
+| `password`     | `String`             | Contraseña del aprendiz para autenticación.           |
+| `avatar`       | `String`             | Imagen de perfil del aprendiz.                        |
+| `gender`       | `String`             | Género del aprendiz.                                 |
+| `cycle`        | `String`             | Ciclo académico del aprendiz.                         |
 
 ---
 
-## 3. Class Learner
-| **Atributo**     | **Tipo de variable** | **Descripción**                                             |
-|------------------|----------------------|-------------------------------------------------------------|
-| `id`             | `int`                | Identificador único del aprendiz.                           |
-| `user`           | `User`               | Referencia al usuario que corresponde al aprendiz.          |
+## 3. Clase Course
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idCourse`       | `int`                | Identificador único del curso.                        |
+| `name`           | `String`             | Nombre del curso.                                     |
+| `cycle`          | `String`             | Ciclo académico en el que se imparte el curso.       |
+| `description`    | `String`             | Descripción del curso.                                |
 
 ---
 
-## 4. Class Schedule
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único del horario.                            |
-| `availableDate`      | `LocalDateTime`      | Fecha y hora de disponibilidad del tutor.                   |
+## 4. Clase Post
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idPost`         | `int`                | Identificador único de la publicación.                |
+| `title`          | `String`             | Título de la publicación.                             |
+| `description`    | `String`             | Descripción de la publicación o servicio ofrecido.    |
+| `price`          | `decimal`            | Costo del servicio/tutoría ofrecido en la publicación. |
+| `image`          | `String`             | Imagen relacionada a la publicación.                  |
+| `idTutor`        | `int`                | Identificador del tutor asociado a la publicación.     |
+| `idCourse`       | `int`                | Identificador del curso relacionado a la publicación.  |
+| `idRating`       | `int`                | Identificador de la calificación asociada.            |
 
 ---
 
-## 5. Class Subject
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la asignatura.                       |
-| `name`              | `String`             | Nombre de la asignatura.                                    |
-| `cycle`             | `int`                | Ciclo académico en el que se imparte la asignatura.         |
+## 5. Clase Review
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idReview`       | `int`                | Identificador único de la reseña.                     |
+| `comment`        | `String`             | Comentario escrito en la reseña.                      |
+| `idRating`       | `int`                | Identificador de la calificación asignada.            |
+| `idLearner`      | `int`                | Identificador del aprendiz que realiza la reseña.     |
+| `idPost`         | `int`                | Identificador de la publicación asociada a la reseña. |
 
 ---
 
-## 6. Class Review
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la reseña.                           |
-| `learner`           | `Learner`            | Aprendiz que realiza la reseña.                             |
-| `comment`           | `String`             | Comentario escrito en la reseña.                            |
-| `rating`            | `double`             | Calificación asignada en la reseña (valor numérico).         |
+## 6. Clase Rating
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idRating`       | `int`                | Identificador único de la calificación.               |
+| `value`          | `decimal`            | Valor de la calificación.                             |
 
 ---
 
-## 7. Class Post
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la publicación.                      |
-| `title`             | `String`             | Título de la publicación.                                   |
-| `description`       | `String`             | Descripción de la publicación o servicio ofrecido.           |
-| `cost`              | `double`             | Costo del servicio/tutoría ofrecido en la publicación.       |
-| `postImage`         | `byte[]`             | Imagen relacionada a la publicación.                        |
-| `rating`            | `double`             | Calificación promedio de la publicación.                    |
-| `tutor`             | `Tutor`              | Tutor asociado a la publicación.                            |
-| `review`            | `Review`             | Reseña asociada a la publicación.                           |
-| `subject`           | `Subject`            | Asignatura relacionada a la publicación.                    |
-| `schedule`          | `Schedule`           | Horario relacionado a la publicación.                       |
+## 7. Clase Contract
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idContract`     | `int`                | Identificador único del contrato.                     |
+| `idSubscription`  | `int`                | Identificador de la suscripción asociada.             |
+| `startDate`      | `Date`               | Fecha de inicio del contrato.                         |
+| `endDate`        | `Date`               | Fecha de finalización del contrato.                   |
+| `state`          | `String`             | Estado del contrato.                                  |
+| `idTutor`        | `int`                | Identificador del tutor asociado al contrato.         |
 
 ---
 
-## 8. Class Payment
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único del pago.                               |
-| `amount`            | `double`             | Monto total del pago.                                       |
-| `paymentDate`       | `LocalDateTime`      | Fecha y hora en que se realizó el pago.                     |
-| `paymentType`       | `String`             | Método de pago utilizado (tarjeta, PayPal, etc.).            |
-| `tutor`             | `Tutor`              | Tutor asociado al pago.                                     |
-| `membership`        | `Membership`         | Membresía adquirida con el pago.                            |
+## 8. Clase Schedule
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idSchedule`     | `int`                | Identificador único del horario.                      |
+| `startHour`      | `DateTime`           | Hora de inicio de la disponibilidad.                  |
+| `endHour`        | `DateTime`           | Hora de finalización de la disponibilidad.            |
+| `idWeekDay`      | `int`                | Identificador del día de la semana.                  |
+| `idLearner`      | `int`                | Identificador del aprendiz asociado al horario.       |
 
 ---
 
-## 9. Class Subscription
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la suscripción.                      |
-| `startDate`         | `LocalDateTime`      | Fecha de inicio de la suscripción.                          |
-| `endDate`           | `LocalDateTime`      | Fecha de finalización de la suscripción.                    |
-| `tutor`             | `Tutor`              | Tutor que posee la suscripción.                             |
-| `membership`        | `Membership`         | Membresía asociada a la suscripción.                        |
+## 9. Clase Calendar
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idCalendar`     | `int`                | Identificador único del calendario.                   |
+| `idTutor`        | `int`                | Identificador del tutor asociado al calendario.       |
 
 ---
 
-## 10. Class Membership
-| **Atributo**        | **Tipo de variable** | **Descripción**                                             |
-|---------------------|----------------------|-------------------------------------------------------------|
-| `id`                | `int`                | Identificador único de la membresía.                        |
-| `name`              | `String`             | Nombre de la membresía.                                     |
-| `cost`              | `double`             | Costo mensual de la membresía.                              |
-| `description`       | `String`             | Descripción detallada de los beneficios de la membresía.     |
-| `monthDuration`     | `int`                | Duración de la membresía en meses.                          |
+## 10. Clase WeekDay
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idWeekDay`      | `int`                | Identificador único del día de la semana.            |
+| `name`           | `String`             | Nombre del día de la semana.                          |
+
+---
+
+## 11. Clase Subscription
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idSubscription`  | `int`               | Identificador único de la suscripción.                |
+| `name`           | `String`             | Nombre de la suscripción.                             |
+| `price`          | `decimal`            | Precio de la suscripción.                             |
+
+---
+
+## 12. Clase Payment
+| **Atributo**    | **Tipo de variable** | **Descripción**                                       |
+|------------------|----------------------|-------------------------------------------------------|
+| `idPayment`      | `int`                | Identificador único del pago.                         |
+| `amount`         | `decimal`            | Monto total del pago.                                 |
+| `paymentDate`    | `Date`               | Fecha y hora en que se realizó el pago.              |
+| `status`         | `String`             | Estado del pago.                                      |
+| `idContract`     | `int`                | Identificador del contrato asociado al pago.          |
+
+
 
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
