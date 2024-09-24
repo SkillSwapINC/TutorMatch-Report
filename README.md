@@ -83,7 +83,7 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
-  - [3.3. pping](#33-impact-mapping)
+  - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
