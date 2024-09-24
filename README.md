@@ -1126,7 +1126,7 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-  <img src="Images/class_diagram.png"/>
+  <img src="Images/diagrama-clases.png"/>
   
 ### 4.7.2. Class Dictionary
 
@@ -1266,7 +1266,7 @@ Claro, aquí tienes el formato en Markdown:
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="Images/Database_diagram.png"/>
+<img src="Images/diagrama-basedatos.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
