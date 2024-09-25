@@ -1639,6 +1639,9 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 - Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
 - Link del web app desplegado: https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register
 <br>
+
+Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
