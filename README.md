@@ -1367,9 +1367,38 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ### 5.2.2.1. Sprint Planning 2
 
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
+
+| Sprint 2 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la primera entrega                        |
+
+| Sprint 2 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 2.                                            |
+
+| Sprint 2 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version de la aplicación cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
+
+
 ### 5.2.2.2. Sprint Backlog 2
 
 ### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
+|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master               | 4258080   | chore: add dependencies for angular material and ngx-translate                     | chore: add dependencies for angular material and ngx-translate                            | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 46b1a85   | chore: configure environment variables support.         | chore: configure environment variables support.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 6ac8e9b   | feat(tutoring): add domain model entities for the tutoring bounded context.                 | feat(tutoring): add domain model entities for the tutoring bounded context.                       | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | a5ef68c   | feat(public): add page not found component.        | feat(public): add page not found component.              | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 316f0d0   | feat(i18n): add i18n behavior.         | feat(i18n): add i18n behavior.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 488ca2b   | feat(dashboard): edit css dashboard | feat(dashboard): edit css dashboard | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 9cb858e   | feat(tutoring): add tutoring service | feat(tutoring): add tutoring service | 24/09/2024 |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring | cc5ef46  | feat(tutoring): add tutoring dialog component               | feat(tutoring): add tutoring dialog component                     | 24/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring     | 5d3d9cc  | feat(tutoring): edit dashboard and toolbar            | feat(tutoring): edit dashboard and toolbar                  | 24/09/2024       |
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
