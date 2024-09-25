@@ -1369,7 +1369,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Alcántara | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
+| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
 
 | Sprint 2 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
@@ -1379,7 +1379,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 |-------------------------------------------------------------------------------------------|
 | Se logró cumplir con el objetivo del Sprint 2.                                            |
 
-| Sprint 2 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
+| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
 | Corregir la documentacion del proyecto y terminar la primera version de la aplicación cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
 
