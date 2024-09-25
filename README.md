@@ -517,59 +517,59 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 ### 2.2.2. Registro de entrevistas
 
 # Segmento 1
-| Entrevista 1 | Rodrigo Salvador |
+| Entrevista 1 | Alejandro Barturen |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| <img src="Images/Seg1Entre1.png" width="200"/>  | Alejandro Barturen, de 20 años y estudiante del sexto ciclo en San Isidro, busca apoyo en Desarrollo de Aplicaciones Open Source, Complejidad Algorítmica, Aplicaciones Móviles y Redes y Comunicaciones de Datos. Prefiere utilizar YouTube, foros y herramientas de IA en lugar de contenido académico externo. Desea un servicio de tutorías personalizado con soporte 24 horas y tutores especializados, y valora la posibilidad de ver horarios disponibles y un sistema de puntuación. Está dispuesto a dedicar 3 horas diarias a tutorías y sugiere que la plataforma facilite la organización del tiempo de estudio con una agenda clara. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=W85LKK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NS4wNX19)            |
+| Timming      | 0:04 - 07:03           |
+<br>
+
+| Entrevista 2 | Mauricio Rojas  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| <img src="Images/Seg1Entre2.png" width="200"/>  | Mauricio Rojas, de 20 años, es estudiante del sexto ciclo en San Isidro, y busca apoyo en Redes y Comunicaciones de Datos, asistiendo a tutorías externas unas 2 veces por semana. Usa Notion para tomar apuntes y quiere mejorar su comprensión teórica. Espera que la plataforma de tutorías tenga clases que resuelvan sus dudas y ofrezca una interfaz amigable. Considera importante elegir tutores especializados y valora las retroalimentaciones. Prefiere las tutorías presenciales, aunque reconoce las ventajas de ambas modalidades, y sugiere que la plataforma muestre horarios y costos de los tutores para organizar mejor su tiempo de estudio. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
+| Timming      | 07:04 - 13:24           |
+<br>
+
+| Entrevista 3 | Joaquin Cortez  |
 |------------------|----------------------|
 | Edad         | 19 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre1.png" width="200"/>  | Rodrigo es un estudiante de ingeniería de software que está buscando tutorías principalmente para el curso de Aplicaciones Web y Open Source. Ha identificado dificultades específicas con los conceptos avanzados y el manejo de múltiples lenguajes de programación. Prefiere sesiones de tutoría individuales en línea, valorando la paciencia y habilidades de comunicación en un tutor. Considera que la mejor opción sería un profesional en el campo debido a su experiencia técnica. Rodrigo ha tenido experiencias previas con tutorías grupales que mejoraron su rendimiento académico y actualmente necesitaría dos sesiones semanales para poder mejorar su comprensión de los temas complejos que enfrenta. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=W85LKK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NS4wNX19)            |
-| Timming      | 0:05 - 10:07           |
-<br>
-
-| Entrevista 2 | Mateo Loechle Arias  |
-|------------------|----------------------|
-| Edad         | 20 años              |
-| Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre2.png" width="200"/>  | Mateo explica que su mayor problema es saber programar. La teoría del aprendizaje se centra en la flexibilidad cognitiva al realizar tareas basadas en respuestas. Espectáculos interesantes. Tiene experiencia en el campo y prefiere aprender en línea. También le encantan las reuniones de grupo. Esto demuestra que valora el aprendizaje de sus compañeros. Requisitos del maestro Para Mateo, un maestro no sólo debe poseer el más alto conocimiento de la enseñanza, sino también buenas habilidades docentes. Como no todos sus profesores pueden leer su mente resalta la importancia de contar con docentes con experiencia docente o fuertes habilidades de comunicación. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
-| Timming      | 10:08 - 15:41           |
-<br>
-
-| Entrevista 3 | Alejandro Barturen  |
-|------------------|----------------------|
-| Edad         | 20 años              |
-| Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre3.png" width="200"/>  | El entrevistado menciona que los cursos de Ingeniería de Software contienen una gran cantidad de información, lo que le dificulta entender ciertos temas. Cuando intenta aprender de manera autodidacta, le resulta complicado encontrar y comprender la información adecuada. Le gustaría recibir tutorías, preferentemente presenciales e individuales, valorando especialmente que el tutor tenga un buen dominio de los temas, sea claro al comunicar sus ideas y tenga paciencia. Ha recibido tutorías de un amigo anteriormente, pero sintió que las explicaciones fueron demasiado rápidas y faltaron detalles. Considera que la frecuencia de las tutorías es clave, y mientras más sesiones pueda tener, mejor, ya que sabe que la práctica constante es fundamental en su carrera. No le importa si el tutor es estudiante o profesional, siempre y cuando cuente con los conocimientos necesarios para enseñar de manera efectiva. |
+| <img src="Images/Seg1Entre3.png" width="200"/>  | Joaquín Cortez, de 19 años, nos comenta que está buscando apoyo en complejidad algorítmica y aplicaciones web para mejorar su rendimiento académico. Explica que le resulta complicado avanzar en estos temas sin una guía estructurada, por lo que está interesado en recibir tutorías personalizadas que lo ayuden a comprender mejor los conceptos. Además, menciona que le gustaría que la plataforma incluyera una agenda donde pueda organizar sus sesiones y gestionar su tiempo de manera más eficiente, lo que le permitiría planificar mejor su aprendizaje. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=Lt8SH2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTQyLjMxfX0%3D)            |
-| Timming      | 15:42 - 22:32           |
+| Timming      | 13:26 - 18:06           |
 
 # Segmento 2
 
-| Entrevista 1 | José Ángel Cuevas Vera  |
+| Entrevista 1 | Francis Sánchez |
 |------------------|----------------------|
-| Edad         | 20 años              |
+| Edad         | 19 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre1.png" width="200"/>  | José Cuevas menciona que domina cursos clave de Ingeniería de Software y se motiva a ser tutor para ganar experiencia y ayudar a otros estudiantes. Describe su estilo de enseñanza como paciente y personalizado, utilizando diversas herramientas y métodos para adaptarse a las necesidades de cada estudiante. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y espera que TutorMatch le ayude a mejorar sus habilidades de enseñanza y comunicación, mientras conecta con otros tutores. |
+| <img src="Images/Seg2Entre1.png" width="200"/>  | Francis Sanchez, de 19 años, estudiante de Ingeniería de Software, ofrece entre 5 y 10 horas semanales de tutoría en cursos como "Aplicaciones para Dispositivos Móviles" y "Complejidad Algorítmica." Prefiere sesiones virtuales, valora herramientas para gestionar horarios y recibir retroalimentación, y sugiere mejoras como un sistema de archivos y herramientas interactivas. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=thbWmb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM1Ni4zM319)            |
-| Timming      | 22:36 - 30:47           |
+| Timming      | 18:11 - 26:08           |
 <br>
 
-| Entrevista 2 | Joaquin Cortez Quezada  |
+| Entrevista 2 | Brayan Gamboa  |
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre2.png" width="200"/>  | Joaquín Cortez menciona que domina cursos como Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web, y Sistemas Operativos, y está motivado a ser tutor para ayudar a otros estudiantes, reforzar sus propios conocimientos y ganar experiencia en comunicación técnica. Su estilo de enseñanza es paciente y estructurado, utilizando ejemplos prácticos y herramientas interactivas como pizarras virtuales y plataformas de codificación en línea. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y utiliza herramientas de gestión del tiempo para organizarse. Espera mejorar sus habilidades de enseñanza y obtener retroalimentación de los estudiantes a través de TutorMatch. |
+| <img src="Images/Seg2Entre2.png" width="200"/>  | Brayan Gamboa, estudiante de Ingeniería de Software en la sede San Isidro, se especializa en desarrollo de software, algoritmos, estructuras de datos y bases de datos. Tiene experiencia positiva como tutor y busca una plataforma intuitiva que facilite la gestión de horarios y el seguimiento del progreso estudiantil. Prefiere las tutorías virtuales y valora la integración de mensajería, recursos compartidos y pizarras interactivas. También considera importante recibir compensación económica y sugiere herramientas como simuladores para mejorar la calidad de las tutorías. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=5MaTmO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTg0OC4xMn19)            |
-| Timming      | 30:48 - 43:52           |
+| Timming      | 26:09 - 32:53           |
 <br>
 
 | Entrevista 3 | Christofer More  |
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre3.png" width="200"/>  | En la entrevista, nuestro invitado Christofer More nos menciona que la motivación que tiene para ser tutor en nuestra página es que le gusta ayudar y también la ganancia monetaria extra que tendría. Nos comenta que su enfoque de enseñanza sería explicar con ejemplos que él mismo haya hecho y explicar línea por línea de código para asegurarse de que los estudiantes entiendan completamente el proceso. Además, indica que le apasiona ver cómo sus explicaciones pueden ayudar a otros a mejorar sus habilidades en programación. |
+| <img src="Images/Seg2Entre3.png" width="200"/>  | Christofer More se motiva para ser tutor en la plataforma por su deseo de ayudar a otros y por el beneficio económico adicional. Su método de enseñanza incluye desglosar el código línea por línea y utilizar ejemplos propios para asegurar la comprensión. Además, sugiere la inclusión de pizarras interactivas y disfruta ver cómo sus explicaciones contribuyen al desarrollo de habilidades de programación en los estudiantes. |
 | URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=8q8nBF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjYzMy4zNH19)            |
-| Timming      | 43:53 - 47:28           |
+| Timming      | 32:54 - 36:45           |
 
 
 ### 2.2.3. Análisis de entrevistas
