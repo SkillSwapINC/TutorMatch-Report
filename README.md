@@ -1658,3 +1658,16 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 ### Video About-the-Team
 
 # Bibliografía
+
+# Anexos
+
+- Link del repositorio principal: https://github.com/SkillSwapINC
+- Link del repositorio del reporte: https://github.com/SkillSwapINC/TutorMatch-Report
+- Link del repositorio del Landing Page: https://github.com/SkillSwapINC/Landing-page
+- Link del repositorio del Frontend App: https://github.com/SkillSwapINC/TutorMatch-FrontendApp
+- Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
+- Link del web app desplegado: https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register
+<br>
+Video de exposiciones:
+
+- Trabajo parcial: 
