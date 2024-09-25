@@ -1402,6 +1402,15 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+Se realizó un fork al repositorio principal de [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) para poder hacer el deploy usando Azure Static Web Apps. Repositorio forkeado: [TutorMatch-FrontendApp-FORK](https://github.com/RodrLH/TutorMatch-FrontendApp).
+
+
+| Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
+|----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | main   | 289a2c0   | ci: add Azure Static Web Apps workflow file| ci: add Azure Static Web Apps workflow file| 24/09/2024        |
+
+[Accede al web app desplegado](https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register)
+
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
