@@ -1286,6 +1286,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 - **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
 - **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
 - **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+- **TypeScript**: Superset de JavaScript que añade tipos estáticos, mejorando la calidad del código y facilitando el desarrollo en Angular.
+- **Angular**: Framework para desarrollar aplicaciones web de una sola página, utilizado en el frontend del proyecto.
 
 #### 3. Software Testing
 - **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
@@ -1293,6 +1295,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 #### 4. Software Deployment
 - **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
   - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+- **Azure Static Web Apps**: Utilizado para el despliegue y hosting de aplicaciones web estáticas, facilitando la integración continua y la entrega continua (CI/CD) directamente desde los repositorios de código.
+  - **Ruta de referencia**: [https://learn.microsoft.com/es-mx/azure/static-web-apps/](https://learn.microsoft.com/es-mx/azure/static-web-apps/)
 
 #### 5. Software Documentation
 - **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
@@ -1303,14 +1307,22 @@ En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el có
 
 - **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
 - **Report**: [https://github.com/SkillSwapINC/TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report)
+- **Frontend App**: [https://github.com/SkillSwapINC/TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp)
 
 ### GitFlow Workflow
 Seguimos el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
 
-- **main**: Contiene las versiones estables del código.
+**Para el Reporte:**
+- **main**: Contiene las versiones estables del reporte.
 - **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `main`.
 - **feature/sprint1**: Rama creada para el desarrollo de funcionalidades específicas del sprint 1.
+- **feature/sprint2**: Rama creada para el desarrollo de funcionalidades específicas del sprint 2.
 - **feature/productdesign**: Rama para el diseño del producto.
+
+**Para el Frontend App:**
+- **master**: Contiene las versiones estables del código.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `master`.
+- **feature/create-tutoring**: Rama creada para el desarrollo de funcionalidades específicas de crear o añadir tutoría.
 
 Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
 
