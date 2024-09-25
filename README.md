@@ -1369,7 +1369,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Eric Agama, Harold Elías y Victor Meneses                   |
+| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
 
 | Sprint 2 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
