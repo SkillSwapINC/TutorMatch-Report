@@ -1386,6 +1386,19 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 ### 5.2.2.2. Sprint Backlog 2
 
+En el Sprint Backlog número 2 se encuentra todas las tareas dadas para el Sprint 2. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/66f46c53bb9a120fc4529da6
+
+| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
+| US01           | Publicación de Tutorías por los Tutores | T07 | Crear funcionalidad para publicar tutorías | Permitir a los tutores crear y publicar sesiones de tutoría | 8 | Eric Agama | Done |
+| US07           | Registro de Usuarios | T08 | Implementar registro de usuarios | Desarrollar la funcionalidad que permite a nuevos usuarios registrarse en la plataforma | 6 | Victor Meneses | Done |
+| US08           | Creación de Perfil de Usuario | T09 | Crear página de perfil de usuario | Permitir a los usuarios crear y personalizar su perfil en la aplicación | 4 | Rodrigo Lopez | Done |
+| US13           | Gestión de Roles y Permisos de Usuarios | T10 | Implementar roles y permisos | Desarrollar una gestión de roles y permisos para diferenciar las capacidades de usuarios y administradores | 4 | Rodrigo Alcántara | Done |
+| US18           | Escalabilidad y Rendimiento | T11 | Optimizar el rendimiento del sistema | Mejorar la infraestructura del sistema para soportar mayor carga de usuarios y tráfico | 7 | Rodrigo López | Done |
+| US19           | Disponibilidad y Recuperación ante Fallos | T12 | Implementar estrategias de alta disponibilidad | Asegurar la disponibilidad de la plataforma y mecanismos de recuperación ante fallos | 6 | Harold Elías | Done |
+| US20           | Compatibilidad multiplataforma | T13 | Garantizar compatibilidad en distintos dispositivos | Asegurar que la aplicación funcione correctamente en diferentes plataformas (móvil, tablet, escritorio) | 5 | Eric Agama | Done |
+
 ### 5.2.2.3. Development Evidence for Sprint Review
 
 | Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
