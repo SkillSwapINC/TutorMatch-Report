@@ -1419,6 +1419,10 @@ Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la
 
 Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Azure. A continuación, se presentan las evidencias del despliegue de dicha página.
 
+<img src="Images/deploy_azure_1.png" />
+
+<img src="Images/deploy_azure_2.png" />
+
 <img src="Images/frontend-login.png" />
 
 <img src="Images/frontend-register.png" />
