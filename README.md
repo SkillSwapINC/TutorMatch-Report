@@ -33,7 +33,8 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
 |    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
-|    1.1     |    8/09/2024     |    Eric Agama, Rodrigo Alcántara       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
+|    1.1     |    8/09/2024     |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
+|    1.2     |    25/09/2024     |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
 
 ### Project Report Collaboration Insights
 
