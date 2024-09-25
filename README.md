@@ -1673,6 +1673,30 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 # Bibliografía
 
+1. Conventional Commits. (n.d.). Conventional Commits 1.0.0. https://www.conventionalcommits.org/en/v1.0.0/
+
+2. Fowler, M. (n.d.). Ubiquitous language. https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+3. GitHub. (n.d.). GitHub Pages. https://pages.github.com/
+
+4. IBM. (n.d.-a). As-is scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+5. IBM. (n.d.-b). To-be scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+6. Los Motivos. (n.d.). Motivos para ser tutor. https://www.losmotivos.com/motivos-para-ser-tutor/
+
+7. Markdown Guide. (n.d.). Markdown Guide. https://www.markdownguide.org/
+
+8. Microsoft. (n.d.). Documentación de aplicaciones web estáticas de Azure. https://learn.microsoft.com/es-mx/azure/static-web-apps/
+
+9. Ministerio de Educación del Perú. (2023). Informes y planes de tutoría 2023. https://mineduperu.org/informes-y-planes-de-tutoria-2023/
+
+10. Progress a Lean. (n.d.). 5W2H técnica de análisis de problemas. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+11. UNESCO. (2023). Informe de seguimiento de la educación en el mundo 2023: Informe resumen. https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf
+
+12. Vera Espinoza, J. A. (2023). Propuesta de mejora de un sistema web educativo en una institución educativa de Lima. Repositorio Institucional Universidad de Lima. https://repositorio.ulima.edu.pe/bitstream/handle/20.500.12724/18283/T018_72270868_T.pdf?sequence=1
+
 # Anexos
 
 - Link del repositorio principal: https://github.com/SkillSwapINC
