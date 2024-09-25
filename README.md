@@ -1425,15 +1425,14 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 En el Sprint Backlog número 1 se encuentra todas las tareas dadas para el Sprint 1. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
 Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch 
 
-| **User Story** | | **Work-Item / Task** | | | | |
-|----------------|------|-------------------|------|--------------|-----------------|------------|
-| **Id**         | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
-| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | In process|
-| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | To-do|
+| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
+| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | Done |
+| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | Done |
 | US23           | Información sobre Planes de Suscripción en la Landing Page | T03 | Incluir Planes de Suscripción | Incluir una descripción general de los planes de suscripción para tutores | 4 | Eric Agama | Done |
-| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 3 | Rodrigo Alcántara | Done |
-| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | In process|
-| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
+| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 4 | Rodrigo Alcántara | Done |
+| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | Done |
+| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | Done |
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
