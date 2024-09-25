@@ -1089,9 +1089,9 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 
 | Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
 |----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
-| [TutorMatch-landing](https://github.com/RodrLH/TutorMatch-landing) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
+| [TutorMatch-landing](https://github.com/SkillSwapINC/Landing-page) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
 
-[Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
+[Accede al landing page desplegado](https://skillswapinc.github.io/Landing-page/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
