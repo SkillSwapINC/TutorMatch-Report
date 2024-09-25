@@ -33,7 +33,8 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
 |    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
-|    1.1     |    8/09/2024     |    Eric Agama, Rodrigo Alcántara       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
+|    1.1     |    8/09/2024     |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
+|    1.2     |    25/09/2024     |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
 
 ### Project Report Collaboration Insights
 
@@ -45,8 +46,8 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>Ayudé con el desarrollo del Lean UX Hypothesis Statement y Lean UX Canvas. Además de contribuir con el desarrollo del landing page. Adicionalmente de realizar el Needfinding. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Executiong Evidence for Sprint Review.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>Ayudé con el desarrollo del Startup profile, Diseño del landing page, así como el diseño de las entrevistas, registro y análisis. Además de realizar el Style Guidelines y el Information Architecture. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Software Development Configuration.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>Ayudé con el Lean UX Problem Statements y Lean UX Assumptions. Además de contribuir con el desarrollo del landing page. Adicionalmente los Competidores y Domain-Driven Software Arquitecture. Finalmente aporté con el Sprint Backlog 1, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y el Team Collaboration Insights during Sprint.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>Ayudé con el desarollo de los segmentos objetivos así como también en el desarollo del Landing page. También desarrollé Ubiquitous Language, así como también todo el Capítulo 3. Además también desarrollé el Software Object-Oriented Design y el Database Design. Finalmente también desarrollé el Source Code Style Guide & Conventions.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>Ayudé con el desarrollo de los antecedentes y problemática así como también el diseño del landing page. Además del Domain-Driven Software Arquitecture. También Desarrollé el Software Development Environment Configuration. Finalmente desarrollé el Source Code Management. <br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha hecho aportaciones valiosas al proyecto. Eric Agama trabajó en el Startup profile, la landing page, y en Style Guidelines y Information Architecture. Rodrigo Alcántara contribuyó al Lean UX Hypothesis Statement, Lean UX Canvas, y Needfinding, y apoyó en la landing page y la planificación de sprints. Harold Elías desarrolló los Lean UX Problem Statements, la Domain-Driven Software Architecture, y la documentación de servicios. Rodrigo López definió los target segments, el Ubiquitous Language, y diseñó el Object-Oriented Software y la Database. Victor Meneses se encargó de los antecedentes, la landing page, y la Source Code Management. Las contribuciones de todos han sido clave para el éxito del proyecto y la comunicación efectiva.|
-|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>En el desarrollo del Lean UX Hypothesis Statement y el Lean UX Canvas, utilicé un lenguaje adaptado a audiencias tanto técnicas como no técnicas, asegurando que la información fuera clara y accesible. Contribuí a la creación de la landing page, comunicando el valor del proyecto de manera efectiva para distintos grupos de interés. En el proceso de Needfinding, documenté los resultados de manera que fueran comprensibles para diversas audiencias. También participé en el Web Applications UX/UI Design y Web Applications Prototyping, asegurando que la documentación fuera accesible para usuarios con diferentes niveles de experiencia. Mi trabajo en la Sprint Planning 1 y la elaboración de evidencias para las revisiones del Sprint incluyó adaptar el contenido para diversos niveles de comprensión técnica.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>En el desarrollo del Startup profile, el diseño de la landing page y la elaboración de las entrevistas, así como su registro y análisis, me enfoqué en la claridad y coherencia de la comunicación para diferentes audiencias. Redacté las Style Guidelines y la Information Architecture para garantizar que la documentación técnica y creativa fuera accesible y comprensible para todos los niveles de comprensión. Además, desarrollé documentos relacionados con el Web Applications UX/UI Design y Web Applications Prototyping, adaptando el contenido para ser entendido por distintos públicos técnicos y no técnicos. Mi contribución en la Software Development Configuration incluyó la redacción de manuales y guías diseñadas para diferentes audiencias, asegurando una comunicación efectiva y precisa.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>En la redacción de los Lean UX Problem Statements y Lean UX Assumptions, utilicé un lenguaje accesible para diversos grupos de interés. Contribuí al desarrollo de la landing page, presentando la información de manera clara y persuasiva para diferentes audiencias. Documenté el análisis de Competidores y la Domain-Driven Software Architecture, con un enfoque en la claridad y precisión para distintos niveles técnicos. Además, desarrollé el Sprint Backlog 1 y la documentación de Services y Software Deployment para las revisiones del Sprint, enfocándome en la comunicación efectiva con diversos públicos.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>En la definición de los target segments y el desarrollo de la landing page, comuniqué la información de manera efectiva para audiencias variadas. Redacté el Ubiquitous Language y el Capítulo 3 con claridad para diferentes niveles de comprensión técnica. Desarrollé la documentación del Object-Oriented Software Design y el Database Design, adaptando el contenido para audiencias técnicas y no técnicas. También creé la Source Code Style Guide & Conventions, asegurando que la documentación fuera comprensible para diferentes rangos de audiencia.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>En la redacción de los antecedentes y la problemática, adapté la información para diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera accesible y relevante para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, con un enfoque en la claridad para públicos técnicos y no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión para diferentes niveles de experiencia.<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha demostrado una habilidad destacada para comunicar información de manera efectiva a diferentes audiencias. Eric Agama se ha centrado en la claridad de documentos técnicos y creativos, Rodrigo Alcántara ha adaptado el lenguaje en documentos clave como el Lean UX Canvas y Needfinding, Harold Elías ha presentado información accesible en el análisis de Competidores y Domain-Driven Software Architecture, Rodrigo López ha manejado la comunicación en target segments y el Object-Oriented Software Design, y Victor Meneses ha desarrollado documentación crítica como la Source Code Management. Esta capacidad de adaptar el contenido a distintos niveles de comprensión ha sido crucial para el éxito del proyecto y para facilitar una colaboración eficaz.|
+|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>Ayudé con el desarrollo del Lean UX Hypothesis Statement y Lean UX Canvas. Además de contribuir con el desarrollo del landing page. Adicionalmente de realizar el Needfinding. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Executiong Evidence for Sprint Review.<br>TP1:<br>Contribuí en el desarrollo de los Impact Maps y Journey Maps, ajustando las características comparadas con la competencia. Mi aporte fue clave en la revisión de la estructura y contenido de estos elementos para adaptarlos a los objetivos del producto.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>Ayudé con el desarrollo del Startup profile, Diseño del landing page, así como el diseño de las entrevistas, registro y análisis. Además de realizar el Style Guidelines y el Information Architecture. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Software Development Configuration.<br>TP1:<br>Trabajé en la creación y actualización de diagramas como el Class Diagram y Database Diagram. Participé activamente en la integración del Product Design, asegurando que los diagramas reflejaran los requerimientos del sistema de manera clara y precisa.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>Ayudé con el Lean UX Problem Statements y Lean UX Assumptions. Además de contribuir con el desarrollo del landing page. Adicionalmente los Competidores y Domain-Driven Software Arquitecture. Finalmente aporté con el Sprint Backlog 1, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y el Team Collaboration Insights during Sprint.<br>TP1:<br>Contribuí en la actualización de diagramas clave como el Context Diagram y Container Diagram. Además, trabajé en la organización de los contenidos del Product Design para garantizar su coherencia en el proceso de desarrollo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>Ayudé con el desarollo de los segmentos objetivos así como también en el desarollo del Landing page. También desarrollé Ubiquitous Language, así como también todo el Capítulo 3. Además también desarrollé el Software Object-Oriented Design y el Database Design. Finalmente también desarrollé el Source Code Style Guide & Conventions.<br>TP1:<br>Contribuí en la creación y actualización de diagramas importantes, como el Component Diagram y Container Diagram. Aporté en la revisión y ajuste del Product Design para reflejar adecuadamente las interacciones entre componentes del sistema.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>Ayudé con el desarrollo de los antecedentes y problemática así como también el diseño del landing page. Además del Domain-Driven Software Arquitecture. También Desarrollé el Software Development Environment Configuration. Finalmente desarrollé el Source Code Management. <br>TP1:<br>Actualicé los diagramas del sistema y trabajé en la mejora del Context Diagram, asegurando que reflejara correctamente las interacciones clave en el sistema. También participé en la organización de las características y necesidades del sistema.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha hecho aportaciones valiosas al proyecto. Eric Agama trabajó en el Startup profile, la landing page, y en Style Guidelines y Information Architecture. Rodrigo Alcántara contribuyó al Lean UX Hypothesis Statement, Lean UX Canvas, y Needfinding, y apoyó en la landing page y la planificación de sprints. Harold Elías desarrolló los Lean UX Problem Statements, la Domain-Driven Software Architecture, y la documentación de servicios. Rodrigo López definió los target segments, el Ubiquitous Language, y diseñó el Object-Oriented Software y la Database. Victor Meneses se encargó de los antecedentes, la landing page, y la Source Code Management. Las contribuciones de todos han sido clave para el éxito del proyecto y la comunicación efectiva.|
+|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>En el desarrollo del Lean UX Hypothesis Statement y el Lean UX Canvas, utilicé un lenguaje adaptado a audiencias tanto técnicas como no técnicas, asegurando que la información fuera clara y accesible. Contribuí a la creación de la landing page, comunicando el valor del proyecto de manera efectiva para distintos grupos de interés. En el proceso de Needfinding, documenté los resultados de manera que fueran comprensibles para diversas audiencias. También participé en el Web Applications UX/UI Design y Web Applications Prototyping, asegurando que la documentación fuera accesible para usuarios con diferentes niveles de experiencia. Mi trabajo en la Sprint Planning 1 y la elaboración de evidencias para las revisiones del Sprint incluyó adaptar el contenido para diversos niveles de comprensión técnica.<br>TP1:<br>Trabajé en la mejora de la estructura y funcionalidad de la aplicación web, contribuyendo al desarrollo del Customer Journey Map y el Product Impact Map. Utilicé un enfoque claro y accesible para asegurar que todos los miembros del equipo, independientemente de su nivel técnico, pudieran entender los resultados de nuestro análisis de competidores. Documenté los ajustes necesarios en las características clave de la aplicación de manera que los stakeholders pudieran apreciar el impacto de nuestras decisiones en el proyecto, facilitando la comunicación y la alineación del equipo hacia nuestros objetivos comunes.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>En el desarrollo del Startup profile, el diseño de la landing page y la elaboración de las entrevistas, así como su registro y análisis, me enfoqué en la claridad y coherencia de la comunicación para diferentes audiencias. Redacté las Style Guidelines y la Information Architecture para garantizar que la documentación técnica y creativa fuera accesible y comprensible para todos los niveles de comprensión. Además, desarrollé documentos relacionados con el Web Applications UX/UI Design y Web Applications Prototyping, adaptando el contenido para ser entendido por distintos públicos técnicos y no técnicos. Mi contribución en la Software Development Configuration incluyó la redacción de manuales y guías diseñadas para diferentes audiencias, asegurando una comunicación efectiva y precisa.<br>TP1:<br>Estuve a cargo de la creación y actualización del Class Diagram y el Database Diagram. Aseguré que las explicaciones sobre la estructura de la base de datos fueran comprensibles para todos los miembros del equipo, tanto para aquellos con un trasfondo técnico como para aquellos sin experiencia previa. Presenté de manera clara los cambios estructurales necesarios para mejorar el rendimiento del sistema, ayudando a todos a seguir el progreso del proyecto de forma efectiva y manteniendo a los stakeholders informados sobre nuestras decisiones clave.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>En la redacción de los Lean UX Problem Statements y Lean UX Assumptions, utilicé un lenguaje accesible para diversos grupos de interés. Contribuí al desarrollo de la landing page, presentando la información de manera clara y persuasiva para diferentes audiencias. Documenté el análisis de Competidores y la Domain-Driven Software Architecture, con un enfoque en la claridad y precisión para distintos niveles técnicos. Además, desarrollé el Sprint Backlog 1 y la documentación de Services y Software Deployment para las revisiones del Sprint, enfocándome en la comunicación efectiva con diversos públicos.<br>TP1:<br>Lideré la actualización del Context Diagram y el Container Diagram, enfocándome en la claridad de la información presentada. Aclaré cómo los cambios en la arquitectura del sistema afectaban las funcionalidades del proyecto, logrando que tanto los desarrolladores como los miembros del equipo sin experiencia técnica comprendieran las decisiones tomadas. Documenté los avances de forma accesible, asegurando que todos estuvieran alineados en la visión del proyecto y comprendieran el impacto de nuestras acciones en el desarrollo del mismo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>En la definición de los target segments y el desarrollo de la landing page, comuniqué la información de manera efectiva para audiencias variadas. Redacté el Ubiquitous Language y el Capítulo 3 con claridad para diferentes niveles de comprensión técnica. Desarrollé la documentación del Object-Oriented Software Design y el Database Design, adaptando el contenido para audiencias técnicas y no técnicas. También creé la Source Code Style Guide & Conventions, asegurando que la documentación fuera comprensible para diferentes rangos de audiencia.<br>TP1:<br>Me enfoqué en definir los segmentos de mercado y en el desarrollo de la landing page. Comunicar la información de manera clara fue fundamental, por lo que redacté el Ubiquitous Language y el Capítulo 3 con el objetivo de que todos los niveles de comprensión técnica pudieran seguir el contenido sin dificultad. Desarrollé la documentación relacionada con el Object-Oriented Software Design y el Database Design, asegurando que los detalles técnicos fueran presentados de forma comprensible para distintos públicos. También creé la Source Code Style Guide & Conventions, facilitando que el equipo se mantuviera informado sobre las mejores prácticas en la documentación.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>En la redacción de los antecedentes y la problemática, adapté la información para diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera accesible y relevante para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, con un enfoque en la claridad para públicos técnicos y no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión para diferentes niveles de experiencia.<br>TP1:<br>Trabajé en la redacción de los antecedentes y la problemática, adaptando la información para que fuera accesible a diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera relevante y claro para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, enfocándome en la claridad para públicos tanto técnicos como no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión del proyecto para diferentes niveles de experiencia dentro del equipo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha demostrado una habilidad destacada para comunicar información de manera efectiva a diferentes audiencias. Eric Agama se ha centrado en la claridad de documentos técnicos y creativos, Rodrigo Alcántara ha adaptado el lenguaje en documentos clave como el Lean UX Canvas y Needfinding, Harold Elías ha presentado información accesible en el análisis de Competidores y Domain-Driven Software Architecture, Rodrigo López ha manejado la comunicación en target segments y el Object-Oriented Software Design, y Victor Meneses ha desarrollado documentación crítica como la Source Code Management. Esta capacidad de adaptar el contenido a distintos niveles de comprensión ha sido crucial para el éxito del proyecto y para facilitar una colaboración eficaz.|
 
 
 # Índice
@@ -131,6 +132,17 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -505,203 +517,136 @@ Preguntas para estudiantes con habilidades destacadas que buscan ofrecer tutorí
 ### 2.2.2. Registro de entrevistas
 
 # Segmento 1
-| Entrevista 1 | Rodrigo Salvador |
+| Entrevista 1 | Alejandro Barturen |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| <img src="Images/Seg1Entre1NEW.png" width="200"/>  | Alejandro Barturen, de 20 años y estudiante del sexto ciclo en San Isidro, busca apoyo en Desarrollo de Aplicaciones Open Source, Complejidad Algorítmica, Aplicaciones Móviles y Redes y Comunicaciones de Datos. Prefiere utilizar YouTube, foros y herramientas de IA en lugar de contenido académico externo. Desea un servicio de tutorías personalizado con soporte 24 horas y tutores especializados, y valora la posibilidad de ver horarios disponibles y un sistema de puntuación. Está dispuesto a dedicar 3 horas diarias a tutorías y sugiere que la plataforma facilite la organización del tiempo de estudio con una agenda clara. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=c0noXr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NC40Nn19)            |
+| Timming      | 0:04 - 07:03           |
+<br>
+
+| Entrevista 2 | Mauricio Rojas  |
+|------------------|----------------------|
+| Edad         | 20 años              |
+| Distrito     | Lima - Perú          |
+| <img src="Images/Seg1Entre2NEW.png" width="200"/>  | Mauricio Rojas, de 20 años, es estudiante del sexto ciclo en San Isidro, y busca apoyo en Redes y Comunicaciones de Datos, asistiendo a tutorías externas unas 2 veces por semana. Usa Notion para tomar apuntes y quiere mejorar su comprensión teórica. Espera que la plataforma de tutorías tenga clases que resuelvan sus dudas y ofrezca una interfaz amigable. Considera importante elegir tutores especializados y valora las retroalimentaciones. Prefiere las tutorías presenciales, aunque reconoce las ventajas de ambas modalidades, y sugiere que la plataforma muestre horarios y costos de los tutores para organizar mejor su tiempo de estudio. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=SjboUB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDI0LjQ2fX0%3D)         |
+| Timming      | 07:04 - 13:24           |
+<br>
+
+| Entrevista 3 | Joaquin Cortez  |
 |------------------|----------------------|
 | Edad         | 19 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre1.png" width="200"/>  | Rodrigo es un estudiante de ingeniería de software que está buscando tutorías principalmente para el curso de Aplicaciones Web y Open Source. Ha identificado dificultades específicas con los conceptos avanzados y el manejo de múltiples lenguajes de programación. Prefiere sesiones de tutoría individuales en línea, valorando la paciencia y habilidades de comunicación en un tutor. Considera que la mejor opción sería un profesional en el campo debido a su experiencia técnica. Rodrigo ha tenido experiencias previas con tutorías grupales que mejoraron su rendimiento académico y actualmente necesitaría dos sesiones semanales para poder mejorar su comprensión de los temas complejos que enfrenta. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=W85LKK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NS4wNX19)            |
-| Timming      | 0:05 - 10:07           |
-<br>
-
-| Entrevista 2 | Mateo Loechle Arias  |
-|------------------|----------------------|
-| Edad         | 20 años              |
-| Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre2.png" width="200"/>  | Mateo explica que su mayor problema es saber programar. La teoría del aprendizaje se centra en la flexibilidad cognitiva al realizar tareas basadas en respuestas. Espectáculos interesantes. Tiene experiencia en el campo y prefiere aprender en línea. También le encantan las reuniones de grupo. Esto demuestra que valora el aprendizaje de sus compañeros. Requisitos del maestro Para Mateo, un maestro no sólo debe poseer el más alto conocimiento de la enseñanza, sino también buenas habilidades docentes. Como no todos sus profesores pueden leer su mente resalta la importancia de contar con docentes con experiencia docente o fuertes habilidades de comunicación. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=0anxIN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjA4LjQ4fX0%3D)            |
-| Timming      | 10:08 - 15:41           |
-<br>
-
-| Entrevista 3 | Alejandro Barturen  |
-|------------------|----------------------|
-| Edad         | 20 años              |
-| Distrito     | Lima - Perú          |
-| <img src="Images/Seg1Entre3.png" width="200"/>  | El entrevistado menciona que los cursos de Ingeniería de Software contienen una gran cantidad de información, lo que le dificulta entender ciertos temas. Cuando intenta aprender de manera autodidacta, le resulta complicado encontrar y comprender la información adecuada. Le gustaría recibir tutorías, preferentemente presenciales e individuales, valorando especialmente que el tutor tenga un buen dominio de los temas, sea claro al comunicar sus ideas y tenga paciencia. Ha recibido tutorías de un amigo anteriormente, pero sintió que las explicaciones fueron demasiado rápidas y faltaron detalles. Considera que la frecuencia de las tutorías es clave, y mientras más sesiones pueda tener, mejor, ya que sabe que la práctica constante es fundamental en su carrera. No le importa si el tutor es estudiante o profesional, siempre y cuando cuente con los conocimientos necesarios para enseñar de manera efectiva. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=Lt8SH2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTQyLjMxfX0%3D)            |
-| Timming      | 15:42 - 22:32           |
+| <img src="Images/Seg1Entre3NEW.png" width="200"/>  | Joaquín Cortez, de 19 años, nos comenta que está buscando apoyo en complejidad algorítmica y aplicaciones web para mejorar su rendimiento académico. Explica que le resulta complicado avanzar en estos temas sin una guía estructurada, por lo que está interesado en recibir tutorías personalizadas que lo ayuden a comprender mejor los conceptos. Además, menciona que le gustaría que la plataforma incluyera una agenda donde pueda organizar sus sesiones y gestionar su tiempo de manera más eficiente, lo que le permitiría planificar mejor su aprendizaje. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=ErBqCR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6ODA2LjE0fX0%3D)            |
+| Timming      | 13:26 - 18:06           |
 
 # Segmento 2
 
-| Entrevista 1 | José Ángel Cuevas Vera  |
+| Entrevista 1 | Francis Sánchez |
 |------------------|----------------------|
-| Edad         | 20 años              |
+| Edad         | 19 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre1.png" width="200"/>  | José Cuevas menciona que domina cursos clave de Ingeniería de Software y se motiva a ser tutor para ganar experiencia y ayudar a otros estudiantes. Describe su estilo de enseñanza como paciente y personalizado, utilizando diversas herramientas y métodos para adaptarse a las necesidades de cada estudiante. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y espera que TutorMatch le ayude a mejorar sus habilidades de enseñanza y comunicación, mientras conecta con otros tutores. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=thbWmb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM1Ni4zM319)            |
-| Timming      | 22:36 - 30:47           |
+| <img src="Images/Seg2Entre1NEW.png" width="200"/>  | Francis Sanchez, de 19 años, estudiante de Ingeniería de Software, ofrece entre 5 y 10 horas semanales de tutoría en cursos como "Aplicaciones para Dispositivos Móviles" y "Complejidad Algorítmica." Prefiere sesiones virtuales, valora herramientas para gestionar horarios y recibir retroalimentación, y sugiere mejoras como un sistema de archivos y herramientas interactivas. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=kioiSy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTA5MS4xMX19)            |
+| Timming      | 18:11 - 26:08           |
 <br>
 
-| Entrevista 2 | Joaquin Cortez Quezada  |
+| Entrevista 2 | Brayan Gamboa  |
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre2.png" width="200"/>  | Joaquín Cortez menciona que domina cursos como Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web, y Sistemas Operativos, y está motivado a ser tutor para ayudar a otros estudiantes, reforzar sus propios conocimientos y ganar experiencia en comunicación técnica. Su estilo de enseñanza es paciente y estructurado, utilizando ejemplos prácticos y herramientas interactivas como pizarras virtuales y plataformas de codificación en línea. Está dispuesto a ofrecer tutorías tanto en línea como presenciales y utiliza herramientas de gestión del tiempo para organizarse. Espera mejorar sus habilidades de enseñanza y obtener retroalimentación de los estudiantes a través de TutorMatch. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=5MaTmO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTg0OC4xMn19)            |
-| Timming      | 30:48 - 43:52           |
+| <img src="Images/Seg2Entre2NEW.png" width="200"/>  | Brayan Gamboa, estudiante de Ingeniería de Software en la sede San Isidro, se especializa en desarrollo de software, algoritmos, estructuras de datos y bases de datos. Tiene experiencia positiva como tutor y busca una plataforma intuitiva que facilite la gestión de horarios y el seguimiento del progreso estudiantil. Prefiere las tutorías virtuales y valora la integración de mensajería, recursos compartidos y pizarras interactivas. También considera importante recibir compensación económica y sugiere herramientas como simuladores para mejorar la calidad de las tutorías. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=ijl3kC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU2OS4yNn19)            |
+| Timming      | 26:09 - 32:53           |
 <br>
 
 | Entrevista 3 | Christofer More  |
 |------------------|----------------------|
 | Edad         | 20 años              |
 | Distrito     | Lima - Perú          |
-| <img src="Images/Seg2Entre3.png" width="200"/>  | En la entrevista, nuestro invitado Christofer More nos menciona que la motivación que tiene para ser tutor en nuestra página es que le gusta ayudar y también la ganancia monetaria extra que tendría. Nos comenta que su enfoque de enseñanza sería explicar con ejemplos que él mismo haya hecho y explicar línea por línea de código para asegurarse de que los estudiantes entiendan completamente el proceso. Además, indica que le apasiona ver cómo sus explicaciones pueden ayudar a otros a mejorar sus habilidades en programación. |
-| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EanfouuZFWhGk724AQB1v6cBYED86Er7077dEqN0-TLKug?e=8q8nBF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjYzMy4zNH19)            |
-| Timming      | 43:53 - 47:28           |
+| <img src="Images/Seg2Entre3NEW.png" width="200"/>  | Christofer More se motiva para ser tutor en la plataforma por su deseo de ayudar a otros y por el beneficio económico adicional. Su método de enseñanza incluye desglosar el código línea por línea y utilizar ejemplos propios para asegurar la comprensión. Además, sugiere la inclusión de pizarras interactivas y disfruta ver cómo sus explicaciones contribuyen al desarrollo de habilidades de programación en los estudiantes. |
+| URL de la grabación | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=5gHflD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTk3NC4xfX0%3D)            |
+| Timming      | 32:54 - 36:45           |
 
 
 ### 2.2.3. Análisis de entrevistas
 
 ## Análisis del Segmento 1
 
-- **1. Cursos que requieren apoyo académico:**
-  - Rodrigo busca ayuda en Aplicaciones Web y Open Source.
-  - Mateo enfrenta dificultades en programación en general.
-  - Alejandro menciona dificultades generales en la comprensión de temas debido a la sobrecarga de información.  
-  **Porcentaje:** 100% de los entrevistados identifican cursos específicos o temas generales que requieren apoyo académico.
+**Características Demográficas:**
+- **Edad:** Todos los estudiantes entrevistados tienen entre 19 y 20 años.
+- **Ciclo académico:** Se encuentran en el sexto ciclo de la carrera.
 
-- **2. Desafíos específicos:**
-  - Rodrigo se enfrenta a conceptos avanzados y manejo de múltiples lenguajes.
-  - Mateo tiene problemas con la teoría y la programación.
-  - Alejandro lucha con la sobrecarga de información y la autodidacta.  
-  **Porcentaje:** 100% indican desafíos específicos que motivan la búsqueda de ayuda.
+**Características Académicas:**
+- **Áreas de apoyo:** 
+  - Alejandro busca apoyo en **Desarrollo de Aplicaciones Open Source**, **Complejidad Algorítmica**, **Aplicaciones Móviles**, y **Redes y Comunicaciones de Datos**.
+  - Mauricio se centra en **Redes y Comunicaciones de Datos**.
+  - Joaquín está interesado en **complejidad algorítmica** y **aplicaciones web**.
 
-- **3. Preferencias para la tutoría:**
-  - Rodrigo prefiere sesiones individuales en línea.
-  - Mateo prefiere aprendizaje en línea y en grupo.
-  - Alejandro prefiere sesiones individuales presenciales.  
-  **Porcentaje:**
-    - Individual: 66.7% (Rodrigo, Alejandro)
-    - En línea: 66.7% (Rodrigo, Mateo)
-    - En grupo: 33.3% (Mateo)
-
-- **4. Características importantes en un tutor:**
-  - Rodrigo valora paciencia y habilidades de comunicación.
-  - Mateo considera crucial el conocimiento técnico y buenas habilidades docentes.
-  - Alejandro destaca el dominio de los temas, claridad y paciencia.  
-  **Porcentaje:**
-    - Paciencia y habilidades de comunicación: 66.7% (Rodrigo, Alejandro)
-    - Conocimiento técnico y habilidades docentes: 66.7% (Mateo, Alejandro)
-
-- **5. Experiencia previa con tutorías:**
-  - Rodrigo ha tenido experiencias positivas con tutorías grupales.
-  - Mateo valora las reuniones en grupo.
-  - Alejandro ha tenido tutorías menos efectivas con un amigo.  
-  **Porcentaje:**
-    - Positiva con tutorías grupales: 33.3% (Rodrigo, Mateo)
-    - Negativa o poco efectiva: 33.3% (Alejandro)
-
-- **6. Frecuencia deseada de las tutorías:**
-  - Rodrigo necesitaría dos sesiones semanales.
-  - Mateo no especifica frecuencia pero valora la interacción en grupo.
-  - Alejandro considera que más sesiones son mejores para la práctica constante.  
-  **Porcentaje:** 66.7% (Rodrigo, Alejandro) prefieren sesiones frecuentes.
-
-- **7. Preferencia del tipo de tutor:**
-  - Rodrigo prefiere un profesional.
-  - Mateo valora tanto a estudiantes avanzados como profesionales.
-  - Alejandro no tiene preferencia entre estudiante o profesional.  
-  **Porcentaje:**
-    - Profesional: 33.3% (Rodrigo)
-    - Estudiante avanzado o profesional: 66.7% (Mateo, Alejandro)
-
-- **8. Expectativas de resultados:**
-  - Rodrigo busca una mejor comprensión de conceptos complejos.
-  - Mateo quiere mejorar en programación y teoría.
-  - Alejandro espera una comprensión más clara y detallada.  
-  **Porcentaje:** 100% tienen expectativas claras de mejora en comprensión y rendimiento.
-
-- **9. Probabilidad de recomendación:**
-  - Rodrigo probablemente recomendaría la plataforma si cumple con sus necesidades.
-  - Mateo muestra apertura a recomendar la plataforma si se ajusta a sus preferencias.
-  - Alejandro también estaría dispuesto a recomendar si la experiencia es efectiva.  
-  **Porcentaje:** 100% serían propensos a recomendar la plataforma si cumple con sus expectativas.
+**Comportamiento en el Aprendizaje:**
+- **Frecuencia de búsqueda de apoyo académico:**
+  - Mauricio busca apoyo externo aproximadamente **2 veces por semana**.
+  - Alejandro y Joaquín están interesados en un servicio más estructurado y personalizado.
+- **Métodos de estudio:**
+  - Alejandro utiliza **YouTube**, foros y herramientas de **IA** para resolver dudas.
+  - Mauricio utiliza **Notion** para tomar apuntes y repasar conceptos.
+  
+**Preferencias de Tutoría:**
+- Todos valoran la **especialización** de los tutores:
+  - Mauricio y Joaquín consideran esencial elegir tutores que se especialicen en sus cursos.
+  - Alejandro busca tutores carismáticos y bien definidos en los temas.
+- **Modalidad preferida:**
+  - Mauricio prefiere tutorías **presenciales**, aunque reconoce las ventajas de ambas modalidades.
+  - Joaquín también destaca la importancia de una **guía estructurada** en el aprendizaje.
+  
+**Características de la Plataforma Deseada:**
+- **Funciones de la plataforma:**
+  - Alejandro desea un servicio de **tutorías personalizadas** con soporte **24 horas** y la posibilidad de ver horarios disponibles.
+  - Joaquín y Mauricio sugieren que la plataforma incluya una **agenda** clara y accesible para organizar sesiones y un sistema de **puntuación** para evaluar a los tutores.
+  
+**Resumen Estadístico:**
+- **Porcentaje de estudiantes que buscan tutorías personalizadas:** 100% (todos los entrevistados).
+- **Preferencia por tutores especializados:** 100% (todas las respuestas reflejan la necesidad de tutores con conocimientos específicos).
+- **Uso de herramientas digitales:** 66.7% (dos de tres estudiantes utilizan plataformas como YouTube, foros o Notion).
+- **Frecuencia de asistencia a tutorías externas:** Promedio de 2 a 3 veces por semana, destacando la importancia de un apoyo estructurado.
 
 ## Análisis del Segmento 2
 
-- **1. Cursos que consideran dominar:**
-  - José Cuevas domina cursos clave de Ingeniería de Software (no especificados).
-  - Joaquín Cortez menciona Estructuras de Datos y Algoritmos, Programación Orientada a Objetos, Diseño de Software, Bases de Datos, Desarrollo Web y Sistemas Operativos.
-  - Christofer More no especifica cursos concretos, pero sugiere un conocimiento amplio en programación.  
-  **Porcentaje:** 100% de los entrevistados tienen dominio en áreas específicas de Ingeniería de Software.
+**Características Demográficas:**
+- **Edad:** Los tutores tienen entre 19 y 20 años.
+  
+**Características Académicas y de Tutoría:**
+- **Áreas de tutoría:**
+  - Francis ofrece tutorías en **"Aplicaciones para Dispositivos Móviles"** y **"Complejidad Algorítmica."**
+  - Brayan se especializa en **desarrollo de software**, **algoritmos**, **estructuras de datos**, y **bases de datos.**
+  - Christofer enfoca su enseñanza en **programación** y utiliza métodos prácticos.
 
-- **2. Motivación para ser tutor:**
-  - José Cuevas está motivado por ganar experiencia y ayudar a otros.
-  - Joaquín Cortez quiere ayudar a otros, reforzar sus conocimientos y ganar experiencia en comunicación técnica.
-  - Christofer More busca ayudar a otros y ganar una ganancia monetaria extra.  
-  **Porcentaje:**
-    - Ganar experiencia: 66.7% (José, Joaquín)
-    - Ayudar a otros: 100% (José, Joaquín, Christofer)
-    - Ingresos: 33.3% (Christofer)
+**Comportamiento y Preferencias de Tutoría:**
+- **Horas dedicadas a tutorías:**
+  - Francis ofrece entre **5 y 10 horas semanales** de tutoría.
+- **Modalidad preferida:**
+  - Todos los tutores prefieren sesiones **virtuales**, destacando la flexibilidad que estas ofrecen.
+- **Métodos de enseñanza:**
+  - Christofer desglosa el código línea por línea y utiliza ejemplos prácticos para asegurar la comprensión.
 
-- **3. Estilo de enseñanza:**
-  - José Cuevas utiliza un estilo paciente y personalizado, adaptado a las necesidades del estudiante.
-  - Joaquín Cortez tiene un estilo paciente y estructurado, con ejemplos prácticos y herramientas interactivas.
-  - Christofer More explica con ejemplos y línea por línea de código.  
-  **Porcentaje:**
-    - Paciente: 66.7% (José, Joaquín)
-    - Personalizado y estructurado: 66.7% (José, Joaquín)
-    - Ejemplos y explicación detallada: 33.3% (Christofer)
+**Características de la Plataforma Deseada:**
+- **Funciones deseadas:**
+  - Francis y Brayan valoran herramientas para **gestionar horarios** y recibir **retroalimentación.**
+  - Brayan sugiere la integración de **mensajería**, recursos compartidos y **pizarras interactivas** para facilitar la enseñanza.
+  - Christofer propone la inclusión de **pizarras interactivas** para mejorar la interacción durante las sesiones.
 
-- **4. Herramientas y recursos utilizados:**
-  - José Cuevas usa diversas herramientas y métodos adaptados a cada estudiante.
-  - Joaquín Cortez utiliza pizarras virtuales y plataformas de codificación en línea.
-  - Christofer More usa ejemplos propios y explica el código línea por línea.  
-  **Porcentaje:**
-    - Herramientas interactivas y ejemplos: 66.7% (Joaquín, Christofer)
-    - Métodos adaptados a las necesidades: 33.3% (José)
-
-- **5. Manejo de estudiantes con dificultades:**
-  - José Cuevas adaptaría su enfoque según las necesidades.
-  - Joaquín Cortez utilizaría ejemplos prácticos y recursos interactivos.
-  - Christofer More explicaría detalladamente el proceso.  
-  **Porcentaje:** 100% están dispuestos a adaptar su enfoque según las dificultades del estudiante.
-
-- **6. Modalidad de las tutorías:**
-  - José Cuevas está dispuesto a ofrecer tutorías en línea y presenciales.
-  - Joaquín Cortez también está dispuesto a ofrecer ambas modalidades.
-  - Christofer More no especifica modalidad, pero implícitamente sugiere flexibilidad.  
-  **Porcentaje:**
-    - En línea y presenciales: 66.7% (José, Joaquín)
-    - No especificado: 33.3% (Christofer)
-
-- **7. Gestión del tiempo entre estudios y tutorías:**
-  - Joaquín Cortez utiliza herramientas de gestión del tiempo.
-  - José Cuevas no menciona específicamente, pero se asume flexibilidad.
-  - Christofer More no menciona estrategias de gestión del tiempo.  
-  **Porcentaje:** 33.3% mencionan estrategias de gestión del tiempo específicas.
-
-- **8. Expectativas de la experiencia de ser tutor:**
-  - José Cuevas espera mejorar sus habilidades de enseñanza y comunicación.
-  - Joaquín Cortez espera obtener retroalimentación y mejorar habilidades de enseñanza.
-  - Christofer More busca ayudar a otros y disfrutar del proceso de enseñanza.  
-  **Porcentaje:** 100% tienen expectativas de mejorar en habilidades de enseñanza y comunicación.
-
-- **9. Tipos de estudiantes que se beneficiarían:**
-  - José Cuevas cree que estudiantes con diversas necesidades se beneficiarían.
-  - Joaquín Cortez considera que estudiantes que buscan estructura y ejemplos prácticos.
-  - Christofer More piensa que estudiantes que necesitan explicación detallada.  
-  **Porcentaje:**
-    - Diversos tipos de estudiantes: 66.7% (José, Joaquín)
-    - Estudiantes con necesidades específicas: 33.3% (Christofer)
-
-- **10. Expectativas sobre la plataforma TutorMatch:**
-  - José Cuevas espera mejorar sus habilidades y conectar con otros tutores.
-  - Joaquín Cortez espera recibir retroalimentación y mejorar su enseñanza.
-  - Christofer More no menciona expectativas específicas sobre la plataforma.  
-  **Porcentaje:**
-    - Mejorar habilidades y recibir retroalimentación: 66.7% (José, Joaquín)
-    - No especificado: 33.3% (Christofer)
+**Motivaciones para ser Tutor:**
+- **Motivaciones:**
+  - Christofer se siente motivado por el deseo de ayudar a otros y por el beneficio económico adicional que proporciona la tutoría.
+  
+**Resumen Estadístico:**
+- **Porcentaje de tutores que prefieren sesiones virtuales:** 100% (todos los tutores entrevistados).
+- **Interés en herramientas de gestión de horarios y retroalimentación:** 100% (todos los tutores mencionan la importancia de estas herramientas).
+- **Horas semanales ofrecidas para tutoría:** Rango de 5 a 10 horas, reflejando un compromiso significativo con la enseñanza.
+- **Métodos de enseñanza prácticos:** 100% de los tutores utilizan métodos prácticos para asegurar la comprensión del estudiante.
 
 ### 2.3 Needfinding
 ### 2.3.1 User Personas
@@ -1285,6 +1230,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 - **JavaScript**: Lenguaje de programación empleado para crear interactividad y manejar la lógica del frontend de la aplicación.
 - **Vertabelo**: Herramienta utilizada para la creación y gestión de diagramas entidad-relación (ERD), empleada para diseñar la base de datos del proyecto.
 - **Structurizr**: Utilizado para el diseño del diagrama C4, representando la arquitectura del sistema y sus componentes.
+- **TypeScript**: Superset de JavaScript que añade tipos estáticos, mejorando la calidad del código y facilitando el desarrollo en Angular.
+- **Angular**: Framework para desarrollar aplicaciones web de una sola página, utilizado en el frontend del proyecto.
 
 #### 3. Software Testing
 - **Gherkin**: Lenguaje de etiquetado utilizado para definir los criterios de aceptación de las historias de usuario. Facilita la escritura de pruebas de comportamiento y asegura que los criterios sean entendibles tanto para el equipo técnico como no técnico.
@@ -1292,6 +1239,8 @@ En esta sección, se describen las herramientas utilizadas por el equipo para co
 #### 4. Software Deployment
 - **GitHub Pages**: Utilizado para el despliegue de la landing page, permitiendo que el sitio web esté disponible públicamente. La plataforma ofrece una solución de hosting gratuita y fácil de usar directamente desde el repositorio de GitHub, lo que facilita la actualización continua del sitio.  
   - **Ruta de referencia**: [https://pages.github.com](https://pages.github.com)
+- **Azure Static Web Apps**: Utilizado para el despliegue y hosting de aplicaciones web estáticas, facilitando la integración continua y la entrega continua (CI/CD) directamente desde los repositorios de código.
+  - **Ruta de referencia**: [https://learn.microsoft.com/es-mx/azure/static-web-apps/](https://learn.microsoft.com/es-mx/azure/static-web-apps/)
 
 #### 5. Software Documentation
 - **GitHub**: Utilizado como plataforma de documentación para mantener la información técnica del proyecto organizada y accesible.
@@ -1302,14 +1251,22 @@ En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el có
 
 - **Landing page**: [https://github.com/SkillSwapINC/Landing-page](https://github.com/SkillSwapINC/Landing-page)
 - **Report**: [https://github.com/SkillSwapINC/TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report)
+- **Frontend App**: [https://github.com/SkillSwapINC/TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp)
 
 ### GitFlow Workflow
 Seguimos el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
 
-- **main**: Contiene las versiones estables del código.
+**Para el Reporte:**
+- **main**: Contiene las versiones estables del reporte.
 - **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `main`.
 - **feature/sprint1**: Rama creada para el desarrollo de funcionalidades específicas del sprint 1.
+- **feature/sprint2**: Rama creada para el desarrollo de funcionalidades específicas del sprint 2.
 - **feature/productdesign**: Rama para el diseño del producto.
+
+**Para el Frontend App:**
+- **master**: Contiene las versiones estables del código.
+- **develop**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama `master`.
+- **feature/create-tutoring**: Rama creada para el desarrollo de funcionalidades específicas de crear o añadir tutoría.
 
 Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
 
@@ -1425,38 +1382,36 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 En el Sprint Backlog número 1 se encuentra todas las tareas dadas para el Sprint 1. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
 Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch 
 
-| **User Story** | | **Work-Item / Task** | | | | |
-|----------------|------|-------------------|------|--------------|-----------------|------------|
-| **Id**         | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
-| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | In process|
-| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | To-do|
+| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
+| US21           | Presentación de Funcionalidades Clave en la Landing Page | T01 | Crear Sección de Funcionalidades | Crear una sección que destaque las funcionalidades clave de TutorMatch en la landing page | 5 | Harold Elías | Done |
+| US22           | Llamada a la Acción (CTA) para Registro | T02 | Implementar Botones CTA | Implementar botones de CTA visibles para registro de estudiantes y tutores | 6 | Victor Meneses | Done |
 | US23           | Información sobre Planes de Suscripción en la Landing Page | T03 | Incluir Planes de Suscripción | Incluir una descripción general de los planes de suscripción para tutores | 4 | Eric Agama | Done |
-| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 3 | Rodrigo Alcántara | Done |
-| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | In process|
-| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | To-Do|
+| US24           | Información de Contacto y Soporte en la Landing Page | T04 | Agregar Información de Contacto | Incluir información de contacto y opciones de soporte de forma visible | 4 | Rodrigo Alcántara | Done |
+| US25           | Optimización para Dispositivos Móviles | T05 | Optimizar para Dispositivos Móviles | Asegurarse de que la landing page esté optimizada para dispositivos móviles | 7 | Rodrigo López | Done |
+| US26           | Diseño Atractivo y Coherente con la Marca | T06 | Diseñar Landing Page Atractiva | Diseñar una landing page visualmente atractiva y alineada con la identidad de TutorMatch | 8 | Harold Elías | Done |
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
 | Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
 |-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | main                 | 391a7d5   | initial commit                     | initial commit                            | 31/08/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | df2dd51   | Adding Startup Description         | Adding Startup Description               | 31/08/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | c65b6Id   | Added User Stories                 | Added User Stories                       | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | a74b814   | Added User personas section        | Added User personas section              | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | d1fff48   | Added Analisis Competitivo         | Added Analisis Competitivo               | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | eb16337   | Added Background and Problem Statement | Added Background and Problem Statement | 06/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | ddefee1   | Added Source Code Style Guide & Conventions content | Added Source Code Style Guide & Conventions content | 06/09/2024 |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/ProductDesign | 8b8e816  | Added interview logs               | Added interview logs                     | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/Sprint 1     | df0db11   | Added sprint planning 1            | Added sprint planning 1                  | 06/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main                 | 7841c6a   | feat(add): added landing page                     | feat(add): added landing page                            | 06/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 5e54955   | feat(main): add link to web app         | feat(main): add link to web app Description               | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 3ed3f46   | feat(main): edit links                 | feat(main): edit links                       | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 15582b1   | fix(landing): fix EN to principal language        | fix(landing): fix EN to principal language              | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 473a014   | fix(): add "titleBanner" ID         | fix(): add "titleBanner" ID               | 25/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | a455ccc   | fix: fix english as default language | fix: fix english as default language | 25/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 3ecdec3   | fix: fix language button | fix: fix language button | 25/09/2024 |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 53a8bde   | fix: fix btn-lang css | fix: fix btn-lang css | 25/09/2024 |
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
 |----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
-| [TutorMatch-landing](https://github.com/RodrLH/TutorMatch-landing) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
+| [TutorMatch-landing](https://github.com/SkillSwapINC/Landing-page) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
 
-[Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
+[Accede al landing page desplegado](https://skillswapinc.github.io/Landing-page/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1495,6 +1450,136 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 <img src="Images/collab4.jpg" />
 
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
+
+| Sprint 2 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la primera entrega                        |
+
+| Sprint 2 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 2.                                            |
+
+| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version de la aplicación cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
+
+
+### 5.2.2.2. Sprint Backlog 2
+
+En el Sprint Backlog número 2 se encuentra todas las tareas dadas para el Sprint 2. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/66f46c53bb9a120fc4529da6
+
+| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
+| US01           | Publicación de Tutorías por los Tutores | T07 | Crear funcionalidad para publicar tutorías | Permitir a los tutores crear y publicar sesiones de tutoría | 8 | Eric Agama | Done |
+| US07           | Registro de Usuarios | T08 | Implementar registro de usuarios | Desarrollar la funcionalidad que permite a nuevos usuarios registrarse en la plataforma | 6 | Victor Meneses | Done |
+| US08           | Creación de Perfil de Usuario | T09 | Crear página de perfil de usuario | Permitir a los usuarios crear y personalizar su perfil en la aplicación | 4 | Rodrigo Lopez | Done |
+| US13           | Gestión de Roles y Permisos de Usuarios | T10 | Implementar roles y permisos | Desarrollar una gestión de roles y permisos para diferenciar las capacidades de usuarios y administradores | 4 | Rodrigo Alcántara | Done |
+| US18           | Escalabilidad y Rendimiento | T11 | Optimizar el rendimiento del sistema | Mejorar la infraestructura del sistema para soportar mayor carga de usuarios y tráfico | 7 | Rodrigo López | Done |
+| US19           | Disponibilidad y Recuperación ante Fallos | T12 | Implementar estrategias de alta disponibilidad | Asegurar la disponibilidad de la plataforma y mecanismos de recuperación ante fallos | 6 | Harold Elías | Done |
+| US20           | Compatibilidad multiplataforma | T13 | Garantizar compatibilidad en distintos dispositivos | Asegurar que la aplicación funcione correctamente en diferentes plataformas (móvil, tablet, escritorio) | 5 | Eric Agama | Done |
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
+|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master               | 4258080   | chore: add dependencies for angular material and ngx-translate                     | chore: add dependencies for angular material and ngx-translate                            | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 46b1a85   | chore: configure environment variables support.         | chore: configure environment variables support.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 6ac8e9b   | feat(tutoring): add domain model entities for the tutoring bounded context.                 | feat(tutoring): add domain model entities for the tutoring bounded context.                       | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | a5ef68c   | feat(public): add page not found component.        | feat(public): add page not found component.              | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 316f0d0   | feat(i18n): add i18n behavior.         | feat(i18n): add i18n behavior.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 488ca2b   | feat(dashboard): edit css dashboard | feat(dashboard): edit css dashboard | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 9cb858e   | feat(tutoring): add tutoring service | feat(tutoring): add tutoring service | 24/09/2024 |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring | cc5ef46  | feat(tutoring): add tutoring dialog component               | feat(tutoring): add tutoring dialog component                     | 24/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring     | 5d3d9cc  | feat(tutoring): edit dashboard and toolbar            | feat(tutoring): edit dashboard and toolbar                  | 24/09/2024       |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Se realizó un fork al repositorio principal de [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) para poder hacer el deploy usando Azure Static Web Apps. Repositorio forkeado: [TutorMatch-FrontendApp-FORK](https://github.com/RodrLH/TutorMatch-FrontendApp).
+
+
+| Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
+|----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | main   | 289a2c0   | ci: add Azure Static Web Apps workflow file| ci: add Azure Static Web Apps workflow file| 24/09/2024        |
+
+[Accede al web app desplegado](https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register)
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se implentó en este segundo Sprint el diseño la primera version del Frontend Web App, desplegado en <b>Azure Static Web Apps</b>. A continuación, se explicará las secciones importantes de la aplicación web.
+
+<b>1.- Página de Registro:</b> Como parte de este sprint, nuestro equipo implementó la funcionalidad de registro para la plataforma. El formulario de registro ahora está completamente integrado en la página de inicio, permitiendo a los nuevos usuarios (tanto profesores como estudiantes) crear una cuenta de manera sencilla. 
+
+<img src="Images/frontend-register.png" />
+
+<b>2.- Página de Logueo:</b> También se implementó la funcionalidad de logueo para usuarios registrados en TutorMatch. La página de inicio de sesión permite a los usuarios ingresar con sus credenciales previamente registradas (correo electrónico y contraseña).
+
+<img src="Images/frontend-login.png" />
+
+<b>3.- Página de Dashboard:</b> El dashboard es la página principal a la que se accede después del inicio de sesión. Proporciona a los usuarios una visión general de sus actividades dentro de TutorMatch, tanto para estudiantes como para profesores.
+
+<br>
+<img src="Images/frontend-dashboard1.png" />
+
+<br>
+<img src="Images/frontend-dashboard2.png" />
+
+<b>4.- Dialog para crear o agregrar una tutoría:</b> Se ha implementado un diálogo modal que permite a los tutores agregar nuevas sesiones de tutoría. Esta ventana emergente es accesible desde el dashboard y facilita la creación de sesiones en unos pocos pasos.
+
+<br>
+<img src="Images/frontend-addTutoring1.png" />
+
+<br>
+<img src="Images/frontend-addTutoring2.png" />
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Azure. A continuación, se presentan las evidencias del despliegue de dicha página.
+
+<img src="Images/deploy_azure_1.png" />
+
+<img src="Images/deploy_azure_2.png" />
+
+<img src="Images/frontend-login.png" />
+
+<img src="Images/frontend-register.png" />
+
+<img src="Images/frontend-dashboard1.png" />
+
+<img src="Images/frontend-dashboard2.png" />
+
+<img src="Images/frontend-addTutoring1.png" />
+
+<img src="Images/frontend-addTutoring2.png" />
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A continuación, se mostrará la colaboración grupal mediante GitHub Insights, donde se mostrará los commits de manera individual. De igual manera se muestra gráficamente las colaboraciones y tráficos. 
+
+<img src="Images/pulse_overview.png"/>
+
+<img src="Images/pulse_pull.png"/>
+
+<img src="Images/Contributors.png"/>
+
+<img src="Images/traffic_git.png"/>
+
+<img src="Images/Commits.png"/>
+
+<img src="Images/Code_frequency.png"/>
+
+<img src="Images/Network_graph.png"/>
+
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
@@ -1503,6 +1588,60 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+- **Alta demanda de apoyo académico**: El proyecto TutorMatch está respondiendo a la significativa demanda de tutorías personalizadas, con más del 65% de los estudiantes de Ingeniería de Software en la UPC buscando apoyo adicional en sus primeros ciclos.
+
+- **Falta de una plataforma eficiente**: A pesar de la disposición de los estudiantes para ayudarse entre pares, actualmente no existe una plataforma adecuada que facilite el emparejamiento eficaz entre tutores y estudiantes, lo que limita el acceso a tutorías.
+
+- **Impacto en el rendimiento académico**: La ausencia de tutorías accesibles y bien estructuradas ha contribuido al estrés y bajo rendimiento académico en los estudiantes, que se ven obligados a dedicar más tiempo a ciertos cursos a expensas de otros.
+
+- **Potencial del aprendizaje colaborativo**: El desarrollo de TutorMatch maximizará el valor del aprendizaje entre pares, creando un espacio en el que estudiantes avanzados puedan brindar tutorías, fomentando el apoyo mutuo y mejorando el rendimiento general.
+
+- **Innovación tecnológica en la educación**: TutorMatch está siendo diseñado como una solución tecnológica innovadora, facilitando no solo la búsqueda de tutorías, sino también la gestión de horarios y la evaluación de calidad, lo que garantiza un mejor acceso al apoyo académico.
+- **Fomentar la participación estudiantil**: Es recomendable que, durante el desarrollo de TutorMatch, se promuevan campañas dentro de la UPC para incentivar tanto a estudiantes como a tutores a utilizar la plataforma, asegurando una base sólida de usuarios desde el principio.
+- **Incluir tutorías virtuales y presenciales**: Para adaptarse a las diferentes necesidades y modalidades de los estudiantes, es esencial que TutorMatch ofrezca la opción de tutorías tanto presenciales como virtuales, asegurando flexibilidad en la asistencia.
+- **Monitoreo y mejora continua**: Una vez implementada la plataforma, se recomienda realizar encuestas regulares de satisfacción y análisis de datos de uso para identificar áreas de mejora, asegurando que la calidad del servicio siga cumpliendo con las expectativas de los usuarios.
+
 ### Video About-the-Team
 
 # Bibliografía
+
+1. Conventional Commits. (n.d.). Conventional Commits 1.0.0. https://www.conventionalcommits.org/en/v1.0.0/
+
+2. Fowler, M. (n.d.). Ubiquitous language. https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+3. GitHub. (n.d.). GitHub Pages. https://pages.github.com/
+
+4. IBM. (n.d.-a). As-is scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+5. IBM. (n.d.-b). To-be scenario map. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+6. Los Motivos. (n.d.). Motivos para ser tutor. https://www.losmotivos.com/motivos-para-ser-tutor/
+
+7. Markdown Guide. (n.d.). Markdown Guide. https://www.markdownguide.org/
+
+8. Microsoft. (n.d.). Documentación de aplicaciones web estáticas de Azure. https://learn.microsoft.com/es-mx/azure/static-web-apps/
+
+9. Ministerio de Educación del Perú. (2023). Informes y planes de tutoría 2023. https://mineduperu.org/informes-y-planes-de-tutoria-2023/
+
+10. Progress a Lean. (n.d.). 5W2H técnica de análisis de problemas. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+11. UNESCO. (2023). Informe de seguimiento de la educación en el mundo 2023: Informe resumen. https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf
+
+12. Vera Espinoza, J. A. (2023). Propuesta de mejora de un sistema web educativo en una institución educativa de Lima. Repositorio Institucional Universidad de Lima. https://repositorio.ulima.edu.pe/bitstream/handle/20.500.12724/18283/T018_72270868_T.pdf?sequence=1
+
+# Anexos
+
+- Link del repositorio principal: https://github.com/SkillSwapINC
+- Link del repositorio del reporte: https://github.com/SkillSwapINC/TutorMatch-Report
+- Link del repositorio del Landing Page: https://github.com/SkillSwapINC/Landing-page
+- Link del repositorio del Frontend App: https://github.com/SkillSwapINC/TutorMatch-FrontendApp
+- Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
+- Link del web app desplegado: https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register
+<br>
+
+Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Video de exposiciones:
+
+- Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
