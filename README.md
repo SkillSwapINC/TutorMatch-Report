@@ -1438,24 +1438,23 @@ Link de trello: https://trello.com/b/2MoEkR7T/sprint-1-tutormatch
 
 | Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
 |-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | main                 | 391a7d5   | initial commit                     | initial commit                            | 31/08/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | df2dd51   | Adding Startup Description         | Adding Startup Description               | 31/08/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | c65b6Id   | Added User Stories                 | Added User Stories                       | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | a74b814   | Added User personas section        | Added User personas section              | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | d1fff48   | Added Analisis Competitivo         | Added Analisis Competitivo               | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | eb16337   | Added Background and Problem Statement | Added Background and Problem Statement | 06/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | develop              | ddefee1   | Added Source Code Style Guide & Conventions content | Added Source Code Style Guide & Conventions content | 06/09/2024 |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/ProductDesign | 8b8e816  | Added interview logs               | Added interview logs                     | 05/09/2024       |
-| [TutorMatch-Report](https://github.com/SkillSwapINC/TutorMatch-Report.git) | feature/Sprint 1     | df0db11   | Added sprint planning 1            | Added sprint planning 1                  | 06/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main                 | 7841c6a   | feat(add): added landing page                     | feat(add): added landing page                            | 06/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 5e54955   | feat(main): add link to web app         | feat(main): add link to web app Description               | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 3ed3f46   | feat(main): edit links                 | feat(main): edit links                       | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 15582b1   | fix(landing): fix EN to principal language        | fix(landing): fix EN to principal language              | 24/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 473a014   | fix(): add "titleBanner" ID         | fix(): add "titleBanner" ID               | 25/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | a455ccc   | fix: fix english as default language | fix: fix english as default language | 25/09/2024       |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 3ecdec3   | fix: fix language button | fix: fix language button | 25/09/2024 |
+| [TutorMatch-Landing](https://github.com/SkillSwapINC/Landing-page) | main              | 53a8bde   | fix: fix btn-lang css | fix: fix btn-lang css | 25/09/2024 |
 
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
 |----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
-| [TutorMatch-landing](https://github.com/RodrLH/TutorMatch-landing) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
+| [TutorMatch-landing](https://github.com/SkillSwapINC/Landing-page) | main   | cac0e87   | Updated index.html  | Updated index.html  | 6/09/2024        |
 
-[Accede al landing page desplegado](https://rodrlh.github.io/TutorMatch-landing/)
+[Accede al landing page desplegado](https://skillswapinc.github.io/Landing-page/)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
