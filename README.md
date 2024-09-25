@@ -132,6 +132,17 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1505,6 +1516,136 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 <img src="Images/collab3.jpg" />
 
 <img src="Images/collab4.jpg" />
+
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 2      | 20/09/2024 | 9:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
+
+| Sprint 2 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación que brindo el profesor en la primera entrega                        |
+
+| Sprint 2 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 2.                                            |
+
+| Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version de la aplicación cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
+
+
+### 5.2.2.2. Sprint Backlog 2
+
+En el Sprint Backlog número 2 se encuentra todas las tareas dadas para el Sprint 2. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/66f46c53bb9a120fc4529da6
+
+| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
+| US01           | Publicación de Tutorías por los Tutores | T07 | Crear funcionalidad para publicar tutorías | Permitir a los tutores crear y publicar sesiones de tutoría | 8 | Eric Agama | Done |
+| US07           | Registro de Usuarios | T08 | Implementar registro de usuarios | Desarrollar la funcionalidad que permite a nuevos usuarios registrarse en la plataforma | 6 | Victor Meneses | Done |
+| US08           | Creación de Perfil de Usuario | T09 | Crear página de perfil de usuario | Permitir a los usuarios crear y personalizar su perfil en la aplicación | 4 | Rodrigo Lopez | Done |
+| US13           | Gestión de Roles y Permisos de Usuarios | T10 | Implementar roles y permisos | Desarrollar una gestión de roles y permisos para diferenciar las capacidades de usuarios y administradores | 4 | Rodrigo Alcántara | Done |
+| US18           | Escalabilidad y Rendimiento | T11 | Optimizar el rendimiento del sistema | Mejorar la infraestructura del sistema para soportar mayor carga de usuarios y tráfico | 7 | Rodrigo López | Done |
+| US19           | Disponibilidad y Recuperación ante Fallos | T12 | Implementar estrategias de alta disponibilidad | Asegurar la disponibilidad de la plataforma y mecanismos de recuperación ante fallos | 6 | Harold Elías | Done |
+| US20           | Compatibilidad multiplataforma | T13 | Garantizar compatibilidad en distintos dispositivos | Asegurar que la aplicación funcione correctamente en diferentes plataformas (móvil, tablet, escritorio) | 5 | Eric Agama | Done |
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
+|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master               | 4258080   | chore: add dependencies for angular material and ngx-translate                     | chore: add dependencies for angular material and ngx-translate                            | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 46b1a85   | chore: configure environment variables support.         | chore: configure environment variables support.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | 6ac8e9b   | feat(tutoring): add domain model entities for the tutoring bounded context.                 | feat(tutoring): add domain model entities for the tutoring bounded context.                       | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master              | a5ef68c   | feat(public): add page not found component.        | feat(public): add page not found component.              | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 316f0d0   | feat(i18n): add i18n behavior.         | feat(i18n): add i18n behavior.               | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 488ca2b   | feat(dashboard): edit css dashboard | feat(dashboard): edit css dashboard | 23/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | develop              | 9cb858e   | feat(tutoring): add tutoring service | feat(tutoring): add tutoring service | 24/09/2024 |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring | cc5ef46  | feat(tutoring): add tutoring dialog component               | feat(tutoring): add tutoring dialog component                     | 24/09/2024       |
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | feature/create-tutoring     | 5d3d9cc  | feat(tutoring): edit dashboard and toolbar            | feat(tutoring): edit dashboard and toolbar                  | 24/09/2024       |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Se realizó un fork al repositorio principal de [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) para poder hacer el deploy usando Azure Static Web Apps. Repositorio forkeado: [TutorMatch-FrontendApp-FORK](https://github.com/RodrLH/TutorMatch-FrontendApp).
+
+
+| Repository                                                     | Branch | Commit Id | Commit Message      | Commit Message Body | Commit on (Date) |
+|----------------------------------------------------------------|--------|-----------|---------------------|---------------------|------------------|
+| [TutorMatch-FrontendApp](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | main   | 289a2c0   | ci: add Azure Static Web Apps workflow file| ci: add Azure Static Web Apps workflow file| 24/09/2024        |
+
+[Accede al web app desplegado](https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register)
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se implentó en este segundo Sprint el diseño la primera version del Frontend Web App, desplegado en <b>Azure Static Web Apps</b>. A continuación, se explicará las secciones importantes de la aplicación web.
+
+<b>1.- Página de Registro:</b> Como parte de este sprint, nuestro equipo implementó la funcionalidad de registro para la plataforma. El formulario de registro ahora está completamente integrado en la página de inicio, permitiendo a los nuevos usuarios (tanto profesores como estudiantes) crear una cuenta de manera sencilla. 
+
+<img src="Images/frontend-register.png" />
+
+<b>2.- Página de Logueo:</b> También se implementó la funcionalidad de logueo para usuarios registrados en TutorMatch. La página de inicio de sesión permite a los usuarios ingresar con sus credenciales previamente registradas (correo electrónico y contraseña).
+
+<img src="Images/frontend-login.png" />
+
+<b>3.- Página de Dashboard:</b> El dashboard es la página principal a la que se accede después del inicio de sesión. Proporciona a los usuarios una visión general de sus actividades dentro de TutorMatch, tanto para estudiantes como para profesores.
+
+<br>
+<img src="Images/frontend-dashboard1.png" />
+
+<br>
+<img src="Images/frontend-dashboard2.png" />
+
+<b>4.- Dialog para crear o agregrar una tutoría:</b> Se ha implementado un diálogo modal que permite a los tutores agregar nuevas sesiones de tutoría. Esta ventana emergente es accesible desde el dashboard y facilita la creación de sesiones en unos pocos pasos.
+
+<br>
+<img src="Images/frontend-addTutoring1.png" />
+
+<br>
+<img src="Images/frontend-addTutoring2.png" />
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Azure. A continuación, se presentan las evidencias del despliegue de dicha página.
+
+<img src="Images/deploy_azure_1.png" />
+
+<img src="Images/deploy_azure_2.png" />
+
+<img src="Images/frontend-login.png" />
+
+<img src="Images/frontend-register.png" />
+
+<img src="Images/frontend-dashboard1.png" />
+
+<img src="Images/frontend-dashboard2.png" />
+
+<img src="Images/frontend-addTutoring1.png" />
+
+<img src="Images/frontend-addTutoring2.png" />
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A continuación, se mostrará la colaboración grupal mediante GitHub Insights, donde se mostrará los commits de manera individual. De igual manera se muestra gráficamente las colaboraciones y tráficos. 
+
+<img src="Images/pulse_overview.png"/>
+
+<img src="Images/pulse_pull.png"/>
+
+<img src="Images/Contributors.png"/>
+
+<img src="Images/traffic_git.png"/>
+
+<img src="Images/Commits.png"/>
+
+<img src="Images/Code_frequency.png"/>
+
+<img src="Images/Network_graph.png"/>
 
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
