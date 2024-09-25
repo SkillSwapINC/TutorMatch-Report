@@ -1476,6 +1476,21 @@ Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicació
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
+A continuación, se mostrará la colaboración grupal mediante GitHub Insights, donde se mostrará los commits de manera individual. De igual manera se muestra gráficamente las colaboraciones y tráficos. 
+
+<img src="Images/pulse_overview.png"/>
+
+<img src="Images/pulse_pull.png"/>
+
+<img src="Images/Contributors.png"/>
+
+<img src="Images/traffic_git.png"/>
+
+<img src="Images/Commits.png"/>
+
+<img src="Images/Code_frequency.png"/>
+
+<img src="Images/Network_graph.png"/>
 
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
