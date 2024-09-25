@@ -1413,6 +1413,32 @@ Se realizó un fork al repositorio principal de [TutorMatch-FrontendApp](https:/
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
+Se implentó en este segundo Sprint el diseño la primera version del Frontend Web App, desplegado en <b>Azure Static Web Apps</b>. A continuación, se explicará las secciones importantes de la aplicación web.
+
+<b>1.- Página de Registro:</b> Como parte de este sprint, nuestro equipo implementó la funcionalidad de registro para la plataforma. El formulario de registro ahora está completamente integrado en la página de inicio, permitiendo a los nuevos usuarios (tanto profesores como estudiantes) crear una cuenta de manera sencilla. 
+
+<img src="Images/frontend-register.png" />
+
+<b>2.- Página de Logueo:</b> También se implementó la funcionalidad de logueo para usuarios registrados en TutorMatch. La página de inicio de sesión permite a los usuarios ingresar con sus credenciales previamente registradas (correo electrónico y contraseña).
+
+<img src="Images/frontend-login.png" />
+
+<b>3.- Página de Dashboard:</b> El dashboard es la página principal a la que se accede después del inicio de sesión. Proporciona a los usuarios una visión general de sus actividades dentro de TutorMatch, tanto para estudiantes como para profesores.
+
+<br>
+<img src="Images/frontend-dashboard1.png" />
+
+<br>
+<img src="Images/frontend-dashboard2.png" />
+
+<b>4.- Dialog para crear o agregrar una tutoría:</b> Se ha implementado un diálogo modal que permite a los tutores agregar nuevas sesiones de tutoría. Esta ventana emergente es accesible desde el dashboard y facilita la creación de sesiones en unos pocos pasos.
+
+<br>
+<img src="Images/frontend-addTutoring1.png" />
+
+<br>
+<img src="Images/frontend-addTutoring2.png" />
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación TutorMatch, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
