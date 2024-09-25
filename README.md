@@ -1655,6 +1655,20 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+- **Alta demanda de apoyo académico**: El proyecto TutorMatch está respondiendo a la significativa demanda de tutorías personalizadas, con más del 65% de los estudiantes de Ingeniería de Software en la UPC buscando apoyo adicional en sus primeros ciclos.
+
+- **Falta de una plataforma eficiente**: A pesar de la disposición de los estudiantes para ayudarse entre pares, actualmente no existe una plataforma adecuada que facilite el emparejamiento eficaz entre tutores y estudiantes, lo que limita el acceso a tutorías.
+
+- **Impacto en el rendimiento académico**: La ausencia de tutorías accesibles y bien estructuradas ha contribuido al estrés y bajo rendimiento académico en los estudiantes, que se ven obligados a dedicar más tiempo a ciertos cursos a expensas de otros.
+
+- **Potencial del aprendizaje colaborativo**: El desarrollo de TutorMatch maximizará el valor del aprendizaje entre pares, creando un espacio en el que estudiantes avanzados puedan brindar tutorías, fomentando el apoyo mutuo y mejorando el rendimiento general.
+
+- **Innovación tecnológica en la educación**: TutorMatch está siendo diseñado como una solución tecnológica innovadora, facilitando no solo la búsqueda de tutorías, sino también la gestión de horarios y la evaluación de calidad, lo que garantiza un mejor acceso al apoyo académico.
+- **Fomentar la participación estudiantil**: Es recomendable que, durante el desarrollo de TutorMatch, se promuevan campañas dentro de la UPC para incentivar tanto a estudiantes como a tutores a utilizar la plataforma, asegurando una base sólida de usuarios desde el principio.
+- **Incluir tutorías virtuales y presenciales**: Para adaptarse a las diferentes necesidades y modalidades de los estudiantes, es esencial que TutorMatch ofrezca la opción de tutorías tanto presenciales como virtuales, asegurando flexibilidad en la asistencia.
+- **Monitoreo y mejora continua**: Una vez implementada la plataforma, se recomienda realizar encuestas regulares de satisfacción y análisis de datos de uso para identificar áreas de mejora, asegurando que la calidad del servicio siga cumpliendo con las expectativas de los usuarios.
+
 ### Video About-the-Team
 
 # Bibliografía
