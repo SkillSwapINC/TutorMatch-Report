@@ -1670,4 +1670,4 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 <br>
 Video de exposiciones:
 
-- Trabajo parcial: 
+- Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
