@@ -1611,7 +1611,7 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 |                     |                  |                   |
 
 
-### 5.2.3.2. Sprint Backlog 2
+### 5.2.3.2. Sprint Backlog 3
 
 
 | **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
