@@ -144,8 +144,8 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
     - [5.2.3. Sprint 3](#522-sprint-3)
-      - [5.2.3.1. Sprint Planning 2](#5221-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 2](#5222-sprint-backlog-3)
+      - [5.2.3.1. Sprint Planning 3](#5221-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5222-sprint-backlog-3)
       - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
       - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
