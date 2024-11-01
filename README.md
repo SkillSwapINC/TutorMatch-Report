@@ -1785,6 +1785,76 @@ Preguntas sobre el proyecto:
 
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
+
+# TutorMatch - Evaluación de Heurísticas y Principios UX
+
+**Carrera**: Ingeniería de Software  
+**Curso**: Desarrollo de Aplicaciones Open Source  
+**Sección**: SW56  
+**Profesores**: Todos  
+**Grupo Auditor**: [Nombre del Grupo que realiza la evaluación]  
+**Cliente**: SkillSwapINC  
+**Sitio o App a Evaluar**: TutorMatch
+
+## Escala de Severidad
+
+| Nivel | Descripción                                                                                                                                                                        |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | **Problema superficial**: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que haya disponibilidad de tiempo.      |
+| 2     | **Problema menor**: puede ocurrir con algo más de frecuencia o ser un poco más difícil de superar para el usuario. Debería tener baja prioridad para ser resuelto en la próxima versión. |
+| 3     | **Problema mayor**: ocurre frecuentemente o los usuarios no son capaces de resolverlo por sí mismos. Es importante corregirlo y asignarle una prioridad alta.                      |
+| 4     | **Problema muy grave**: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo corregirlo antes del lanzamiento.                      |
+
+## Tabla Resumen de Problemas
+
+| #  | Problema                                                      | Escala de Severidad | Heurística/Principio Violado                        |
+|----|---------------------------------------------------------------|----------------------|----------------------------------------------------|
+| 1  | La contraseña no está validada correctamente para 8 caracteres o más | 3                    | Usabilidad: Prevención de errores                   |
+| 2  | Opciones repetidas constantemente                             | 1                    | Usabilidad: Consistencia y estándares              |
+| 3  | Botón “Editar tutorías” sin funcionalidad                     | 4                    | Usabilidad: Retroalimentación del sistema          |
+| 4  | No hay un botón para borrar tutorías                          | 3                    | Usabilidad: Flexibilidad y eficiencia de uso       |
+| 5  | Falta de diseño responsivo adecuado                           | 3                    | Usabilidad: Diseño adaptable y receptivo           |
+| 6  | Falta de funcionalidad en la barra de búsqueda                | 2                    | Arquitectura de Información: ¿Es fácil de usar?    |
+
+## Descripción de Problemas y Recomendaciones
+
+### Problema #1: La contraseña no está validada correctamente para 8 caracteres o más
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Prevención de errores
+- **Descripción**: El sistema permite el registro de contraseñas que no cumplen con un mínimo de seguridad, ya que no se valida que tengan al menos 8 caracteres. Esto puede poner en riesgo la seguridad de las cuentas de los usuarios.
+- **Recomendación**: Implementar una validación de contraseña que exija un mínimo de 8 caracteres y recomiende el uso de letras mayúsculas, números, y caracteres especiales para mejorar la seguridad de las cuentas.
+
+### Problema #2: Opciones repetidas constantemente
+- **Severidad**: 1
+- **Heurística Violada**: Usabilidad - Consistencia y estándares
+- **Descripción**: Algunas opciones de navegación o acciones se repiten en varias secciones, lo que podría generar confusión o sobrecargar visualmente al usuario.
+- **Recomendación**: Revisar y consolidar las opciones redundantes, asegurando una estructura de navegación clara y evitando elementos duplicados innecesarios.
+
+### Problema #3: Botón “Editar tutorías” sin funcionalidad
+- **Severidad**: 4
+- **Heurística Violada**: Usabilidad - Retroalimentación del sistema
+- **Descripción**: El botón “Editar tutorías” no tiene funcionalidad asignada, lo que impide a los usuarios realizar cambios en la información de sus tutorías. Esto puede ser frustrante y limita el control del usuario sobre sus publicaciones.
+- **Recomendación**: Implementar la funcionalidad de edición para que los usuarios puedan actualizar o modificar los detalles de sus tutorías.
+
+### Problema #4: No hay un botón para borrar tutorías
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Flexibilidad y eficiencia de uso
+- **Descripción**: La falta de un botón para eliminar tutorías hace que los usuarios no puedan gestionar completamente sus publicaciones, lo cual limita la eficiencia y control sobre sus ofertas.
+- **Recomendación**: Añadir un botón de eliminación en la interfaz de tutorías para que los usuarios puedan borrar las publicaciones no deseadas.
+
+### Problema #5: Falta de diseño responsivo adecuado
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Diseño adaptable y receptivo
+- **Descripción**: La aplicación no se adapta correctamente a diferentes tamaños de pantalla, dificultando la navegación en dispositivos móviles y tablets.
+- **Recomendación**: Optimizar el diseño responsivo asegurando que todos los elementos y componentes se ajusten adecuadamente a pantallas pequeñas y medianas para mejorar la experiencia de usuario en dispositivos móviles.
+
+### Problema #6: Falta de funcionalidad en la barra de búsqueda
+- **Severidad**: 2
+- **Heurística Violada**: Arquitectura de Información - ¿Es fácil de usar?
+- **Descripción**: La barra de búsqueda no tiene funcionalidad implementada, lo que impide que los usuarios puedan realizar búsquedas rápidas y eficientes dentro de la aplicación.
+- **Recomendación**: Agregar funcionalidad a la barra de búsqueda para permitir que los usuarios encuentren contenido relevante de manera rápida, mejorando así la accesibilidad y usabilidad de la plataforma.
+
+
 ### 5.4. Video About-the-Product
 
 # Conclusiones
