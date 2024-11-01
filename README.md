@@ -1783,3 +1783,7 @@ Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.
 Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
+
+Video About the Product:
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202212338_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212338%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw56%2Dskillswapinc%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed95b2fa3%2D3423%2D4072%2D9f3b%2D01221e867588)
+  - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint 3](https://youtu.be/cJOGwoCupBA)
