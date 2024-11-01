@@ -1793,7 +1793,7 @@ Preguntas sobre el proyecto:
 **Curso**: Desarrollo de Aplicaciones Open Source  
 **Sección**: SW56  
 **Profesores**: Todos  
-**Grupo Auditor**: [Nombre del Grupo que realiza la evaluación]  
+**Grupo Auditor**: EcoMovil Squad  
 **Cliente**: SkillSwapINC  
 **Sitio o App a Evaluar**: TutorMatch
 
