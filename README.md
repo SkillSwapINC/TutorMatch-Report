@@ -1878,6 +1878,8 @@ Para poder visualizar el video about de the product dirigirse a los anexos (Vide
 
 ### Video About-the-Team
 
+Para poder visualizar el video about de the team dirigirse a los anexos (Video About the Team).
+
 # Bibliografía
 
 1. Conventional Commits. (n.d.). Conventional Commits 1.0.0. https://www.conventionalcommits.org/en/v1.0.0/
@@ -1926,3 +1928,7 @@ Video de exposiciones:
 Video About the Product:
   - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202212338_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212338%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw56%2Dskillswapinc%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed95b2fa3%2D3423%2D4072%2D9f3b%2D01221e867588)
   - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint 3](https://youtu.be/cJOGwoCupBA)
+
+Video About the Team:
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202213358_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213358%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%2Dteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee409ae3a%2D9413%2D46cd%2Daafa%2D1486b0ef47f2)
+ - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://youtu.be/3uy713v3xp8)
