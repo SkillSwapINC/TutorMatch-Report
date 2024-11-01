@@ -1613,16 +1613,33 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 ### 5.2.3.2. Sprint Backlog 3
 
+En el Sprint Backlog número 3 se encuentra todas las tareas dadas para el Sprint 3. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/y6Ip0Ool/sprint-3-tutormatch
 
-| **User Story** | **Title** | **Work-Item / Task** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-|----------------|-----------|----------------------|-----------|-----------------|------------------------|-----------------|------------|
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
-|            |  |  |  |  |  |  |  |
+| **User Story** | **Title**                                    | **Work-Item / Task** | **Title**                                      | **Description**                                                                                                 | **Estimation (Hours)** | **Assigned To**   | **Status** |
+|----------------|---------------------------------------------|-----------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------|-------------------|------------|
+| US06           | Publicación de Tutorías por los Tutores     | T14                   | Crear funcionalidad para publicar tutorías     | Implementar interfaz para que tutores publiquen sesiones de tutoría disponibles para los estudiantes             | 8                      | Eric Agama        | Done       |
+|                |                                             | T15                   | Diseño de UI para publicaciones de tutorías    | Diseñar la interfaz gráfica que permite a los tutores crear y gestionar publicaciones de tutorías                | 6                      | Victor Meneses      | Done       |
+|                |                                             | T16                   | Validación de entradas en publicación de tutoría | Validar los datos ingresados en la publicación para garantizar su completitud y exactitud                       | 6                      | Victor Meneses    | Done       |
+| US04           | Solicitud de Tutoría y Envío de Mensaje de Coordinación | T17          | Implementar solicitud de tutoría              | Crear la funcionalidad en el frontend que permite a los usuarios solicitar tutorías basadas en publicaciones     | 6                      | Rodrigo Lopez     | Done       |
+|                |                                             | T18                   | Enviar mensaje de coordinación al tutor        | Implementar UI para que, tras una solicitud de tutoría, se envíe un mensaje de coordinación al tutor             | 4                      | Harold Elías      | Done       |
+| US11           | Visualización de Perfil del Tutor           | T19                   | Crear vista de perfil de tutor                 | Desarrollar la interfaz donde los usuarios puedan visualizar perfiles detallados de los tutores                  | 5                      | Rodrigo Lopez     | Done       |
+|                |                                             | T20                   | Diseño de perfil de tutor en frontend          | Diseñar los elementos gráficos y presentación para la vista de perfil del tutor                                 | 4                      | Rodrigo Lopez      | Done       |
+| US09           | Edición de Perfil de Usuario                | T21                   | Crear formulario de edición de perfil          | Implementar un formulario en el frontend para la edición del perfil de usuario                                  | 4                      | Eric Agama        | Done       |
+|                |                                             | T22                   | Validación de datos en edición de perfil       | Agregar validación en el formulario de edición para asegurar la integridad de la información del usuario         | 4                      | Victor Meneses    | Done       |
+|                |                                             | T23                   | Actualizar vista de perfil con cambios         | Reflejar los cambios de perfil en la vista de perfil del usuario en tiempo real                                  | 5                      | Eric Agama      | Done       |
+| US15           | Seguridad de Datos                          | T24                   | Implementar autenticación en frontend          | Implementar el sistema de autenticación en el frontend para restringir acceso basado en roles                    | 5                      | Rodrigo Alcántara | Done       |
+|                |                                             | T25                   | Configurar seguridad en frontend               | Asegurar la protección de datos sensibles en el frontend mediante medidas de seguridad (ej. cifrado)             | 4                      | Rodrigo Alcántara | Done       |
+|                |                                             | T26                   | Asegurar acceso seguro a vistas                | Restringir acceso a las vistas sensibles dependiendo del rol del usuario                                        | 4                      | Harold Elías      | Done       |
+| TS01           | Endpoint para Crear Publicación de Tutoría  | T27                   | Crear endpoint para publicación de tutoría     | Crear el endpoint backend que permite a los tutores registrar publicaciones de tutorías                          | 6                      | Rodrigo Lopez     | Done       |
+|                |                                             | T28                   | Pruebas y validación de publicación de tutoría | Realizar pruebas de funcionalidad y seguridad para asegurar el correcto funcionamiento del endpoint              | 4                      | Harold Elías      | Done       |
+| TS02           | Endpoint para Obtener Publicaciones         | T29                   | Crear endpoint para obtener publicaciones      | Implementar el endpoint backend que permite obtener una lista de publicaciones de tutorías disponibles           | 4                      | Victor Meneses    | Done       |
+|                |                                             | T30                   | Validación y pruebas de obtención de publicaciones | Ejecutar pruebas y validaciones en el endpoint de obtención para asegurar funcionalidad y seguridad             | 4                      | Rodrigo Alcántara | Done       |
+| TS03           | Endpoint para Actualizar Perfil del Tutor   | T31                   | Crear endpoint para actualización de perfil    | Implementar el endpoint que permite a los tutores actualizar la información de su perfil                         | 6                      | Eric Agama        | Done       |
+|                |                                             | T32                   | Pruebas de actualización de perfil             | Ejecutar pruebas de funcionalidad y seguridad en el endpoint de actualización de perfil                          | 4                      | Harold Elías      | Done       |
+| TS04           | Endpoint para Eliminar Perfil de Usuario    | T33                   | Crear endpoint para eliminación de perfil      | Implementar el endpoint que permite a los usuarios eliminar su perfil                                           | 4                      | Harold Elías      | Done       |
+|                |                                             | T34                   | Validación de eliminación de perfil            | Realizar pruebas y validaciones para asegurar la eliminación segura del perfil de usuario                       | 4                      | Rodrigo Alcántara | Done       |
+
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
