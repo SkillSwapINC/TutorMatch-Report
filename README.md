@@ -1596,7 +1596,7 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
+| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántññara, Harold Elías y Victor Meneses                   |
 
 | Sprint 3 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
@@ -1680,6 +1680,36 @@ Link de trello: https://trello.com/b/y6Ip0Ool/sprint-3-tutormatch
 
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+
+¿Cuál es su nombre?
+
+¿En qué ciclo estas?
+
+Preguntas del landing page:
+
+¿Qué impresión general tienes de la Landing page de TutorMatch?
+
+¿La información presentada en la Landing page te parece clara y fácil de entender? ¿Por qué?
+
+¿Qué elementos cambiarías o mejorarías en la Landing page para mejorar tu experiencia de usuario?
+
+Preguntas de la aplicación web:
+
+¿Cómo describirías tu experiencia en la aplicación web de TutorMatch?
+
+¿Cómo calificarías la facilidad de uso de las herramientas en la aplicación web?
+
+¿Qué funcionalidades adicionales te gustaría ver en la aplicación web de TutorMatch?
+
+¿Tuviste algún problema o dificultad al usar la aplicación web?
+
+Preguntas sobre el proyecto:
+
+¿Crees que el equipo de Skillswap cumple con su misión de proporcionar una plataforma completa para los alumnos y tutores ?
+
+¿Recomendarías TutorMatch a otros usuarios? ¿Por qué?
+
+
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
 ### 5.4. Video About-the-Product
