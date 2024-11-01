@@ -30,11 +30,12 @@ width=50%"/>
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 ### Registro de Versiones del Informe
-| Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
-|    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
-|    1.1     |    8/09/2024     |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
-|    1.2     |    25/09/2024     |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
+| Versión | Fecha      | Autor      | Descripción de Modificación                                                                 | 
+|---------|------------|------------|---------------------------------------------------------------------------------------------|
+| 1.0     | 6/09/2024  |    SkillSwapINC        | Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5)           |
+| 1.1     | 8/09/2024  |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo.                               |
+| 1.2     | 25/09/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
+| 1.3     | 15/10/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 3 |
 
 ### Project Report Collaboration Insights
 
