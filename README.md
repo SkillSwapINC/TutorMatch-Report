@@ -30,11 +30,12 @@ width=50%"/>
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 ### Registro de Versiones del Informe
-| Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
-|    1.0     |    6/09/2024     |    SkillSwapINC        |     Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5) |
-|    1.1     |    8/09/2024     |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo. |
-|    1.2     |    25/09/2024     |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
+| Versión | Fecha      | Autor      | Descripción de Modificación                                                                 | 
+|---------|------------|------------|---------------------------------------------------------------------------------------------|
+| 1.0     | 6/09/2024  |    SkillSwapINC        | Se desarrollaron todos los puntos correspondientes a la TB1 (Capítulos del 1 - 5)           |
+| 1.1     | 8/09/2024  |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo.                               |
+| 1.2     | 25/09/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
+| 1.3     | 15/10/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 3 |
 
 ### Project Report Collaboration Insights
 
@@ -46,8 +47,9 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
 ### Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>Ayudé con el desarrollo del Lean UX Hypothesis Statement y Lean UX Canvas. Además de contribuir con el desarrollo del landing page. Adicionalmente de realizar el Needfinding. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Executiong Evidence for Sprint Review.<br>TP1:<br>Contribuí en el desarrollo de los Impact Maps y Journey Maps, ajustando las características comparadas con la competencia. Mi aporte fue clave en la revisión de la estructura y contenido de estos elementos para adaptarlos a los objetivos del producto.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>Ayudé con el desarrollo del Startup profile, Diseño del landing page, así como el diseño de las entrevistas, registro y análisis. Además de realizar el Style Guidelines y el Information Architecture. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Software Development Configuration.<br>TP1:<br>Trabajé en la creación y actualización de diagramas como el Class Diagram y Database Diagram. Participé activamente en la integración del Product Design, asegurando que los diagramas reflejaran los requerimientos del sistema de manera clara y precisa.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>Ayudé con el Lean UX Problem Statements y Lean UX Assumptions. Además de contribuir con el desarrollo del landing page. Adicionalmente los Competidores y Domain-Driven Software Arquitecture. Finalmente aporté con el Sprint Backlog 1, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y el Team Collaboration Insights during Sprint.<br>TP1:<br>Contribuí en la actualización de diagramas clave como el Context Diagram y Container Diagram. Además, trabajé en la organización de los contenidos del Product Design para garantizar su coherencia en el proceso de desarrollo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>Ayudé con el desarollo de los segmentos objetivos así como también en el desarollo del Landing page. También desarrollé Ubiquitous Language, así como también todo el Capítulo 3. Además también desarrollé el Software Object-Oriented Design y el Database Design. Finalmente también desarrollé el Source Code Style Guide & Conventions.<br>TP1:<br>Contribuí en la creación y actualización de diagramas importantes, como el Component Diagram y Container Diagram. Aporté en la revisión y ajuste del Product Design para reflejar adecuadamente las interacciones entre componentes del sistema.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>Ayudé con el desarrollo de los antecedentes y problemática así como también el diseño del landing page. Además del Domain-Driven Software Arquitecture. También Desarrollé el Software Development Environment Configuration. Finalmente desarrollé el Source Code Management. <br>TP1:<br>Actualicé los diagramas del sistema y trabajé en la mejora del Context Diagram, asegurando que reflejara correctamente las interacciones clave en el sistema. También participé en la organización de las características y necesidades del sistema.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha hecho aportaciones valiosas al proyecto. Eric Agama trabajó en el Startup profile, la landing page, y en Style Guidelines y Information Architecture. Rodrigo Alcántara contribuyó al Lean UX Hypothesis Statement, Lean UX Canvas, y Needfinding, y apoyó en la landing page y la planificación de sprints. Harold Elías desarrolló los Lean UX Problem Statements, la Domain-Driven Software Architecture, y la documentación de servicios. Rodrigo López definió los target segments, el Ubiquitous Language, y diseñó el Object-Oriented Software y la Database. Victor Meneses se encargó de los antecedentes, la landing page, y la Source Code Management. Las contribuciones de todos han sido clave para el éxito del proyecto y la comunicación efectiva.|
-|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>En el desarrollo del Lean UX Hypothesis Statement y el Lean UX Canvas, utilicé un lenguaje adaptado a audiencias tanto técnicas como no técnicas, asegurando que la información fuera clara y accesible. Contribuí a la creación de la landing page, comunicando el valor del proyecto de manera efectiva para distintos grupos de interés. En el proceso de Needfinding, documenté los resultados de manera que fueran comprensibles para diversas audiencias. También participé en el Web Applications UX/UI Design y Web Applications Prototyping, asegurando que la documentación fuera accesible para usuarios con diferentes niveles de experiencia. Mi trabajo en la Sprint Planning 1 y la elaboración de evidencias para las revisiones del Sprint incluyó adaptar el contenido para diversos niveles de comprensión técnica.<br>TP1:<br>Trabajé en la mejora de la estructura y funcionalidad de la aplicación web, contribuyendo al desarrollo del Customer Journey Map y el Product Impact Map. Utilicé un enfoque claro y accesible para asegurar que todos los miembros del equipo, independientemente de su nivel técnico, pudieran entender los resultados de nuestro análisis de competidores. Documenté los ajustes necesarios en las características clave de la aplicación de manera que los stakeholders pudieran apreciar el impacto de nuestras decisiones en el proyecto, facilitando la comunicación y la alineación del equipo hacia nuestros objetivos comunes.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>En el desarrollo del Startup profile, el diseño de la landing page y la elaboración de las entrevistas, así como su registro y análisis, me enfoqué en la claridad y coherencia de la comunicación para diferentes audiencias. Redacté las Style Guidelines y la Information Architecture para garantizar que la documentación técnica y creativa fuera accesible y comprensible para todos los niveles de comprensión. Además, desarrollé documentos relacionados con el Web Applications UX/UI Design y Web Applications Prototyping, adaptando el contenido para ser entendido por distintos públicos técnicos y no técnicos. Mi contribución en la Software Development Configuration incluyó la redacción de manuales y guías diseñadas para diferentes audiencias, asegurando una comunicación efectiva y precisa.<br>TP1:<br>Estuve a cargo de la creación y actualización del Class Diagram y el Database Diagram. Aseguré que las explicaciones sobre la estructura de la base de datos fueran comprensibles para todos los miembros del equipo, tanto para aquellos con un trasfondo técnico como para aquellos sin experiencia previa. Presenté de manera clara los cambios estructurales necesarios para mejorar el rendimiento del sistema, ayudando a todos a seguir el progreso del proyecto de forma efectiva y manteniendo a los stakeholders informados sobre nuestras decisiones clave.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>En la redacción de los Lean UX Problem Statements y Lean UX Assumptions, utilicé un lenguaje accesible para diversos grupos de interés. Contribuí al desarrollo de la landing page, presentando la información de manera clara y persuasiva para diferentes audiencias. Documenté el análisis de Competidores y la Domain-Driven Software Architecture, con un enfoque en la claridad y precisión para distintos niveles técnicos. Además, desarrollé el Sprint Backlog 1 y la documentación de Services y Software Deployment para las revisiones del Sprint, enfocándome en la comunicación efectiva con diversos públicos.<br>TP1:<br>Lideré la actualización del Context Diagram y el Container Diagram, enfocándome en la claridad de la información presentada. Aclaré cómo los cambios en la arquitectura del sistema afectaban las funcionalidades del proyecto, logrando que tanto los desarrolladores como los miembros del equipo sin experiencia técnica comprendieran las decisiones tomadas. Documenté los avances de forma accesible, asegurando que todos estuvieran alineados en la visión del proyecto y comprendieran el impacto de nuestras acciones en el desarrollo del mismo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>En la definición de los target segments y el desarrollo de la landing page, comuniqué la información de manera efectiva para audiencias variadas. Redacté el Ubiquitous Language y el Capítulo 3 con claridad para diferentes niveles de comprensión técnica. Desarrollé la documentación del Object-Oriented Software Design y el Database Design, adaptando el contenido para audiencias técnicas y no técnicas. También creé la Source Code Style Guide & Conventions, asegurando que la documentación fuera comprensible para diferentes rangos de audiencia.<br>TP1:<br>Me enfoqué en definir los segmentos de mercado y en el desarrollo de la landing page. Comunicar la información de manera clara fue fundamental, por lo que redacté el Ubiquitous Language y el Capítulo 3 con el objetivo de que todos los niveles de comprensión técnica pudieran seguir el contenido sin dificultad. Desarrollé la documentación relacionada con el Object-Oriented Software Design y el Database Design, asegurando que los detalles técnicos fueran presentados de forma comprensible para distintos públicos. También creé la Source Code Style Guide & Conventions, facilitando que el equipo se mantuviera informado sobre las mejores prácticas en la documentación.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>En la redacción de los antecedentes y la problemática, adapté la información para diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera accesible y relevante para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, con un enfoque en la claridad para públicos técnicos y no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión para diferentes niveles de experiencia.<br>TP1:<br>Trabajé en la redacción de los antecedentes y la problemática, adaptando la información para que fuera accesible a diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera relevante y claro para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, enfocándome en la claridad para públicos tanto técnicos como no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión del proyecto para diferentes niveles de experiencia dentro del equipo.<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha demostrado una habilidad destacada para comunicar información de manera efectiva a diferentes audiencias. Eric Agama se ha centrado en la claridad de documentos técnicos y creativos, Rodrigo Alcántara ha adaptado el lenguaje en documentos clave como el Lean UX Canvas y Needfinding, Harold Elías ha presentado información accesible en el análisis de Competidores y Domain-Driven Software Architecture, Rodrigo López ha manejado la comunicación en target segments y el Object-Oriented Software Design, y Victor Meneses ha desarrollado documentación crítica como la Source Code Management. Esta capacidad de adaptar el contenido a distintos niveles de comprensión ha sido crucial para el éxito del proyecto y para facilitar una colaboración eficaz.|
+|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>Ayudé con el desarrollo del Lean UX Hypothesis Statement y Lean UX Canvas. Además de contribuir con el desarrollo del landing page. Adicionalmente de realizar el Needfinding. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Executiong Evidence for Sprint Review.<br>TP1:<br>Contribuí en el desarrollo de los Impact Maps y Journey Maps, ajustando las características comparadas con la competencia. Mi aporte fue clave en la revisión de la estructura y contenido de estos elementos para adaptarlos a los objetivos del producto.<br>TB2:<br>Contribuí en la elaboración del reporte final, documentando decisiones y hallazgos del proyecto. Además, trabajé en la integración de las vistas de Configuraciones y Perfiles en el frontend, enfocándome en la usabilidad y diseño para asegurar una experiencia de usuario coherente.<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>Ayudé con el desarrollo del Startup profile, Diseño del landing page, así como el diseño de las entrevistas, registro y análisis. Además de realizar el Style Guidelines y el Information Architecture. También ayudé con el Web Applications UX/UI Design, además de Web Applications Prototyping. Finalmente con el Software Development Configuration.<br>TP1:<br>Trabajé en la creación y actualización de diagramas como el Class Diagram y Database Diagram. Participé activamente en la integración del Product Design, asegurando que los diagramas reflejaran los requerimientos del sistema de manera clara y precisa.<br>TB2:<br>Mi papel principal fue en la creación y actualización de diagramas, incluyendo el Class Diagram y el Database Diagram, asegurando que reflejaran los requisitos del sistema. También colaboré en la integración del Product Design para alinear las representaciones visuales y funcionales con los objetivos del sistema.<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>Ayudé con el Lean UX Problem Statements y Lean UX Assumptions. Además de contribuir con el desarrollo del landing page. Adicionalmente los Competidores y Domain-Driven Software Arquitecture. Finalmente aporté con el Sprint Backlog 1, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y el Team Collaboration Insights during Sprint.<br>TP1:<br>Contribuí en la actualización de diagramas clave como el Context Diagram y Container Diagram. Además, trabajé en la organización de los contenidos del Product Design para garantizar su coherencia en el proceso de desarrollo.<br>TB2:<br>En el Sprint 3, redacté el reporte que reunió información sobre el progreso del proyecto y los desafíos enfrentados. También apoyé el apartado de planes y pagos, documentando funcionalidades y proponiendo mejoras para optimizar la experiencia del usuario.<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>Ayudé con el desarollo de los segmentos objetivos así como también en el desarollo del Landing page. También desarrollé Ubiquitous Language, así como también todo el Capítulo 3. Además también desarrollé el Software Object-Oriented Design y el Database Design. Finalmente también desarrollé el Source Code Style Guide & Conventions.<br>TP1:<br>Contribuí en la creación y actualización de diagramas importantes, como el Component Diagram y Container Diagram. Aporté en la revisión y ajuste del Product Design para reflejar adecuadamente las interacciones entre componentes del sistema.<br>TB2:<br>Me enfoqué en mejorar el frontend, realizando ajustes en el diseño para una experiencia de usuario más intuitiva. Identifiqué y solucioné imperfecciones visuales y funcionales, implementando cambios basados en el feedback de las pruebas de usabilidad.<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>Ayudé con el desarrollo de los antecedentes y problemática así como también el diseño del landing page. Además del Domain-Driven Software Arquitecture. También Desarrollé el Software Development Environment Configuration. Finalmente desarrollé el Source Code Management. <br>TP1:<br>Actualicé los diagramas del sistema y trabajé en la mejora del Context Diagram, asegurando que reflejara correctamente las interacciones clave en el sistema. También participé en la organización de las características y necesidades del sistema.<br>TB2:<br>Mi trabajo se centró en la visualización de cursos dentro del sistema. Diseñé la interfaz que permite a los usuarios navegar por la oferta de cursos, facilitando la búsqueda y el filtrado para mejorar la interacción con la plataforma.<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha hecho aportaciones valiosas al proyecto. Eric Agama trabajó en el Startup profile, la landing page, y en Style Guidelines y Information Architecture. Rodrigo Alcántara contribuyó al Lean UX Hypothesis Statement, Lean UX Canvas, y Needfinding, y apoyó en la landing page y la planificación de sprints. Harold Elías desarrolló los Lean UX Problem Statements, la Domain-Driven Software Architecture, y la documentación de servicios. Rodrigo López definió los target segments, el Ubiquitous Language, y diseñó el Object-Oriented Software y la Database. Victor Meneses se encargó de los antecedentes, la landing page, y la Source Code Management. Las contribuciones de todos han sido clave para el éxito del proyecto y la comunicación efectiva.|
+|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>En el desarrollo del Lean UX Hypothesis Statement y el Lean UX Canvas, utilicé un lenguaje adaptado a audiencias tanto técnicas como no técnicas, asegurando que la información fuera clara y accesible. Contribuí a la creación de la landing page, comunicando el valor del proyecto de manera efectiva para distintos grupos de interés. En el proceso de Needfinding, documenté los resultados de manera que fueran comprensibles para diversas audiencias. También participé en el Web Applications UX/UI Design y Web Applications Prototyping, asegurando que la documentación fuera accesible para usuarios con diferentes niveles de experiencia. Mi trabajo en la Sprint Planning 1 y la elaboración de evidencias para las revisiones del Sprint incluyó adaptar el contenido para diversos niveles de comprensión técnica.<br>TP1:<br>Trabajé en la mejora de la estructura y funcionalidad de la aplicación web, contribuyendo al desarrollo del Customer Journey Map y el Product Impact Map. Utilicé un enfoque claro y accesible para asegurar que todos los miembros del equipo, independientemente de su nivel técnico, pudieran entender los resultados de nuestro análisis de competidores. Documenté los ajustes necesarios en las características clave de la aplicación de manera que los stakeholders pudieran apreciar el impacto de nuestras decisiones en el proyecto, facilitando la comunicación y la alineación del equipo hacia nuestros objetivos comunes.<br>TB2:<br>Contribuí en la elaboración del reporte final, documentando decisiones y hallazgos del proyecto. Además, trabajé en la integración de las vistas de Configuraciones y Perfiles en el frontend, enfocándome en la usabilidad y diseño para asegurar una experiencia de usuario coherente.<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>En el desarrollo del Startup profile, el diseño de la landing page y la elaboración de las entrevistas, así como su registro y análisis, me enfoqué en la claridad y coherencia de la comunicación para diferentes audiencias. Redacté las Style Guidelines y la Information Architecture para garantizar que la documentación técnica y creativa fuera accesible y comprensible para todos los niveles de comprensión. Además, desarrollé documentos relacionados con el Web Applications UX/UI Design y Web Applications Prototyping, adaptando el contenido para ser entendido por distintos públicos técnicos y no técnicos. Mi contribución en la Software Development Configuration incluyó la redacción de manuales y guías diseñadas para diferentes audiencias, asegurando una comunicación efectiva y precisa.<br>TP1:<br>Estuve a cargo de la creación y actualización del Class Diagram y el Database Diagram. Aseguré que las explicaciones sobre la estructura de la base de datos fueran comprensibles para todos los miembros del equipo, tanto para aquellos con un trasfondo técnico como para aquellos sin experiencia previa. Presenté de manera clara los cambios estructurales necesarios para mejorar el rendimiento del sistema, ayudando a todos a seguir el progreso del proyecto de forma efectiva y manteniendo a los stakeholders informados sobre nuestras decisiones clave.<br>TB2:<br>Mi papel principal fue en la creación y actualización de diagramas, incluyendo el Class Diagram y el Database Diagram, asegurando que reflejaran los requisitos del sistema. También colaboré en la integración del Product Design para alinear las representaciones visuales y funcionales con los objetivos del sistema.<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>En la redacción de los Lean UX Problem Statements y Lean UX Assumptions, utilicé un lenguaje accesible para diversos grupos de interés. Contribuí al desarrollo de la landing page, presentando la información de manera clara y persuasiva para diferentes audiencias. Documenté el análisis de Competidores y la Domain-Driven Software Architecture, con un enfoque en la claridad y precisión para distintos niveles técnicos. Además, desarrollé el Sprint Backlog 1 y la documentación de Services y Software Deployment para las revisiones del Sprint, enfocándome en la comunicación efectiva con diversos públicos.<br>TP1:<br>Lideré la actualización del Context Diagram y el Container Diagram, enfocándome en la claridad de la información presentada. Aclaré cómo los cambios en la arquitectura del sistema afectaban las funcionalidades del proyecto, logrando que tanto los desarrolladores como los miembros del equipo sin experiencia técnica comprendieran las decisiones tomadas. Documenté los avances de forma accesible, asegurando que todos estuvieran alineados en la visión del proyecto y comprendieran el impacto de nuestras acciones en el desarrollo del mismo.<br>TB2:<br>En el Sprint 3, redacté el reporte que reunió información sobre el progreso del proyecto y los desafíos enfrentados. También apoyé el apartado de planes y pagos, documentando funcionalidades y proponiendo mejoras para optimizar la experiencia del usuario.<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>En la definición de los target segments y el desarrollo de la landing page, comuniqué la información de manera efectiva para audiencias variadas. Redacté el Ubiquitous Language y el Capítulo 3 con claridad para diferentes niveles de comprensión técnica. Desarrollé la documentación del Object-Oriented Software Design y el Database Design, adaptando el contenido para audiencias técnicas y no técnicas. También creé la Source Code Style Guide & Conventions, asegurando que la documentación fuera comprensible para diferentes rangos de audiencia.<br>TP1:<br>Me enfoqué en definir los segmentos de mercado y en el desarrollo de la landing page. Comunicar la información de manera clara fue fundamental, por lo que redacté el Ubiquitous Language y el Capítulo 3 con el objetivo de que todos los niveles de comprensión técnica pudieran seguir el contenido sin dificultad. Desarrollé la documentación relacionada con el Object-Oriented Software Design y el Database Design, asegurando que los detalles técnicos fueran presentados de forma comprensible para distintos públicos. También creé la Source Code Style Guide & Conventions, facilitando que el equipo se mantuviera informado sobre las mejores prácticas en la documentación.<br>TB2:<br>Me enfoqué en mejorar el frontend, realizando ajustes en el diseño para una experiencia de usuario más intuitiva. Identifiqué y solucioné imperfecciones visuales y funcionales, implementando cambios basados en el feedback de las pruebas de usabilidad.<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>En la redacción de los antecedentes y la problemática, adapté la información para diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera accesible y relevante para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, con un enfoque en la claridad para públicos técnicos y no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión para diferentes niveles de experiencia.<br>TP1:<br>Trabajé en la redacción de los antecedentes y la problemática, adaptando la información para que fuera accesible a diversos grupos de interés. Contribuí al diseño de la landing page, asegurando que el contenido fuera relevante y claro para diferentes audiencias. Documenté la Domain-Driven Software Architecture y la Software Development Environment Configuration, enfocándome en la claridad para públicos tanto técnicos como no técnicos. Además, desarrollé la Source Code Management, creando documentación que facilitara la comprensión del proyecto para diferentes niveles de experiencia dentro del equipo.<br>TB2:<br>Mi trabajo se centró en la visualización de cursos dentro del sistema. Diseñé la interfaz que permite a los usuarios navegar por la oferta de cursos, facilitando la búsqueda y el filtrado para mejorar la interacción con la plataforma.<br>TF:<br>[Texto]<br>|Cada miembro del equipo ha demostrado una habilidad destacada para comunicar información de manera efectiva a diferentes audiencias. Eric Agama se ha centrado en la claridad de documentos técnicos y creativos, Rodrigo Alcántara ha adaptado el lenguaje en documentos clave como el Lean UX Canvas y Needfinding, Harold Elías ha presentado información accesible en el análisis de Competidores y Domain-Driven Software Architecture, Rodrigo López ha manejado la comunicación en target segments y el Object-Oriented Software Design, y Victor Meneses ha desarrollado documentación crítica como la Source Code Management. Esta capacidad de adaptar el contenido a distintos niveles de comprensión ha sido crucial para el éxito del proyecto y para facilitar una colaboración eficaz.|
+
 
 
 # Índice
@@ -142,6 +144,16 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)     
 
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
@@ -1580,11 +1592,273 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 <img src="Images/Network_graph.png"/>
 
+### 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
+
+| Sprint 3 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación y front-end en base a la retroalimentación que brindo el profesor en la segunda entrega, también con un avance del backend                        |
+
+| Sprint 3 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 3.                                            |
+
+| Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+| Corregir la documentacion del proyecto y terminar la primera version del backend cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
+
+### Sprint Goal
+
+El equipo de SkillSwap decidió ofrecer unas nuevas mejoras en el producto:
+
+Nuestro enfoque es ofrecer una experiencia personalizada para los usuarios.
+
+Nosotros pensamos que el acceso rápido a la interfaz es fundamental para que los usuarios puedan observar mas a detalle la aplicación web, ofreciendo una mejora en la vista de tutor e implementando la vista estudiante cumpliendo con los user stories registrados.
+
+### 5.2.3.2. Sprint Backlog 3
+
+En el Sprint Backlog número 3 se encuentra todas las tareas dadas para el Sprint 3. Para la organización usamos el software de Trello, donde se ven los resultados de cada uno.
+Link de trello: https://trello.com/b/y6Ip0Ool/sprint-3-tutormatch
+
+| **User Story** | **Title**                                    | **Work-Item / Task** | **Title**                                      | **Description**                                                                                                 | **Estimation (Hours)** | **Assigned To**   | **Status** |
+|----------------|---------------------------------------------|-----------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------|-------------------|------------|
+| US06           | Publicación de Tutorías por los Tutores     | T14                   | Crear funcionalidad para publicar tutorías     | Implementar interfaz para que tutores publiquen sesiones de tutoría disponibles para los estudiantes             | 8                      | Eric Agama        | Done       |
+|                |                                             | T15                   | Diseño de UI para publicaciones de tutorías    | Diseñar la interfaz gráfica que permite a los tutores crear y gestionar publicaciones de tutorías                | 6                      | Victor Meneses      | Done       |
+|                |                                             | T16                   | Validación de entradas en publicación de tutoría | Validar los datos ingresados en la publicación para garantizar su completitud y exactitud                       | 6                      | Victor Meneses    | Done       |
+| US04           | Solicitud de Tutoría y Envío de Mensaje de Coordinación | T17          | Implementar solicitud de tutoría              | Crear la funcionalidad en el frontend que permite a los usuarios solicitar tutorías basadas en publicaciones     | 6                      | Rodrigo Lopez     | Done       |
+|                |                                             | T18                   | Enviar mensaje de coordinación al tutor        | Implementar UI para que, tras una solicitud de tutoría, se envíe un mensaje de coordinación al tutor             | 4                      | Harold Elías      | Done       |
+| US11           | Visualización de Perfil del Tutor           | T19                   | Crear vista de perfil de tutor                 | Desarrollar la interfaz donde los usuarios puedan visualizar perfiles detallados de los tutores                  | 5                      | Rodrigo Lopez     | Done       |
+|                |                                             | T20                   | Diseño de perfil de tutor en frontend          | Diseñar los elementos gráficos y presentación para la vista de perfil del tutor                                 | 4                      | Rodrigo Lopez      | Done       |
+| US09           | Edición de Perfil de Usuario                | T21                   | Crear formulario de edición de perfil          | Implementar un formulario en el frontend para la edición del perfil de usuario                                  | 4                      | Eric Agama        | Done       |
+|                |                                             | T22                   | Validación de datos en edición de perfil       | Agregar validación en el formulario de edición para asegurar la integridad de la información del usuario         | 4                      | Victor Meneses    | Done       |
+|                |                                             | T23                   | Actualizar vista de perfil con cambios         | Reflejar los cambios de perfil en la vista de perfil del usuario en tiempo real                                  | 5                      | Eric Agama      | Done       |
+| US15           | Seguridad de Datos                          | T24                   | Implementar autenticación en frontend          | Implementar el sistema de autenticación en el frontend para restringir acceso basado en roles                    | 5                      | Rodrigo Alcántara | Done       |
+|                |                                             | T25                   | Configurar seguridad en frontend               | Asegurar la protección de datos sensibles en el frontend mediante medidas de seguridad (ej. cifrado)             | 4                      | Rodrigo Alcántara | Done       |
+|                |                                             | T26                   | Asegurar acceso seguro a vistas                | Restringir acceso a las vistas sensibles dependiendo del rol del usuario                                        | 4                      | Harold Elías      | Done       |
+| TS01           | Endpoint para Crear Publicación de Tutoría  | T27                   | Crear endpoint para publicación de tutoría     | Crear el endpoint backend que permite a los tutores registrar publicaciones de tutorías                          | 6                      | Rodrigo Lopez     | Done       |
+|                |                                             | T28                   | Pruebas y validación de publicación de tutoría | Realizar pruebas de funcionalidad y seguridad para asegurar el correcto funcionamiento del endpoint              | 4                      | Harold Elías      | Done       |
+| TS03           | Endpoint para Actualizar Perfil del Tutor   | T31                   | Crear endpoint para actualización de perfil    | Implementar el endpoint que permite a los tutores actualizar la información de su perfil                         | 6                      | Eric Agama        | Done       |
+|                |                                             | T32                   | Pruebas de actualización de perfil             | Ejecutar pruebas de funcionalidad y seguridad en el endpoint de actualización de perfil                          | 4                      | Harold Elías      | Done       |
+
+
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 50f533f          | feat(tutoring): add tutoring feature merge                      | feat(tutoring): add tutoring feature merge                     | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |46362e4           | feat(tutorings): add interfaces layer for tutorings bounded context. | feat(tutorings): add interfaces layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |4185ce8           | feat(tutorings): add application layer for tutorings bounded context. | feat(tutorings): add application layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |b4796bf           | feat(tutorings): add infrastructure layer for tutorings bounded context. | feat(tutorings): add infrastructure layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | ea75228          | feat(tutorings): add domain layer for tutorings bounded context. | feat(tutorings): add domain layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |712edae           | feat(users): add interfaces layer for users bounded context.    | feat(users): add interfaces layer for users bounded context.   | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | ea1efb7          | feat(users): add application layer for users bounded context.   | feat(users): add application layer for users bounded context.  | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 7dd8afc          | feat(users): add infrastructure layer for users bounded context. | feat(users): add infrastructure layer for users bounded context. | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |cef8ac4           | feat(users): add domain layer for users bounded context.        | feat(users): add domain layer for users bounded context.       | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 8748bfd          | feat(shared): add interface layer for shared bounded context.   | feat(shared): add interface layer for shared bounded context.  | 24/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 39c8a0c          | feat(shared): add domain layer for shared bounded context.      | feat(shared): add domain layer for shared bounded context.     | 24/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | fe19017          | feat(shared): add infrastructure layer for shared bounded context. | feat(shared): add infrastructure layer for shared bounded context. | 24/10/2024        |
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Se realizó el despliegue del backend de TutorMatch en Railway, asegurando su funcionalidad y mejorando la experiencia del usuario. Ahora el servidor maneja eficientemente las solicitudes de la plataforma.
+
+| Repository                                                               | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|--------------------------------------------------------------------------|--------|----------|----------------|---------------------|------------------|
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | master | 3251d37  | Merge pull request #4 from SkillSwapINC/develop | Develop                    | 01/11/2024       |
+
+[Accede al Backend](https://humorous-wonder-production.up.railway.app/swagger-ui/index.html)
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+En resumen se ha mejorado visualmente la aplicación web, se ha implementado la vista estudiante, se mejoró la vista de tutores y se elaboró la primera version del backend
+
+Aqui se muestra una imagen del log in:
+
+<img src="Images/log-in-exc-evid.png"/>
+
+Aqui se muestra una imagen del sign up:
+
+<img src="Images/sign-up-exc-evid.png"/>
+
+Aqui se muestra una imagen de la vista del tutor:
+
+<img src="Images/tutor-view-exc-evid.png"/>
+
+Aqui se muestra una imagen de como el tutor puede agregar una tutoría:
+
+<img src="Images/add-new-tutoring-exc-evid.png"/>
+
+Aqui se muestra una imagen de como el estudiante al seleccionar un ciclo se muestre los cursos disponibles:
+
+<img src="Images/student-view-exc-evid.png"/>
+
+Aqui se muestra una imagen de como el estudiante puede ver mas a detalle el curso, pudiendo observar el horario disponible, costo e información adicional del curso:
+
+<img src="Images/student-view2-exc-evid.png"/>
+
+Aqui se evidencia como al contactarte con el tutor te redirije a tu correo para comunicarte con el tutor:
+
+<img src="Images/mail-image-ref.png"/>
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+<img src="Images/tb2_backend.jpg"/>
+
+## Tutoring Management Endpoints
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Tutoring | POST | No tiene | /api/v1/tutorings
+
+## Root Controller
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Root | GET | No tiene | /
+
+## User Management Endpoints
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Users | GET | No tiene | /api/v1/users
+Users | POST | No tiene | /api/v1/users
+Users by Role | GET | {role} | /api/v1/users/role/{role}
+User by Email | GET | {email} | /api/v1/users/email/{email}
+
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+A continuación se muestra capturas del deploy:
+
+<img src="Images/image-deploy-evidence1.png"/>
+
+<img src="Images/image-deploy-evidence2.png"/>
+
+Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+<img src="Images/sprint-3-insight-1.png"/>
+
+<img src="Images/sprint-3-insight-2.png"/>
+
+<img src="Images/sprint-3-insight-3.png"/>
+
+<img src="Images/sprint-3-insight-4.png"/>
+
+<img src="Images/sprint-3-insight-5.png"/>
+
+<img src="Images/sprint-3-insight-6.png"/>
+
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+
+¿Cuál es su nombre?
+
+¿En qué ciclo estas?
+
+Preguntas del landing page:
+
+¿Qué impresión general tienes de la Landing page de TutorMatch?
+
+¿La información presentada en la Landing page te parece clara y fácil de entender? ¿Por qué?
+
+¿Qué elementos cambiarías o mejorarías en la Landing page para mejorar tu experiencia de usuario?
+
+Preguntas de la aplicación web:
+
+¿Cómo describirías tu experiencia en la aplicación web de TutorMatch?
+
+¿Cómo calificarías la facilidad de uso de las herramientas en la aplicación web?
+
+¿Qué funcionalidades adicionales te gustaría ver en la aplicación web de TutorMatch?
+
+¿Tuviste algún problema o dificultad al usar la aplicación web?
+
+Preguntas sobre el proyecto:
+
+¿Crees que el equipo de Skillswap cumple con su misión de proporcionar una plataforma completa para los alumnos y tutores ?
+
+¿Recomendarías TutorMatch a otros usuarios? ¿Por qué?
+
+
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
+
+# TutorMatch - Evaluación de Heurísticas y Principios UX
+
+**Carrera**: Ingeniería de Software  
+**Curso**: Desarrollo de Aplicaciones Open Source  
+**Sección**: SW56  
+**Profesores**: Todos  
+**Grupo Auditor**: EcoMovil Squad  
+**Cliente**: SkillSwapINC  
+**Sitio o App a Evaluar**: TutorMatch
+
+## Escala de Severidad
+
+| Nivel | Descripción                                                                                                                                                                        |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | **Problema superficial**: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que haya disponibilidad de tiempo.      |
+| 2     | **Problema menor**: puede ocurrir con algo más de frecuencia o ser un poco más difícil de superar para el usuario. Debería tener baja prioridad para ser resuelto en la próxima versión. |
+| 3     | **Problema mayor**: ocurre frecuentemente o los usuarios no son capaces de resolverlo por sí mismos. Es importante corregirlo y asignarle una prioridad alta.                      |
+| 4     | **Problema muy grave**: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo corregirlo antes del lanzamiento.                      |
+
+## Tabla Resumen de Problemas
+
+| #  | Problema                                                      | Escala de Severidad | Heurística/Principio Violado                        |
+|----|---------------------------------------------------------------|----------------------|----------------------------------------------------|
+| 1  | La contraseña no está validada correctamente para 8 caracteres o más | 3                    | Usabilidad: Prevención de errores                   |
+| 2  | Opciones repetidas constantemente                             | 1                    | Usabilidad: Consistencia y estándares              |
+| 3  | Botón “Editar tutorías” sin funcionalidad                     | 4                    | Usabilidad: Retroalimentación del sistema          |
+| 4  | No hay un botón para borrar tutorías                          | 3                    | Usabilidad: Flexibilidad y eficiencia de uso       |
+| 5  | Falta de diseño responsivo adecuado                           | 3                    | Usabilidad: Diseño adaptable y receptivo           |
+| 6  | Falta de funcionalidad en la barra de búsqueda                | 2                    | Arquitectura de Información: ¿Es fácil de usar?    |
+
+## Descripción de Problemas y Recomendaciones
+
+### Problema #1: La contraseña no está validada correctamente para 8 caracteres o más
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Prevención de errores
+- **Descripción**: El sistema permite el registro de contraseñas que no cumplen con un mínimo de seguridad, ya que no se valida que tengan al menos 8 caracteres. Esto puede poner en riesgo la seguridad de las cuentas de los usuarios.
+- **Recomendación**: Implementar una validación de contraseña que exija un mínimo de 8 caracteres y recomiende el uso de letras mayúsculas, números, y caracteres especiales para mejorar la seguridad de las cuentas.
+
+### Problema #2: Opciones repetidas constantemente
+- **Severidad**: 1
+- **Heurística Violada**: Usabilidad - Consistencia y estándares
+- **Descripción**: Algunas opciones de navegación o acciones se repiten en varias secciones, lo que podría generar confusión o sobrecargar visualmente al usuario.
+- **Recomendación**: Revisar y consolidar las opciones redundantes, asegurando una estructura de navegación clara y evitando elementos duplicados innecesarios.
+
+### Problema #3: Botón “Editar tutorías” sin funcionalidad
+- **Severidad**: 4
+- **Heurística Violada**: Usabilidad - Retroalimentación del sistema
+- **Descripción**: El botón “Editar tutorías” no tiene funcionalidad asignada, lo que impide a los usuarios realizar cambios en la información de sus tutorías. Esto puede ser frustrante y limita el control del usuario sobre sus publicaciones.
+- **Recomendación**: Implementar la funcionalidad de edición para que los usuarios puedan actualizar o modificar los detalles de sus tutorías.
+
+### Problema #4: No hay un botón para borrar tutorías
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Flexibilidad y eficiencia de uso
+- **Descripción**: La falta de un botón para eliminar tutorías hace que los usuarios no puedan gestionar completamente sus publicaciones, lo cual limita la eficiencia y control sobre sus ofertas.
+- **Recomendación**: Añadir un botón de eliminación en la interfaz de tutorías para que los usuarios puedan borrar las publicaciones no deseadas.
+
+### Problema #5: Falta de diseño responsivo adecuado
+- **Severidad**: 3
+- **Heurística Violada**: Usabilidad - Diseño adaptable y receptivo
+- **Descripción**: La aplicación no se adapta correctamente a diferentes tamaños de pantalla, dificultando la navegación en dispositivos móviles y tablets.
+- **Recomendación**: Optimizar el diseño responsivo asegurando que todos los elementos y componentes se ajusten adecuadamente a pantallas pequeñas y medianas para mejorar la experiencia de usuario en dispositivos móviles.
+
+### Problema #6: Falta de funcionalidad en la barra de búsqueda
+- **Severidad**: 2
+- **Heurística Violada**: Arquitectura de Información - ¿Es fácil de usar?
+- **Descripción**: La barra de búsqueda no tiene funcionalidad implementada, lo que impide que los usuarios puedan realizar búsquedas rápidas y eficientes dentro de la aplicación.
+- **Recomendación**: Agregar funcionalidad a la barra de búsqueda para permitir que los usuarios encuentren contenido relevante de manera rápida, mejorando así la accesibilidad y usabilidad de la plataforma.
+
+
 ### 5.4. Video About-the-Product
+
+Para poder visualizar el video about de the product dirigirse a los anexos (Video About the Product).
 
 # Conclusiones
 ### Conclusiones y recomendaciones
@@ -1603,6 +1877,8 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 - **Monitoreo y mejora continua**: Una vez implementada la plataforma, se recomienda realizar encuestas regulares de satisfacción y análisis de datos de uso para identificar áreas de mejora, asegurando que la calidad del servicio siga cumpliendo con las expectativas de los usuarios.
 
 ### Video About-the-Team
+
+Para poder visualizar el video about de the team dirigirse a los anexos (Video About the Team).
 
 # Bibliografía
 
@@ -1636,8 +1912,10 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 - Link del repositorio del reporte: https://github.com/SkillSwapINC/TutorMatch-Report
 - Link del repositorio del Landing Page: https://github.com/SkillSwapINC/Landing-page
 - Link del repositorio del Frontend App: https://github.com/SkillSwapINC/TutorMatch-FrontendApp
+- Link del repositorio del Backend: https://github.com/SkillSwapINC/TutorMatch-Backend
 - Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
-- Link del web app desplegado: https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register
+- Link del web app desplegado: https://mango-bay-0b9369b1e.5.azurestaticapps.net/
+- Link del backend desplegado: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html#
 <br>
 
 Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -1645,3 +1923,12 @@ Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.
 Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
+- TB2: [VIDEO DE EXPOSICIÓN TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Efyso6IVjcBPvhrYvsoJW-gBFcASV7sZDWWYPHILbtUjUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rCQ5oy)
+
+Video About the Product:
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202212338_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212338%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw56%2Dskillswapinc%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed95b2fa3%2D3423%2D4072%2D9f3b%2D01221e867588)
+  - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint 3](https://youtu.be/cJOGwoCupBA)
+
+Video About the Team:
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202213358_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213358%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%2Dteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee409ae3a%2D9413%2D46cd%2Daafa%2D1486b0ef47f2)
+ - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://youtu.be/3uy713v3xp8)
