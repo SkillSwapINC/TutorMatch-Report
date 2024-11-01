@@ -1610,6 +1610,13 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
 | Corregir la documentacion del proyecto y terminar la primera version del backend cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
 
+### Sprint Goal
+
+El equipo de SkillSwap decidió ofrecer unas nuevas mejoras en el producto:
+
+Nuestro enfoque es ofrecer una experiencia personalizada para los usuarios.
+
+Nosotros pensamos que el acceso rápido a la interfaz es fundamental para que los usuarios puedan observar mas a detalle la aplicación web, ofreciendo una mejora en la vista de tutor e implementando la vista estudiante cumpliendo con los user stories registrados.
 
 ### 5.2.3.2. Sprint Backlog 3
 
