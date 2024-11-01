@@ -1730,10 +1730,15 @@ User by Email | GET | {email} | /api/v1/users/email/{email}
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+A continuación se muestra capturas del deploy:
 
+<img src="Images/image-deploy-evidence1.png"/>
+
+<img src="Images/image-deploy-evidence2.png"/>
+
+Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
-
 
 
 ### 5.3. Validation Interviews
