@@ -1857,6 +1857,8 @@ Preguntas sobre el proyecto:
 
 ### 5.4. Video About-the-Product
 
+Para poder visualizar el video about de the product dirigirse a los anexos (Video About the Product).
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
