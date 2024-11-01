@@ -1707,6 +1707,25 @@ Aqui se evidencia como al contactarte con el tutor te redirije a tu correo para 
 <img src="Images/mail-image-ref.png"/>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+<img src="Images/tb2_backend.jpg"/>
+
+## Tutoring Management Endpoints
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Tutoring | POST | No tiene | /api/v1/tutorings
+
+## Root Controller
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Root | GET | No tiene | /
+
+## User Management Endpoints
+**Endpoint** | **Operaciones** | **Parámetros** | **URL**
+--- | --- | --- | ---
+Users | GET | No tiene | /api/v1/users
+Users | POST | No tiene | /api/v1/users
+Users by Role | GET | {role} | /api/v1/users/role/{role}
+User by Email | GET | {email} | /api/v1/users/email/{email}
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
