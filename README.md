@@ -1650,17 +1650,20 @@ Link de trello: https://trello.com/b/y6Ip0Ool/sprint-3-tutormatch
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
-| Repository                                                            | Branch               | Commit Id | Commit Message                     | Commit Message Body                       | Commit on (Date) |
-|-----------------------------------------------------------------------|----------------------|-----------|------------------------------------|------------------------------------------|------------------|
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
-|  |               |    |         |  |  |
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 50f533f          | feat(tutoring): add tutoring feature merge                      | feat(tutoring): add tutoring feature merge                     | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |46362e4           | feat(tutorings): add interfaces layer for tutorings bounded context. | feat(tutorings): add interfaces layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |4185ce8           | feat(tutorings): add application layer for tutorings bounded context. | feat(tutorings): add application layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |b4796bf           | feat(tutorings): add infrastructure layer for tutorings bounded context. | feat(tutorings): add infrastructure layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | ea75228          | feat(tutorings): add domain layer for tutorings bounded context. | feat(tutorings): add domain layer for tutorings bounded context. | 31/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |712edae           | feat(users): add interfaces layer for users bounded context.    | feat(users): add interfaces layer for users bounded context.   | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | ea1efb7          | feat(users): add application layer for users bounded context.   | feat(users): add application layer for users bounded context.  | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 7dd8afc          | feat(users): add infrastructure layer for users bounded context. | feat(users): add infrastructure layer for users bounded context. | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  |cef8ac4           | feat(users): add domain layer for users bounded context.        | feat(users): add domain layer for users bounded context.       | 27/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 8748bfd          | feat(shared): add interface layer for shared bounded context.   | feat(shared): add interface layer for shared bounded context.  | 24/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 39c8a0c          | feat(shared): add domain layer for shared bounded context.      | feat(shared): add domain layer for shared bounded context.     | 24/10/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | fe19017          | feat(shared): add infrastructure layer for shared bounded context. | feat(shared): add infrastructure layer for shared bounded context. | 24/10/2024        |
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
