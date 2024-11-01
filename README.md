@@ -1739,7 +1739,17 @@ A continuación se muestra capturas del deploy:
 Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+<img src="Images/sprint-3-insight-1.png"/>
 
+<img src="Images/sprint-3-insight-2.png"/>
+
+<img src="Images/sprint-3-insight-3.png"/>
+
+<img src="Images/sprint-3-insight-4.png"/>
+
+<img src="Images/sprint-3-insight-5.png"/>
+
+<img src="Images/sprint-3-insight-6.png"/>
 
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
