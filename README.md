@@ -1596,7 +1596,7 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántññara, Harold Elías y Victor Meneses                   |
+| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
 
 | Sprint 3 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
