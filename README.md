@@ -1910,8 +1910,10 @@ Para poder visualizar el video about de the product dirigirse a los anexos (Vide
 - Link del repositorio del reporte: https://github.com/SkillSwapINC/TutorMatch-Report
 - Link del repositorio del Landing Page: https://github.com/SkillSwapINC/Landing-page
 - Link del repositorio del Frontend App: https://github.com/SkillSwapINC/TutorMatch-FrontendApp
+- Link del repositorio del Backend: https://github.com/SkillSwapINC/TutorMatch-Backend
 - Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
-- Link del web app desplegado: https://gray-coast-08a7f0a1e.5.azurestaticapps.net/Register
+- Link del web app desplegado: https://mango-bay-0b9369b1e.5.azurestaticapps.net/
+- Link del backend desplegado: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html#
 <br>
 
 Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -1919,6 +1921,7 @@ Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.
 Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
+- TB2: [VIDEO DE EXPOSICIÓN TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Efyso6IVjcBPvhrYvsoJW-gBFcASV7sZDWWYPHILbtUjUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rCQ5oy)
 
 Video About the Product:
   - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202212338_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212338%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw56%2Dskillswapinc%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed95b2fa3%2D3423%2D4072%2D9f3b%2D01221e867588)
