@@ -1596,19 +1596,19 @@ A continuación, se mostrará la colaboración grupal mediante GitHub Insights, 
 
 | Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
 |--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
-| 3      |  |   | Reunión Virtual en Discord   |  |                    |
+| 3      | 27/10/2024 | 9:00 am  | Reunión Virtual en Discord   | Rodrigo Lopez | Eric Agama, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
 
 | Sprint 3 - Review Summary                                                                 |
 |-------------------------------------------------------------------------------------------|
-|                        |
+| Se logró corregir la documentación y front-end en base a la retroalimentación que brindo el profesor en la segunda entrega, también con un avance del backend                        |
 
 | Sprint 3 - Retrospective Summary                                                          |
 |-------------------------------------------------------------------------------------------|
-|                                             |
+| Se logró cumplir con el objetivo del Sprint 3.                                            |
 
 | Sprint 3 Goal                                                                            | Sprint 3 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
-|                     |                  |                   |
+| Corregir la documentacion del proyecto y terminar la primera version del backend cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
 
 
 ### 5.2.3.2. Sprint Backlog 3
