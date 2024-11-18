@@ -2233,7 +2233,7 @@ Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
 - TB2: [VIDEO DE EXPOSICIÓN TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Efyso6IVjcBPvhrYvsoJW-gBFcASV7sZDWWYPHILbtUjUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rCQ5oy)
-- Trabajo Final: [VIDEO DE EXPOSICIÓN TF]()
+- Trabajo Final: [VIDEO DE EXPOSICIÓN TF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/ETfN8F0cPC9NnAYWzk70UqcB4xCQTGmm7_Wfxx96cD3fBQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Uj0TOZ)
 
 Video About the Product:
   - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212684_upc_edu_pe/EfJY37SdZwhOnvvLUaLU8rsBEUxQoBR9MZ0ZeHqEIns2kw?e=zCLZnj)
