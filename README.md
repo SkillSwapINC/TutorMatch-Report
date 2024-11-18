@@ -1824,6 +1824,56 @@ Como equipo pensamos que el acceso completo a una aplicación de calidad es fund
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+<img src="Images/endpoints_back1.png"/>
+<img src="Images/endpoints_back2.png"/>
+
+#### **Tutorings Management Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Tutorings           | GET             | No tiene            | `/api/v1/tutorings`                         |
+| Tutorings           | POST            | No tiene            | `/api/v1/tutorings`                         |
+| Tutoring by ID      | DELETE          | `{tutoringId}`      | `/api/v1/tutorings/{tutoringId}`            |
+| Tutoring by ID      | PATCH           | `{tutoringId}`      | `/api/v1/tutorings/{tutoringId}`            |
+| Tutoring by ID      | GET             | `{id}`              | `/api/v1/tutorings/{id}`                    |
+| Tutor Tutorings     | GET             | `{tutorId}`         | `/api/v1/tutor/{tutorId}/tutorings`         |
+
+#### **Authentication Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Sign-Up            | POST            | No tiene            | `/api/v1/authentication/sign-up`            |
+| Sign-In            | POST            | No tiene            | `/api/v1/authentication/sign-in`            |
+
+#### **Courses Management Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Courses            | GET             | `{cycle}`           | `/api/v1/courses/{cycle}`                   |
+
+#### **UsersAuth Management Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| UsersAuth          | GET             | No tiene            | `/api/v1/usersAuth`                         |
+| UserAuth by ID     | GET             | `{userAuthId}`      | `/api/v1/usersAuth/{userAuthId}`            |
+
+#### **Roles Management Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Roles              | GET             | No tiene            | `/api/v1/roles`                             |
+
+#### **Root Controller**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Root               | GET             | No tiene            | `/`                                         |
+
+#### **User Management Endpoints**
+| **Endpoint**       | **Operaciones** | **Parámetros**      | **URL**                                      |
+|---------------------|-----------------|---------------------|----------------------------------------------|
+| Users              | GET             | No tiene            | `/api/v1/users`                             |
+| Users              | POST            | No tiene            | `/api/v1/users`                             |
+| User by ID         | GET             | `{userId}`          | `/api/v1/users/{userId}`                    |
+| User by ID         | PATCH           | `{userId}`          | `/api/v1/users/{userId}`                    |
+| Users by Role      | GET             | `{role}`            | `/api/v1/users/role/{role}`                 |
+| User by Email      | GET             | `{email}`           | `/api/v1/users/email/{email}`               |
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
