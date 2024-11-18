@@ -1959,7 +1959,7 @@ Captura del deploy del backend swagger:
 
 Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
 
-Para acceder al video de las entrevistas: [upc-pre-202402-si729-sw56-skillswap-validation-sprint-4.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s).
+Para acceder al video de las entrevistas: [upc-pre-202402-si729-sw56-skillswapinc-validation-sprint-4.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s).
 
 ### 5.3.1 Diseño de Entrevistas
 
@@ -2221,21 +2221,24 @@ Para poder visualizar el video about de the team dirigirse a los anexos (Video A
 - Link del repositorio del Frontend App: https://github.com/SkillSwapINC/TutorMatch-FrontendApp
 - Link del repositorio del Backend: https://github.com/SkillSwapINC/TutorMatch-Backend
 - Link del landing page desplegado: https://skillswapinc.github.io/Landing-page/
-- Link del web app desplegado: https://mango-bay-0b9369b1e.5.azurestaticapps.net/
-- Link del backend desplegado: https://humorous-wonder-production.up.railway.app/swagger-ui/index.html#
+- Link del web app desplegado: https://blue-smoke-06922581e.5.azurestaticapps.net/
+- Link del backend desplegado: https://tutormatch-backend-production.up.railway.app/swagger-ui/index.html
 <br>
 
-Video de entrevistas: [VIDEO DE LAS ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video de entrevistas de needfinding: [VIDEO DE LAS ENTREVISTAS DE NEEDFINDING](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EbCJ5UCglWZAvkIvZgb6VDEB9DDN0VJ66bwpBl9hLrK4lA?e=Tphg1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Video de entrevistas de validación: [VIDEO DE LAS ENTREVISTAS DE VALIDACIÓN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s)
 
 Video de exposiciones:
 
 - Trabajo parcial: [VIDEO DE EXPOSICIÓN TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/EYpdXCqmsxZOr6gvzbBi4GkBF2n0X559PedxDaCVCmXIOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27jWfe)
 - TB2: [VIDEO DE EXPOSICIÓN TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Efyso6IVjcBPvhrYvsoJW-gBFcASV7sZDWWYPHILbtUjUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rCQ5oy)
+- Trabajo Final: [VIDEO DE EXPOSICIÓN TF]()
 
 Video About the Product:
-  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202212338_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202212338%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi729%2Dsw56%2Dskillswapinc%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed95b2fa3%2D3423%2D4072%2D9f3b%2D01221e867588)
-  - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint 3](https://youtu.be/cJOGwoCupBA)
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212684_upc_edu_pe/EfJY37SdZwhOnvvLUaLU8rsBEUxQoBR9MZ0ZeHqEIns2kw?e=zCLZnj)
+  - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-product-sprint 4](https://www.youtube.com/watch?v=5KSjEA8jqo8)
 
 Video About the Team:
-  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/personal/u202213358_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213358%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%2Dteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee409ae3a%2D9413%2D46cd%2Daafa%2D1486b0ef47f2)
- - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-3](https://youtu.be/3uy713v3xp8)
+  - Microsoft Stream: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/EVY1by5d-PlJh7Yv8KNFcY8Bh2dAycts6WtStvej8t-QRw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fELw61)
+ - YouTube: [upc-pre-202402-si729-sw56-skillswapinc-about-the-team-sprint-4](https://www.youtube.com/watch?v=xeEwiMTxNyc)
