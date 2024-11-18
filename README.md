@@ -1083,7 +1083,8 @@ El diagrama de contenedores muestra una vista de las relaciones entre la página
 ### 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-  <img src="Images/diagrama-clases.png"/>
+  <img src="Images/ClassDiagramUsers.png"/>
+  <img src="ClassDiagramTutorings.png"/>
   
 ### 4.7.2. Class Dictionary
 
