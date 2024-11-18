@@ -1934,39 +1934,130 @@ Captura del deploy del backend swagger:
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
   
-### 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
+### 5.3 Validation Interviews
 
-¿Cuál es su nombre?
+Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
 
-¿En qué ciclo estas?
+Para acceder al video de las entrevistas: [upc-pre-202401-si729-sw56-TutorMatch.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s).
 
-Preguntas del landing page:
+### 5.3.1 Diseño de Entrevistas
 
-¿Qué impresión general tienes de la Landing page de TutorMatch?
+Se realizaron entrevistas a personas representativas de nuestros segmentos objetivo, ajustando las preguntas según las particularidades de cada segmento y sus diferentes circunstancias.
 
-¿La información presentada en la Landing page te parece clara y fácil de entender? ¿Por qué?
+#### Segmento 1: Tutores
 
-¿Qué elementos cambiarías o mejorarías en la Landing page para mejorar tu experiencia de usuario?
+##### Preguntas de Introducción:
 
-Preguntas de la aplicación web:
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad y/o distrito reside?
+4. ¿Cuál es su ciclo y carrera?
 
-¿Cómo describirías tu experiencia en la aplicación web de TutorMatch?
+##### Preguntas Principales:
 
-¿Cómo calificarías la facilidad de uso de las herramientas en la aplicación web?
+1. ¿Qué tan fácil le resultó el proceso de registro en la plataforma?
+2. ¿Siente que la validación del correo institucional es una medida adecuada para asegurar la autenticidad de los usuarios?
+3. ¿Qué tan fácil fue para ti encontrar las tutorías disponibles en los distintos semestres?
+4. ¿Consideras que la organización de las tutorías por ciclo facilita la búsqueda de ayuda para tus cursos?
+5. ¿Te resultan claros los detalles de cada tutoría, como el precio, horarios y descripción?
+6. ¿Qué tan sencillo te pareció el proceso de solicitar una tutoría?
+7. ¿Te parece conveniente el redireccionamiento a Outlook para coordinar con el tutor? ¿Preferirías una opción de contacto directo dentro de la plataforma?
+8. ¿Sientes que la plataforma ofrece una buena variedad de tutores y materias para los primeros ciclos?
+9. ¿Consideras que el sistema de valoración te ayudaría a elegir mejor a un tutor?
+10. ¿Te gustaría tener un sistema de retroalimentación en el que puedas dejar una reseña sobre las tutorías recibidas?
+11. ¿Consideras que la plataforma cubre tus necesidades académicas? ¿Qué otras funciones te gustaría que se incluyeran?
 
-¿Qué funcionalidades adicionales te gustaría ver en la aplicación web de TutorMatch?
+#### Segmento 2: Estudiantes
 
-¿Tuviste algún problema o dificultad al usar la aplicación web?
+##### Preguntas de Introducción:
 
-Preguntas sobre el proyecto:
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué ciudad y/o distrito reside?
+4. ¿Cuál es su ciclo y carrera?
 
-¿Crees que el equipo de Skillswap cumple con su misión de proporcionar una plataforma completa para los alumnos y tutores ?
+##### Preguntas Principales:
 
-¿Recomendarías TutorMatch a otros usuarios? ¿Por qué?
+1. ¿Qué tan fácil te resultó el proceso de registro en la plataforma?
+2. ¿Sientes que la validación del correo institucional es una medida adecuada para asegurar la autenticidad de los usuarios?
+3. ¿Qué tan fácil fue para ti encontrar las tutorías disponibles en los distintos semestres?
+4. ¿Consideras que la organización de las tutorías por ciclo facilita la búsqueda de ayuda para tus cursos?
+5. ¿Te resultan claros los detalles de cada tutoría, como el precio, horarios y descripción?
+6. ¿Qué tan sencillo te pareció el proceso de solicitar una tutoría?
+7. ¿Te parece conveniente el redireccionamiento a Outlook para coordinar con el tutor? ¿Preferirías una opción de contacto directo dentro de la plataforma?
+8. ¿Sientes que la plataforma ofrece una buena variedad de tutores y materias para los primeros ciclos?
+9. ¿Consideras que el sistema de valoración te ayudaría a elegir mejor a un tutor?
+10. ¿Te gustaría tener un sistema de retroalimentación en el que puedas dejar una reseña sobre las tutorías recibidas?
+11. ¿Consideras que la plataforma cubre tus necesidades académicas? ¿Qué otras funciones te gustaría que se incluyeran?
 
+### 5.3.2 Registro de Entrevistas
 
-### 5.3.2. Registro de Entrevistas
+Para poder realizar el registro de entrevistas, se llevarán a cabo un total de 6 entrevistas, distribuidas en 3 entrevistas por cada segmento. Cada entrevista será grabada en formato .mp4 y se gestionará de manera independiente debido a las diferencias en las preguntas realizadas y las respuestas proporcionadas por los entrevistados de cada segmento.
+
+## Detalles de las Entrevistas
+
+### Segmento 1: Tutores
+
+| **Nombres y Apellidos:**  |           Mauricio Rojas                         |
+|-----------------------------------------|-------------------------------------|
+| **Edad:**                              | 20                                  |
+| **Distrito:**                          | Pueblo Libre                        |
+| ![Resumen de la Entrevista](Images/1_Tutores_Mauricio.png)          | Mauricio calificó el proceso de registro como fácil e intuitivo, aunque notó un glitch visual en el selector entre "Estudiante" y "Tutor" y mencionó la falta de retroalimentación visual al ingresar datos erróneos en el registro de la tarjeta. Indicó que los ciclos 9 y 10 no están disponibles, lo que representa una omisión importante. Valora las diferencias entre los planes de suscripción y la información mostrada al crear tutorías, pero cree que estas podrían personalizarse más, como agregar banners. Resaltó la conveniencia del redireccionamiento a Outlook para coordinar tutorías y sugirió implementar un sistema de retroalimentación de estudiantes hacia tutores. Consideró que la plataforma cumple con sus necesidades actuales. |
+| **Fecha:**                             | 12/11/2024                          |
+| **Intervalo de Tiempo:**               | 0:17 – 5:17                       |
+
+---
+
+| **Nombres y Apellidos:**  |    Gabriela Paredes                              |
+|--------------------------------------------|----------------------------------|
+| **Edad:**                                  | 24                               |
+| **Distrito:**                              | Rimac                            |
+| ![Resumen de la Entrevista](Images/2_Tutores_Gabriela.png)             | Gabriela destacó que el registro le pareció sencillo, aunque identificó un problema visual en el formulario y se confundió entre las pestañas de "Log In" y "Sign Up", lo que sugiere que esta área requiere mayor claridad. En cuanto a la creación de tutorías, mencionó que los campos como "¿Qué aprenderán?" y "Descripción del curso" carecen de diferenciación clara, lo que puede dificultar su uso. También experimentó restricciones al intentar agregar tutorías de ciclos superiores a los que registró, una limitación que consideró poco adecuada, dado que algunos estudiantes llevan cursos avanzados de manera anticipada. Sugirió incluir más imágenes para facilitar la comprensión de los planes de suscripción y una opción para agregar información adicional que aumente la credibilidad del tutor. Resaltó la utilidad de un sistema de retroalimentación por parte de los estudiantes y sugirió que los beneficios de los planes de suscripción se expliquen con mayor claridad. Gabriela valoró positivamente la comunicación mediante correo institucional y consideró el chat dentro de la plataforma una buena idea. |
+| **Fecha:**                                 | 11/11/2024                     |
+| **Intervalo de Tiempo:**                   | 5:22 – 8:31                     |
+
+---
+
+| **Nombres y Apellidos:**  | Alejandro Barturen                               |
+|-----------------------------------------------|-------------------------------|
+| **Edad:**                                     | 20                            |
+| **Distrito:**                                 | San Miguel                    |
+| ![Resumen de la Entrevista](Images/3_Tutores_Barturen.png)                 | Alejandro encontró la plataforma intuitiva y fácil de navegar. Resaltó la utilidad del sistema que valida los correos de la UPC para garantizar que los usuarios sean estudiantes de la institución. Consideró sencillo el registro de tutorías y propuso incorporar la opción de subir archivos para mejorar la comunicación con los estudiantes. También sugirió la creación de comunidades de aprendizaje dentro de la plataforma. Valoró positivamente la idea de recibir calificaciones y reseñas como tutor, ya que esto podría ayudar a los usuarios a elegir mejor. Alejandro destacó que la plataforma cumple con sus necesidades, pero considera importante mejorar las herramientas de comunicación y retroalimentación. |
+| **Fecha:**                                    | 10/11/2024                  |
+| **Intervalo de Tiempo:**                      | 8:38 – 12:52               |
+
+---
+
+### Segmento 2: Estudiantes
+
+| **Nombres y Apellidos:**  |   Renzo Guzmán                                |
+|------------------------------------------|----------------------------------|
+| **Edad:**                                | 19                               |
+| **Distrito:**                            | Miraflores                       |
+| ![Resumen de la Entrevista](Images/4_Estudiantes_Renzo.png)              | Renzo encontró el proceso de registro sencillo y valoró la validación del correo institucional como una medida adecuada. Aunque percibió intuitiva la búsqueda de tutorías por semestre, observó que los colores usados en las opciones "Estudiante" y "Tutor" no son claros, al igual que en la selección de semestres. Le gustaría que los estudiantes pudieran especificar horarios para las tutorías y considera importante un sistema de reseñas y calificaciones para elegir tutores de manera informada. Renzo valoró el redireccionamiento a Outlook como un medio conveniente para la comunicación, pero sugiere ampliar la oferta de cursos y agregar mecanismos para monitorear las calificaciones de los tutores. En general, la plataforma cubre sus necesidades, pero podría beneficiarse de estas mejoras. |
+| **Fecha:**                               | 11/11/2024                       |
+| **Intervalo de Tiempo:**                 | 12:56 – 17:41                  |
+
+---
+
+| **Nombres y Apellidos:**  |   Norka Híjar                                 |
+|------------------------------------------|----------------------------------|
+| **Edad:**                                | 20                               |
+| **Distrito:**                            | Pueblo Libre                     |
+| ![Resumen de la Entrevista](Images/5_Estudiantes_Norka.png)              | Norka describió el proceso de registro como fácil, aunque mencionó problemas con los colores y la traducción de botones como "Log In" y "Sign Up". Indicó que las letras que muestran los semestres tienen poca visibilidad por el color del fondo. Propuso que las tablas con horarios sean clicables y seleccionables, una funcionalidad que considera importante. Valoró positivamente la información detallada de las tutorías y el redireccionamiento a Outlook como un medio lógico y respetuoso para la comunicación. Norka sugirió implementar un sistema de retroalimentación para mejorar la calidad de las tutorías y permitir a los estudiantes ver las calificaciones de los tutores para tomar decisiones más informadas. |
+| **Fecha:**                               | 12/11/2024                       |
+| **Intervalo de Tiempo:**                 | 17:44 – 21:09           |
+
+---
+
+| **Nombres y Apellidos:**  | Harold Mayta                                     |
+|-----------------------------------------|-----------------------------------|
+| **Edad:**                               | 20                                |
+| **Distrito:**                           | Lince                             |
+| ![Resumen de la Entrevista](Images/6_Estudiantes_Harold.png)             | Harold consideró intuitivo el proceso de registro, pero indicó problemas de visibilidad debido a los colores de los botones de selección y los semestres. Sugirió agregar la opción de elegir horarios para las tutorías y señaló que algunos detalles, como los nombres de cursos y sus descripciones, no se traducen correctamente. Valoró la separación de cursos por semestre como una herramienta útil para encontrar ayuda. Propuso incorporar un sistema de retroalimentación y reseñas, junto con recompensas para los estudiantes frecuentes, como descuentos o beneficios adicionales. Aunque la plataforma satisface muchas de sus necesidades, considera que estas mejoras podrían optimizar aún más su
+| **Fecha:**                               | 13/11/2024                       |
+| **Intervalo de Tiempo:**                 | 21:14 – 24:49                 |
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 # TutorMatch - Evaluación de Heurísticas y Principios UX
