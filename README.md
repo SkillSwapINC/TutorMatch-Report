@@ -1938,7 +1938,7 @@ Captura del deploy del backend swagger:
 
 Para validar la solución implementada, se realizan entrevistas a candidatos pertenecientes a los segmentos objetivo con el fin de evaluar su nivel de satisfacción y aceptación hacia el producto futuro.
 
-Para acceder al video de las entrevistas: [upc-pre-202401-si729-sw56-TutorMatch.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s).
+Para acceder al video de las entrevistas: [upc-pre-202401-si729-sw56-TutorMatch-validation-sprint-4.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EXjEVZqbRERFs5e8-AuX3rEBeLYZ1eKOZbLEU6kZKgfhHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AGEN0s).
 
 ### 5.3.1 Diseño de Entrevistas
 
