@@ -1803,6 +1803,7 @@ Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railwa
 | US17           | Soporte Técnico Eficiente            | T39               | Configurar sistema de tickets    | Implementar un sistema para que estudiantes y tutores puedan reportar problemas mediante tickets.         | 6                      | Rodrigo Alcántara       | Done    |
 |                |                                       | T40               | Automatizar priorización de tickets | Crear una funcionalidad que clasifique los tickets según el plan de suscripción y urgencia.               | 5                      | Eric Agama       | Done    |
 
+link del trello : https://trello.com/b/cRHduKyK/trello-agile-sprint-board-template
 
 ### 5.2.4.3. Development Evidence for Sprint Review
 
