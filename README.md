@@ -1921,7 +1921,20 @@ Preguntas sobre el proyecto:
 
 ### 5.4. Video About-the-Product
 
-Para poder visualizar el video about de the product dirigirse a los anexos (Video About the Product).
+En esta sección se presenta un video explicativo sobre el producto desarrollado. El objetivo del video es resaltar las principales características, funcionalidades y beneficios del producto, permitiendo a los usuarios tener una mejor comprensión de su propósito y usabilidad.
+
+<img src="Images/aboutproduct.png" alt="Screenshot del video" />
+
+A continuación, se proporcionan enlaces a las plataformas donde el video ha sido subido, junto con una captura de pantalla del mismo:
+
+| **Plataforma**         | **Enlace al Video**                                                                                          |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Microsoft Stream**    | [Ver video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212684_upc_edu_pe/EfJY37SdZwhOnvvLUaLU8rsBEUxQoBR9MZ0ZeHqEIns2kw?e=zCLZnj) |
+| **YouTube**             | [Ver video en YouTube](https://youtu.be/5KSjEA8jqo8)                                                       |
+|**Duración del Video:**  | 1:22 minutos  
+
+
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
