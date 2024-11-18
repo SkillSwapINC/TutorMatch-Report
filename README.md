@@ -1805,6 +1805,19 @@ Como equipo pensamos que el acceso completo a una aplicación de calidad es fund
 
 ### 5.2.4.3. Development Evidence for Sprint Review
 
+| Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 09685c8   | feat(tutorings): add patchMapping to TutoringSessionController | feat(tutorings): add patchMapping to TutoringSessionController | 13/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 0f9cb94   | feat(tutorings): create UpdateTutoringSession assembler        | feat(tutorings): create UpdateTutoringSession assembler        | 13/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 35fc3de   | feat(tutorings): create UpdateTutoringSession resource         | feat(tutorings): create UpdateTutoringSession resource         | 13/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 5a7119a   | feat(tutorings): add UpdateTutoring handle                     | feat(tutorings): add UpdateTutoring handle                     | 14/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 0e6ccca   | feat(tutorings): add UpdateTutoringSessionAttributes to TutoringSession | feat(tutorings): add UpdateTutoringSessionAttributes to TutoringSession | 14/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 1349575   | feat(tutorings): update UpdateTutoringCommand                 | feat(tutorings): update UpdateTutoringCommand                 | 14/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 16342fe   | feat(tutorings): add UpdateTutoringCommand record              | feat(tutorings): add UpdateTutoringCommand record              | 14/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 29ce681   | feat(tutorings): add GetAllTutoringsByTutorId record for retrieving tutoring sessions by tutor ID. | feat(tutorings): add GetAllTutoringsByTutorId record for retrieving tutoring sessions by tutor ID. | 15/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | f7446aa   | feat(tutorings): add GetTutoringById record for retrieving tutoring session by ID. | feat(tutorings): add GetTutoringById record for retrieving tutoring session by ID. | 15/11/2024        |
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | develop  | 403ba45   | refactor(users): refactor put mapping to patch mapping.        | refactor(users): refactor put mapping to patch mapping.        | 15/11/2024        |
+
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
