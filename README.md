@@ -1794,6 +1794,18 @@ Como equipo pensamos que el acceso completo a una aplicación de calidad es fund
 
 ### 5.2.4.2. Sprint Backlog 4
 
+| **User Story** | **Title**                             | **Work-Item / Task** | **Title**                        | **Description**                                                                                         | **Estimation (Hours)** | **Assigned To** | **Status**   |
+|----------------|---------------------------------------|----------------------|----------------------------------|---------------------------------------------------------------------------------------------------------|------------------------|----------------|--------------|
+| US03           | Visualización de Horarios Disponibles del Tutor | T33               | Crear modelo de horarios         | Diseñar el modelo de datos para almacenar horarios disponibles de los tutores.                          | 5                      | Rodrigo Lopez       | Done    |
+|                |                                       | T34               | Implementar interfaz de usuario  | Desarrollar la vista para que los estudiantes puedan ver y seleccionar horarios disponibles.             | 6                      | Eric Agama       | Done    |
+| US05           | Plataforma de Pagos para Tutores     | T35               | Integrar pasarela de pagos       | Configurar e integrar un servicio de pago seguro en la plataforma.                                       | 8                      | Eric Agama       | Done    |
+|                |                                       | T36               | Implementar validación de pagos  | Desarrollar lógica para validar pagos exitosos y registrar el estado en la base de datos.                | 4                      | Rodrigo Lopez       | Done    |
+| US12           | Gestión de Planes de Suscripción para Tutores | T37               | Crear CRUD de planes de suscripción | Diseñar e implementar las operaciones CRUD para gestionar planes de suscripción en la plataforma.         | 7                      | Victor Meneses      | Done    |
+|                |                                       | T38               | Configurar selector de planes    | Crear una interfaz que permita a los tutores seleccionar su plan de suscripción preferido.               | 6                      | Harold Ellias       | Done    |
+| US17           | Soporte Técnico Eficiente            | T39               | Configurar sistema de tickets    | Implementar un sistema para que estudiantes y tutores puedan reportar problemas mediante tickets.         | 6                      | Rodrigo Alcántara       | Done    |
+|                |                                       | T40               | Automatizar priorización de tickets | Crear una funcionalidad que clasifique los tickets según el plan de suscripción y urgencia.               | 5                      | Eric Agama       | Done    |
+
+
 ### 5.2.4.3. Development Evidence for Sprint Review
 
 | Repository                                                            | Branch   | Commit Id | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
