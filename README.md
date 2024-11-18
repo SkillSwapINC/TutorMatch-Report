@@ -155,6 +155,16 @@ Para el desarrollo del proyecto, se ha empleado la herramienta GitHub para gesti
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)     
 
+    - [5.2.4. Sprint 4](#523-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+        
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1767,6 +1777,44 @@ Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railwa
 
 <img src="Images/sprint-3-insight-6.png"/>
 
+### 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+
+| Sprint | Date       | Time      | Location                    | Prepared by       | Attendees                                                                 |
+|--------|------------|-----------|-----------------------------|-------------------|---------------------------------------------------------------------------|
+| 4      | 07/11/2024 | 10:00 am  | Reunión Virtual en Discord   | Eric Agama | Rodrigo Lopez, Rodrigo Alcántara, Harold Elías y Victor Meneses                   |
+
+| Sprint 4 - Review Summary                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Se logró corregir la documentación en base a la retroalimentación brindada por el profesor en el sprint 3, también se culminó con la versión final del backend                      |
+
+| Sprint 4 - Retrospective Summary                                                          |
+|-------------------------------------------------------------------------------------------|
+| Se logró cumplir con el objetivo del Sprint 4.                                         |
+
+| Sprint 4 Goal                                                                            | Sprint 4 Velocity | Sum of Story Points |
+|------------------------------------------------------------------------------------------|-------------------|---------------------|
+|                    |                 |             |
+
+Nuestro enfoque es terminar la versión final del backend del proyecto para así brindar una buena experiencia a los usuarios de TutorMatch
+
+Como equipo pensamos que el acceso completo a una aplicación de calidad es fundamental para expandir nuestros usuarios, logrando obtener una mayor popularidad, por eso hemos mejorado el landing page y la aplicación web.
+
+
+### 5.2.4.2. Sprint Backlog 4
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+  
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
