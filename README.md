@@ -36,6 +36,7 @@ width=50%"/>
 | 1.1     | 8/09/2024  |    SkillSwapINC       | Se añadieron y corrigieron los puntos pendientes del trabajo.                               |
 | 1.2     | 25/09/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 2 |
 | 1.3     | 15/10/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 3 |
+| 1.4     | 18/11/2024 |    SkillSwapINC      | Se añadieron y corrigieron los puntos pendientes del trabajo. Aparte de agregar el sprint 4 |
 
 ### Project Report Collaboration Insights
 
