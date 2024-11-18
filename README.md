@@ -1867,6 +1867,23 @@ Como equipo pensamos que el acceso completo a una aplicación de calidad es fund
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Se adjunta evidencia del deploy del backend, incluyendo el link : https://tutormatch-backend-production.up.railway.app/swagger-ui/index.html
+
+Capturas del grupo de recursos de azure:
+
+<img src="Images/azure-deploy-evidence1-tf.png"/>
+
+<img src="Images/azure-deploy-evidence2-tf.png"/>
+
+Capturas de los build logs del deploy en la plataforma Railway
+
+<img src="Images/build-logs-railway-evidence-tf.png"/>
+
+Captura del deploy del backend swagger:
+
+<img src="Images/deploy-backend-swagger-evidence-tf.png"/>
+
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
   
 ### 5.3. Validation Interviews
