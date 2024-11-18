@@ -1814,8 +1814,8 @@ Se realizó el despliegue del backend de TutorMatch en Railway, al igual que el 
 
 | Repository                                                               | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |--------------------------------------------------------------------------|--------|----------|----------------|---------------------|------------------|
-| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | master | 948cc12| Merge pull request [#13](https://github.com/SkillSwapINC/TutorMatch-Backend/pull/13) from SkillSwapINC/develop | Develop                    | 17/11/2024       |
-| [TutorMatch-FrontEnd](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master |935f2a0|Merge pull request [#35](https://github.com/SkillSwapINC/TutorMatch-FrontendApp/pull/35) from SkillSwapINC/release | Develop    | 17/11/2024       |
+| [TutorMatch-Backend](https://github.com/XaerickSReborn/TutorMatch-Backend) | master | 948cc12| Merge pull request [#13](https://github.com/SkillSwapINC/TutorMatch-Backend/pull/13) from SkillSwapINC/develop | Develop                    | 17/11/2024       |
+| [TutorMatch-FrontEnd](https://github.com/XaerickSReborn/TutorMatch-Frontend) | master |935f2a0|Merge pull request [#35](https://github.com/SkillSwapINC/TutorMatch-FrontendApp/pull/35) from SkillSwapINC/release | Develop    | 17/11/2024       |
 
 [Accede al Backend](https://tutormatch-backend-production.up.railway.app/swagger-ui/index.html)
 [Accede al FrontEnd](https://blue-smoke-06922581e.5.azurestaticapps.net/)
