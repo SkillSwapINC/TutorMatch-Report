@@ -1785,11 +1785,9 @@ Aqui se adjunta el link del deploy: https://humorous-wonder-production.up.railwa
 
 | Sprint 4 Goal                                                                            | Sprint 4 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
-|                    |                 |             |
+| Nuestro enfoque es terminar la versión final del backend del proyecto para así brindar una buena experiencia a los usuarios de TutorMatch, como equipo pensamos que el acceso completo a una aplicación de calidad es fundamental para expandir nuestros usuarios, logrando obtener una mayor popularidad, por eso hemos mejorado el landing page y la aplicación web.                   |      4           |      14       |
 
-Nuestro enfoque es terminar la versión final del backend del proyecto para así brindar una buena experiencia a los usuarios de TutorMatch
 
-Como equipo pensamos que el acceso completo a una aplicación de calidad es fundamental para expandir nuestros usuarios, logrando obtener una mayor popularidad, por eso hemos mejorado el landing page y la aplicación web.
 
 
 ### 5.2.4.2. Sprint Backlog 4
