@@ -1810,6 +1810,16 @@ Como equipo pensamos que el acceso completo a una aplicación de calidad es fund
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+Se realizó el despliegue del backend de TutorMatch en Railway, al igual que el despliegue del FrontEnd arreglando los errroes, de esa manera asegurando su funcionalidad y mejorando la experiencia del usuario. Ahora el servidor maneja eficientemente las solicitudes de la plataforma.
+
+| Repository                                                               | Branch | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|--------------------------------------------------------------------------|--------|----------|----------------|---------------------|------------------|
+| [TutorMatch-Backend](https://github.com/SkillSwapINC/TutorMatch-Backend) | master | 948cc12| Merge pull request [#13](https://github.com/SkillSwapINC/TutorMatch-Backend/pull/13) from SkillSwapINC/develop | Develop                    | 17/11/2024       |
+| [TutorMatch-FrontEnd](https://github.com/SkillSwapINC/TutorMatch-FrontendApp) | master |935f2a0|Merge pull request [#35](https://github.com/SkillSwapINC/TutorMatch-FrontendApp/pull/35) from SkillSwapINC/release | Develop    | 17/11/2024       |
+
+[Accede al Backend](https://tutormatch-backend-production.up.railway.app/swagger-ui/index.html)
+[Accede al FrontEnd](https://blue-smoke-06922581e.5.azurestaticapps.net/)
+
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 En resumen se ha mejorado visualmente la aplicación web, se ha implementado la vista estudiante, se mejoró la vista de tutores y se elaboró la primera version del backend
