@@ -1224,7 +1224,7 @@ Claro, aquí tienes el formato en Markdown:
 ### 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="Images/diagrama-basedatos.png"/>
+<img src="Images/DatabaseDiagram.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
