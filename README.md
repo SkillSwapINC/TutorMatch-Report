@@ -1387,7 +1387,7 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 
 | Sprint 1 Goal                                                                            | Sprint 1 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
-| Desarrollar la documentación del proyecto y elaborar el landing page.                    | 5                 | 13                  |
+|    Nuestro enfoque es desarrollar la primera versión de la documentación del proyecto y la elaboración del landing page, como equipo hemos llegado a la conclusión la importancia de el cumplimiento del landing page, pues es donde los potenciales usuarios tendran primer contacto con el proyecto                | 5                 | 13                  |
 
 
 ### 5.2.1.2. Sprint Backlog 1
@@ -1489,8 +1489,7 @@ A continuacion, se muestran las evidencias de la colaboración del equipo durant
 
 | Sprint 2 Goal                                                                            | Sprint 2 Velocity | Sum of Story Points |
 |------------------------------------------------------------------------------------------|-------------------|---------------------|
-| Corregir la documentacion del proyecto y terminar la primera version de la aplicación cumpliendo con los user stories y product backlog.                    | 5                 | 13                  |
-
+|  Nuestro enfoque es corregir la documentacion del proyecto en base a la retroalimentación brindada por el profesor, también como equipo hemos implementado la primera versión de la aplicacion web cumpliendo con los user stories y product backlog                   | 5                 | 13                  |
 
 ### 5.2.2.2. Sprint Backlog 2
 
