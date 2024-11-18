@@ -1945,6 +1945,12 @@ Captura del deploy del backend swagger:
 
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<img src="Images/commits_sprint4_front.png" />
+<img src="Images/commits2_sprint4_front.png" />
+<img src="Images/commits3_sprint4_back.png" />
+<img src="Images/commits4_sprint4_back.png" />
+<img src="Images/commits5_sprint4_back.png" />
   
 ### 5.3 Validation Interviews
 
